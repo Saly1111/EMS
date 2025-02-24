@@ -224,7 +224,6 @@ Při průběhu RTG jde lékař do vedlejší místnosti
 RTG je jeden z nejpoužívanějších přístrojů u EMS vůbec. K tomuto přístroji asi není pořádně co říkat, všichni ho znají, všichni ví, k čemu se používá. Ale i přes to, něco si k němu řekneme.
 RTG se používá k pozorování kostních struktur, případně k nalezení cizích tělísek vyšší hustoty v těle. Pokud tedy potřebujete vědět, jestli má pacient např. zlomenou nohu, použijete RTG. Stejně tak jej použijete pro zjištění projektilu v těle či jiného materiálu. Ovšem nezjistíte stav tkání ani stav chrupavek. Dále na RTG neuvidíte dřevěné předměty, nebo třeba sklo. Taktéž jím nejde zjistit vnitřní krvácení.
 
- ![rtg1](https://cdn.discordapp.com/attachments/762807292172435456/1343658798036025416/1WnwXoEr3wwrcZ1A82kDYEqMHvM6e8CwcHCpqlIKyD3P_81j9lxe4ylIXzKqFzRY.png?ex=67be1345&is=67bcc1c5&hm=8aa7eb0d803c3905e199f5e9b5f82b874bcbd595491f10460d27907b26012d09&)
  ![rtg2](https://cdn.discordapp.com/attachments/762807292172435456/1343658816801214494/1KfVMfkjE9mW6Q2cCbmhhtxw3_xDfJ98AwtWDxSYuMAVZ0pnBJ4C9CD4ASGhjIA.png?ex=67be1349&is=67bcc1c9&hm=5523ebb0b907452525c06bfd28a224a06b1cb4b0b839c105877f03770f36dd3b&)
  
 ### CT - Computed tomography
@@ -246,7 +245,6 @@ k prohlížení orgánů a jejich zranění
 k zjišťování vnitřního krvácení
 k prohlížení složitějších fraktur, zvláště v oblasti kloubů
 
-![ct1](https://media.discordapp.net/attachments/762807292172435456/1343658832852947034/1UVrnEPNnu0KHOlqfAzkMH3Xf6xT0QIQCtG37mMcep53G37HvYj622F-ZVG7jtA.png?ex=67be134d&is=67bcc1cd&hm=8dc380341b3666f3cdd0004461c6d6b779f5009c05ca5141f4168484549a05c0&=&format=webp&quality=lossless)
 ![ct2](https://media.discordapp.net/attachments/762807292172435456/1343658845859348600/1S2CsY6zPMq4BFzZEyCG88XizVXOFl1qUSM3KGxJDtJW_Zk341ubefY8XHA7ZOQ.png?ex=67be1350&is=67bcc1d0&hm=f7acb91fe97db5a8c7e38e521bfb92eef3be5fc1787670c1944cae54c976b91e&=&format=webp&quality=lossless)
 
 ### MRI - Magnetická rezonance
@@ -270,7 +268,7 @@ nemožnost využití při přítomnosti kovových tělíscích v těle
 nemožnost využití při větším množství tattoo na těle
 
 ![mr1](https://media.discordapp.net/attachments/762807292172435456/1343658860342153228/1a047eww1Pn1mmxlCdyUq9qpWvWU5HCSQLHQiFyYAbjZ8mF-WzSiyaY2gp6K45w.png?ex=67be1354&is=67bcc1d4&hm=9678a953e8caa47da8b87fa8a28a3cf604a8469fe4c92d7c181bf065b04b813c&=&format=webp&quality=lossless)
-![mr2](https://media.discordapp.net/attachments/762807292172435456/1343658876620378142/1jd0dWE0HgxBIOgLB5csTG0ZCo1AJU8lwzr4VaKKruk0cHTW0W-pj1IZVrHuUDg.png?ex=67be1358&is=67bcc1d8&hm=5d5c4d7b0d06a7cec981438b488c39e80ec9efd595c45478672bdde10e069bdd&=&format=webp&quality=lossless) 
+
 
 ### Sonografie
 Neboli ultrazvuk, před použitím natřete sondu sonogelem.<br>
@@ -352,6 +350,7 @@ Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
 ### Vakuová matrace
 - stabilizace a fixace celého těla pacienta
 - tepelně izoluje
+
 ![vm](https://media.discordapp.net/attachments/762807292172435456/1343658995289686247/1dVlOcUEgX98LNdHhsfDAJeQ7ZUl1_AJAxBCvIbBHogfUlElkiVM-8xZyA01Ixg.png?ex=67be1374&is=67bcc1f4&hm=a352ee92b3338ca2bbf23507195ca087ca4129c77d8153485a1813bb4813f2b7&=&format=webp&quality=lossless)
 
 ### Stetoskop
@@ -541,6 +540,8 @@ Použití:
 
 - Fyziologický roztok (FR, fýzák):  Jedná se o roztok chloridu sodného. Slouží k rehydrataci a k ředění léků podávaných skrze I.V. (intravenózní vstup, nitrožilně). Standardně se využívá 200/500/1 000ml
  
+![fyzak](https://media.discordapp.net/attachments/762807292172435456/1343658275341733980/1ztWrX2VVGaOtDcNILBUUNEftrXu-Tdoruv-roSVuShvmF2rL5cP4m60nn2bHsQs.png?ex=67be12c8&is=67bcc148&hm=ef511b475b8e9292341c2259f36aa80dd1b30c8ebdfb713355b50eb42592b4aa&=&format=webp&quality=lossless)
+
 #### Plasmalyte roztok
 Použití:
 - náhrada tekutin (při dehydrataci, šokových stavech - anafylaktický šok, hypovolemický,...)
@@ -573,6 +574,7 @@ Venózní krev - krev získaná z vény (žíly) - možná místa vpichu: v loke
 - krevní skupina se dá zjistit pomocí krevních odběrů
 - níže vidíte, kterou krev pacient s jakou krevní skupinou může přijmout v případě, že ji potřebuje (např. ztratí hodně krve)
 
+![krev](https://media.discordapp.net/attachments/762807292172435456/1343659058787516588/1fFJEIr-Q1dA8iPOZ02xw8PP7UU1ojW_0O8ql9IOUC4Eynkf_9WNHe0rX5NsTSw.png?ex=67be1383&is=67bcc203&hm=29fcbaa2a07cec5073325d88ec99e4273c8fc0c01b340cdd2b244e438bc3a065&=&format=webp&quality=lossless&width=641&height=640)
 
 
 ## ABCDE označuje anglická slova:
@@ -587,8 +589,12 @@ ABCDE postup označuje systematický přístup ke kriticky nemocným anebo poran
 **Cíle postupu ABCDE:** <br>
 Poskytnout podporu selhávajícím životním funkcím!
 Rozdělit celkovou situaci do menších částí, které je možné lépe zvládnout!
-Získat čas na stanovení definitivní diagnózy!
+Získat čas na stanovení definitivní diagnózy!<br>
+
+
 Je více než vhodné, aby jste se při kontaktu s pacientem drželi systematicky tohoto postupu. Tím bude zajištěno, že ty nejzávažnější stavy budou odhaleny včas a v pořadí, v němž kriticky nemocného pacienta ohrožují na životě. V každém hlavním bodě abecedy je několik dalších výkonů, které s konkrétní problematikou souvisí.
+
+![abcde](https://media.discordapp.net/attachments/1299439903616012309/1299439957164822548/unknown.png?ex=67be0c44&is=67bcbac4&hm=982f6d21b7365d94c84c89a64c7e76e450290931ce4340e142006de722e5680d&=&format=webp&quality=lossless&width=477&height=640)
 
 ## SUTURA - šití
  
@@ -1018,6 +1024,8 @@ Tenzní pneumotorax je třeba ošetřit okamžitě – nejprve snížíme intrap
 **Poučit pacienta:** nepotlačovat kašel - hlen musí ven – přitlačte si polštář k hrudníku během kašle spaní na zádech v polosedu, ne na břiše! nepijte alkohol a nekuřte rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu <br>
 
 
+![pneumo](https://media.discordapp.net/attachments/762807292172435456/1343663752402440212/image.png?ex=67be17e2&is=67bcc662&hm=d02efd5f8941e6fa6d850140871a706dda41e0c3dc6073525c4e1257f8b72bf8&=&format=webp&quality=lossless)
+
 
 ## Akutní mozková poranění
 
@@ -1178,6 +1186,8 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 
 - KPR se provádí pravidelným stlačováním středu hrudní kosti o 4 – 5 cm směrem k páteři Je velmi důležité po každém stlačení zcela uvolnit tlak na hrudní kost, aby se mohlo srdce a plíce znovu naplnit krví. Zápěstí horní ruky se položí přes spodní a hrudní kost se stlačuje dolů. Je možné si proplést prsty. Masáž provádíme frekvencí 100 za minutu, to je téměř dvě stlačení za sekundu
 
+![kpr](https://media.discordapp.net/attachments/762807292172435456/1343663532423516282/image.png?ex=67be17ae&is=67bcc62e&hm=841bbfa9201a9f1eea89e2ef283e932a26f0b1ce314bc4dc013ea84ed3b1c111&=&format=webp&quality=lossless)
+
 
 
 ### Resuscitace dětí 
@@ -1187,7 +1197,10 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 
 - zahájíme resuscitaci v poměru 30 stlačení a dva dechy. Hloubka stlačení je u dětí asi třetina hloubky hrudníku
 
+### Stabilizovaná poloha
+- zajištuje průchodnost dýchacích cest, umožnuje volné dýchání, vyčištění horníchdýchacích cest a zamezuje případnému vdechnutí zvratků.
 
+![stabpol](https://media.discordapp.net/attachments/1299439903616012309/1299441003769630763/image.png?ex=67bd647d&is=67bc12fd&hm=56d5c549df62c5c1131298ef25552a1da6354b2f8f2a5851baf97c9d86f43c05&=&format=webp&quality=lossless)
 
 ## Šok 
 
@@ -1222,7 +1235,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 
 - operační tým používá i sterilní empíry, operační čepice, ústenky, obuv a sterilní operační rukavice.  
 
-
+![tym](https://media.discordapp.net/attachments/762807292172435456/1343665734282252369/image.png?ex=67be19bb&is=67bcc83b&hm=4e4de29e2042ea4661f02219a834ced0e6644e1217dc5acc61fc2d4062fe0aa2&=&format=webp&quality=lossless)
 
 
 
@@ -1330,7 +1343,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 - starají se o materiál a nástroje potřebné k operaci a také mohou asistovat chirurgovi 
 - sálové sestry se specializují v různých chirurgických oborech
 
-
+![sal](https://media.discordapp.net/attachments/762807292172435456/1343659047160643624/11mGOZVLRDhPwhx6P8x0ZEsyIc0Pkhz4FvSQq-2Os7ZDXtw092g3x4Z04NeC-VA.png?ex=67be1380&is=67bcc200&hm=e3cca72624f2c891f4f990b1edda88663dd53c549aff87d9e8f4817390a77147&=&format=webp&quality=lossless) 
 
 ## Operační sál
 
@@ -1374,6 +1387,8 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 ##### Dýhy 
  - k posílení jiných druhů obvazů
 
+![prevaz](https://media.discordapp.net/attachments/762807292172435456/1343666465147977768/image.png?ex=67be1a69&is=67bcc8e9&hm=72508df0ac954756fa447fca42104a66cbd4c25f7fc071964cd640d1644a0db3&=&format=webp&quality=lossless)
+
 
 ## Šicí materiály
 
@@ -1410,12 +1425,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 - monofilamentní steh, který se vstřebává velmi pomalu
 
 
-
-
-
-
-
-
+![atraumsiti](https://media.discordapp.net/attachments/762807292172435456/1343659127561392180/1Wj83grXm3XGG72yC1JafJ3I-XL-66XwzLI7HowhQ2H_05NsVXir5EH-JIx3YaQ.png?ex=67be1393&is=67bcc213&hm=dff921d15592d801e8c7a4996aeb3c92bf767322dae4959ad53cc95a660436f7&=&format=webp&quality=lossless)
 
 
 
@@ -1447,7 +1457,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 - v plastické a oční chirurgii. 
 
 
-
+![siti jehla](https://media.discordapp.net/attachments/762807292172435456/1343659139565355111/1B6Kou3nAKbNHGtY9t7fmNvR2ZL47_fPZt-u3_t8_Sg-veLP5Tb--Jms_F0EFrQ8.png?ex=67be1396&is=67bcc216&hm=520d8dd41b83c970668a3e4a901476a8619a0bbc37b456cddc200e486c2d9d35&=&format=webp&quality=lossless)
 
 
 
@@ -2170,6 +2180,33 @@ opioidy
 
 
 ## Aplikace celkových anestetik
+
+##### Intravenózní vstup
+**I.V.** - intravenózně = zavedení léčiv, roztoků, krve přímo do žíly, nitrožilně
+
+##### Zavedení intravenózního (IV) vstupu:
+
+##### Příprava
+Umyjte si ruce a oblečte si sterilní rukavice. 
+Připravte si potřebné vybavení: IV katétr, antiseptický prostředek, sterilní obvazy a bandáže, a infuzní roztok. 
+
+##### Výběr místa: 
+Vyberte vhodnou žílu (nejčastěji v oblasti paže nebo ruky). Zkontrolujte, zda je žíla dobře prohmatatelná a vizuálně viditelná, v případě že žíla není vizualně dobře viditelná je možno užít kupříkladu latexového škrtidla.
+
+##### Dezinfekce: 
+Dezinfikujte místo vpichu antiseptickým prostředkem a nechte zaschnout. 
+
+##### Zavedení katétru: 
+Uchopte jehlu katétru a jemně ji zaveďte do žíly pod úhlem přibližně 15-30 stupňů. Jakmile pocítíte „píchnutí“ a uvidíte návrat krve do katétru, opatrně posuňte katétr dál a jehlu vyjměte. 
+
+##### Kontrola: 
+Ujistěte se, že katétr je správně umístěn a není v kontaktu s okolními tkáněmi. Připojte infuzní roztok a nastavte rychlost infuze podle potřeby. 
+
+##### Fixace 
+Katétr pevně zafixujte obvazem a ujistěte se, že je na místě. 
+Pravidelně kontrolujte místo vpichu a průchodnost katétru.
+
+![kanylace](https://media.discordapp.net/attachments/1299439903616012309/1299440701662036080/image.png?ex=67bd6435&is=67bc12b5&hm=30697b4e3a87828cc6228fb74cbf86a015a2a9757f5ccace7dcf9a0bccaa3672&=&format=webp&quality=lossless)
 
 #### Kanylace periferní žíly 
 - základní postup
