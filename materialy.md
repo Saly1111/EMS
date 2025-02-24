@@ -858,38 +858,38 @@ Pokud se krvetvorba dostatečně neobnoví podáváme transfúze červených krv
 
 
 #### Nevhodní dárci
-po prodělané léčbě zhoubného nádorového onemocnění<br>
-po transplantaci orgánů a tkání<br>
-s onemocněním srdce, cév, plic, kloubů a zažívacího systému, které vyžadují trvalé užívání léků<br>
-s krvácivými chorobami a onemocněním krve<br>
-s těžšími formami alergie (sklon k alergii se může přenést spolu s darovanými krvetvornými buňkami na příjemce)<br>
-     - se záchvatovými stavy, závislí na užívání léků
-     - s cukrovkou závislou na užívání inzulinu či léků
-     - po prodělání infekce přenosné krví, jako je HIV, žloutenka typu  B a C, syfilis, malárie, 	
-     - s nemocemi, které by se mohly zátěží, spojenou s odběrem, teoreticky aktivovat (tuberkulóza, sarkoidóza, autoimunní onemocnění apod.)
-     - lidé závislí na alkoholu, drogách a lidé v úzkém kontaktu s HIV pozitivní osobou
+Po prodělané léčbě zhoubného nádorového onemocnění<br>
+Po transplantaci orgánů a tkání<br>
+S onemocněním srdce, cév, plic, kloubů a zažívacího systému, které vyžadují trvalé užívání léků<br>
+S krvácivými chorobami a onemocněním krve<br>
+S těžšími formami alergie (sklon k alergii se může přenést spolu s darovanými krvetvornými buňkami na příjemce)<br>
+	- se záchvatovými stavy, závislí na užívání léků
+     	- s cukrovkou závislou na užívání inzulinu či léků
+    	- po prodělání infekce přenosné krví, jako je HIV, žloutenka typu  B a C, syfilis, malárie, 	
+    	- s nemocemi, které by se mohly zátěží, spojenou s odběrem, teoreticky aktivovat (tuberkulóza, sarkoidóza, autoimunní onemocnění apod.)
+	- lidé závislí na alkoholu, drogách a lidé v úzkém kontaktu s HIV pozitivní osobou
 
 
 
 
 #### Určení dárce
 Vzorek kostní dřeně<br> 
-odebrání vzorku kostní dřeně<br>
-odběr se provádí pomocí široké jehly z hrudní kosti<br>
+Odebrání vzorku kostní dřeně<br>
+Odběr se provádí pomocí široké jehly z hrudní kosti<br>
 
 
 #### Vzorek DNA
-testy se provádí z krevních vzorků v laboratoři<br>
-zjišťují se HLA znaky (tkáňové znaky)<br>
-automatizovaný přístroj zobrazí soubor grafů detailního rozboru vzorku DNA<br>
+Testy se provádí z krevních vzorků v laboratoři<br>
+Zjišťují se HLA znaky (tkáňové znaky)<br>
+Automatizovaný přístroj zobrazí soubor grafů detailního rozboru vzorku DNA<br>
 
 
 
 
 #### Vyšetření před darováním
-vzorky se musí odebrat 30 dní před darováním dřeně <br>
-vzorek krve <br>
-vzorek moči <br>
+Vzorky se musí odebrat 30 dní před darováním dřeně <br>
+Vzorek krve <br>
+Vzorek moči <br>
 MR srdce, plic a RTG pánve <br>
 EKG<br> 
 Odběr krve pro autotrtansfuzi (asi půl litru)<br>
@@ -898,12 +898,12 @@ Odběr krve pro autotrtansfuzi (asi půl litru)<br>
 
 
 #### Odběr dřeně od dárce
-Odběr se provádí na sále v celkové anestezii
-Pomocí punkční jehly se z pánevní kosti odsaje dřeň spolu z krví
-Odběr je závislý na hmotnosti pacienta i dárce (dárce nesmí darovat více než 20ml/kg, max 1500ml)
-Odsátá krev je poté doplněna připravenou krví pro autotransfuzi
-Dárce 	tráví 3 dny na lůžku (jip)
-Po dobu 1 týdne dochází na pravidelné kontroly krevního obrazu
+Odběr se provádí na sále v celkové anestezii<br>
+Pomocí punkční jehly se z pánevní kosti odsaje dřeň spolu z krví<br>
+Odběr je závislý na hmotnosti pacienta i dárce (dárce nesmí darovat více než 20ml/kg, max 1500ml)<br>
+Odsátá krev je poté doplněna připravenou krví pro autotransfuzi<br>
+Dárce 	tráví 3 dny na lůžku (jip)<br>
+Po dobu 1 týdne dochází na pravidelné kontroly krevního obrazu<br>
 
 
 
@@ -911,12 +911,17 @@ Po dobu 1 týdne dochází na pravidelné kontroly krevního obrazu
 -Je porucha srdečního rytmu. Některé arytmie jsou považovány za běžné jako např. respirační sinusová arytmie, kdy se srdce při nádechu mírně zrychlí a při výdechu mírně zpomalí.
 
 ### Příčiny:
-#### Ischemie: nedokrevnost určité tkáně nebo orgánu, to vede k jejímu poškození nebo odumření. Ischemii způsobuje hlavně nedostatek kyslíku potom nedostatek živin.
-#### Hypoxie: menší nebo nedostatečné množství kyslíku pro metabolismus skupiny hypoxie: <br>
+
+#### Ischemie: 
+nedokrevnost určité tkáně nebo orgánu, to vede k jejímu poškození nebo odumření. Ischemii způsobuje hlavně nedostatek kyslíku potom nedostatek živin.
+
+#### Hypoxie: 
+menší nebo nedostatečné množství kyslíku pro metabolismus skupiny hypoxie: <br>
 Hypoxemická- Způsobuje menší parciální tlak kyslíku. <br>
 Anemická- Chyba na straně červených krvinek<br>
 Cirkulační- červené krvinky nesou kyslík<br>
 Histotoxická- Chyba na straně buněk<br> 
+
 #### Zánět: 
 Je složitá reakce živého organismu na poškození. Zahrnuje komplex biochemických a imunologických změn.
 ##### Alterativní zánět
@@ -955,7 +960,7 @@ O gangrenózním zánětu se hovoří tehdy, jsou-li zánětem poškozené tkán
 5) repozice zlomených žeber 
 6) přiložení přední dlahy Judetova typu (případně absorbovatelné dlahy 40-150mm) 
 7) fixace bikortikálními šrouby a fixačními kleštěmi 
-8) šití rány a bandáž hrudníku 
+8) šití rány a bandáž hrudníku <br>
 **Následná léčba doma:** hojení cca 3-6týdnů, studené obklady, těsná bandáž 
 rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu 
 **Poučit pacienta:** nepotlačovat kašel (jako obrana organismu se tvoří hlen, který musí ven) – přitlačte si polštář k hrudníku během kašle, spaní na zádech v polosedu, ne na břiše!, nepijte alkohol a nekuřte
@@ -1680,7 +1685,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - umožnuje zobrazit  obraz s vysokým rozlišením a odstraněním rušivých struktur v pozadí  
 - na jeho rameni je umístěn endoskop 
 
-#### Krvácení
+### Krvácení
 - krvácení neboli haemorhagie je ztráta krve z cirkulace
 - ztráta 10 – 15% celkového objemu krve může u zdravých osob proběhnout bez projevů
 - při darování krve je odebraný objem běžně  8 – 10% objemu krve dárce.
