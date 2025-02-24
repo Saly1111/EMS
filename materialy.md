@@ -88,7 +88,7 @@ Zahrnuje centrální nervovou soustavu, která zahrnuje mozek a míchu, a perife
 **Sutura** - steh nebo šití <br>
 **Polytrauma** - postižení nejméně dvou orgánových systémů, z nichž alespoň jeden ohrožuje pacienta na životě <br>
 **Obstrukce** - neprůchodnost (např. dýchacích cest) <br>
-**Arytmie** - nepravidelná srdeční frekvence <br>
+**Arytmie** - nepravidelná  frekvence <br>
 **Diabetes** - cukrovka <br>
 **KPR** - kardiopulmonální resuscitace <br>
 **KPCR** - kardiopulmocerebrální resuscitace - cerebrum = mozek (není rozdíl mezi KPR a KPCR) <br>
@@ -286,7 +286,7 @@ Pro správné fungování sona je potřeba pokrýt čidlo sondy krémem, který 
  
  
 ### EKG - Elektrokardiogram
- Využívá se k monitorování srdeční aktivity.
+ Využívá se k monitorování  aktivity.
 Umístění svodů 12svodového EKG:
 
 Sinusový rytmus = pravidelný rytmus
@@ -568,8 +568,8 @@ Venózní krev - krev získaná z vény (žíly) - možná místa vpichu: v loke
 **Disability:** reakce pacienta kontrola zorniček, reakce na zvukový podnět (odpovídá), reakce na bolestivý podnět (algický podnět) kontrola glykémie <br>
 **Exposure:** odhalení pacienta, sundání oblečení pro usnadnění přístupu k pacientovi (podle typu poranění, viz typy poranění) <br>
 
-ABCDE postup označuje systematický přístup ke kriticky nemocným anebo poraněným jedincům s okamžitým zhodnocením stavu a poskytnutí urgentní první pomoci. 
-**Cíle postupu ABCDE:**
+ABCDE postup označuje systematický přístup ke kriticky nemocným anebo poraněným jedincům s okamžitým zhodnocením stavu a poskytnutí urgentní první pomoci. <br>
+**Cíle postupu ABCDE:** <br>
 Poskytnout podporu selhávajícím životním funkcím!
 Rozdělit celkovou situaci do menších částí, které je možné lépe zvládnout!
 Získat čas na stanovení definitivní diagnózy!
@@ -631,7 +631,7 @@ odstraňování stehů
  Kdy ji zahájit?
 - při zjištění zástavy oběhu u pacienta - pacient nedýchá nebo má pouze lapavé nádechy, není hmatatelný tep
  
-Postup:
+**Postup:**
 pokud pacient krvácí, nejdřív zastavíme krvácení (nějaké menší krvácení nevadí)
 zkontrolujeme ústní dutinu, zda se v ní něco nenachází a neblokuje dýchání (cizí předměty, zvratky, krev a jiné tekutiny)
 pokud se v ústní dutině něco nachází, vyndáme to, popřípadě tekutiny odsajeme odsávačkou, kterou najdeme v sanitce, pokud se vám bude zdát, že má pacient zapadlý jazyk, nijak ho nevyndáváme, nešpendlíme ke rtu, ani nic podobného, necháme ho tak a budeme postupovat podle bodu 4
@@ -912,9 +912,9 @@ Po dobu 1 týdne dochází na pravidelné kontroly krevního obrazu
 ### Příčiny:
 #### Ischemie: nedokrevnost určité tkáně nebo orgánu, to vede k jejímu poškození nebo odumření. Ischemii způsobuje hlavně nedostatek kyslíku potom nedostatek živin.
 #### Hypoxie: menší nebo nedostatečné množství kyslíku pro metabolismus skupiny hypoxie: Hypoxemická- Způsobuje menší parciální tlak kyslíku.
-		      Anemická- Chyba na straně červených krvinek
-		      Cirkulační- červené krvinky nesou kyslík
-		      Histotoxická- Chyba na straně buněk
+Anemická- Chyba na straně červených krvinek
+Cirkulační- červené krvinky nesou kyslík
+Histotoxická- Chyba na straně buněk
 #### Zánět: 
 Je složitá reakce živého organismu na poškození. Zahrnuje komplex biochemických a imunologických změn.
 ##### Alterativní zánět
@@ -1002,13 +1002,13 @@ Tenzní pneumotorax je třeba ošetřit okamžitě – nejprve snížíme intrap
 
 ### Typy mozkových poranění:
 
-Primární poškození mozkové tkáně: Vzniká v momentě úrazu. Mezi nejčastější zranění řadíme - zhmoždění mozku různých stupňů, penetrující poranění difuzní axonální poranění. 
+**Primární poškození mozkové tkáně:** Vzniká v momentě úrazu. Mezi nejčastější zranění řadíme - zhmoždění mozku různých stupňů, penetrující poranění difuzní axonální poranění. 
 Jak zranění vzniká: Buď to přímým nárazem a nebo nárazem a zpětným nárazem. 
 Sekundární poškození mozkové tkáně: Tyto zranění jsme schopni léčit. Mezi nejčastější sekundární poškození řadíme - Nitrolební krvácení, otok mozku, snížené okysličení nebo ischemie mozkové tkáně (ta vzniká při zvýšeném nitrolebním tlaku nebo při selhání systémového tlaku)
 
 
 
-Primární poškození: 
+**Primární poškození:**
 
 Zlomenina lebky
 Otřes mozku (komoce)
@@ -1277,7 +1277,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 
 #### Rentgen: rentgen hrudníku 
 - u všech pacientů s rakovinou, onemocněním srdce, plic a ledvin. 
-- Rentgen hrudníku může odhalit chronické onemocnění plic, kardiomegalií a srdeční nedostatečnost. 
+- Rentgen hrudníku může odhalit chronické onemocnění plic, kardiomegalií a  nedostatečnost. 
 
 #### EKG
 - u všech pacientů, zejména pak u pacientů s onemocněním srdce, plic a ledvin. 
@@ -1531,7 +1531,7 @@ nástroje na přidržení nebo odtažení tkáně
 ### Vybavení k monitoraci pacienta 
 
 #### Systém monitorace funkcí při akutní péči 
-– monitoruje se elektrická aktivita srdce pomocí EKG, dýchání, krevní tlak (neinvazivně a invazivně), tělesná teplota, srdeční výdej, arteriální saturace hemoglobinu a end–tidal CO2. 
+– monitoruje se elektrická aktivita srdce pomocí EKG, dýchání, krevní tlak (neinvazivně a invazivně), tělesná teplota,  výdej, arteriální saturace hemoglobinu a end–tidal CO2. 
 
 #### Pulzní oxymetrie 
 – monitoruje arteriální saturaci hemoglobinu kyslíkem pomocí senzoru na prstě. 
@@ -1550,8 +1550,8 @@ nástroje na přidržení nebo odtažení tkáně
 
 
 ### Intra–aortická balónková pumpa 
-- přístroj, který napomáhá snižovat srdeční zátěž a napomáhá přísunu krve do koronárních cév 
-- pumpa používá balónek, který je umístěn v pacientově aortě. Balónek je na konci katétru, který je připojen k pumpě, která ukazuje srdeční frekvenci, tlak a monitoruje EKG
+- přístroj, který napomáhá snižovat  zátěž a napomáhá přísunu krve do koronárních cév 
+- pumpa používá balónek, který je umístěn v pacientově aortě. Balónek je na konci katétru, který je připojen k pumpě, která ukazuje  frekvenci, tlak a monitoruje EKG
 - EKG monitorace se používá k načasování nafouknutí a vyfouknutí balónku
 
 
@@ -2039,7 +2039,7 @@ zvracení
 
 
 ## Alergická reakce 
-- příznaky: hypotenze, šok, srdeční zástava, erytém (červené zbarvení kůže) bronchospasmus (stažení svalů ve stěnách průdušek), angioedém (otok)
+- příznaky: hypotenze, šok,  zástava, erytém (červené zbarvení kůže) bronchospasmus (stažení svalů ve stěnách průdušek), angioedém (otok)
 
 - nutné zastavit podávání všech potenciálních antigenů. 
 - nutné zajistit průchodnost dýchacích cest, a podat kyslík
@@ -2204,7 +2204,7 @@ opioidy
 
 ## Monitorace a dokumentace v anesteziologii
 - Nutno sledovat kvalitu a frekvenci pulsu, periferní prokrvení, barvu sliznic, pocení, šíří zornic, krevní tlak, rychlost a hloubku dýchání, průchodnost dýchacích cest, dýchací šelesty. 
-- Sledování kontinuálního záznam EKG, srdeční frekvence a pulzní oxymetrie 
+- Sledování kontinuálního záznam EKG,  frekvence a pulzní oxymetrie 
 
 ## Kapnografie a kapnometrie 
 - trvale sleduje koncentraci oxidu uhličitého ve vydechované dýchací směsi při ventilaci
