@@ -54,57 +54,57 @@ Zahrnuje centrální nervovou soustavu, která zahrnuje mozek a míchu, a perife
 
 ![mozek](https://media.discordapp.net/attachments/762807292172435456/1343626975134089376/19IHlqGJichbd2UIMku5riWzuTxz5oPa6t6fE2wkTe7izLJ5Q7ijp-wBGvJ8NZrU.png?ex=67bdf5a2&is=67bca422&hm=2c75b0d0248792283f3463196f429a6031eaa3424b8d3ec6caa395966ac4704b&=&format=webp&quality=lossless)
 
-Slovníček
-Fraktura  - zlomenina kosti
-F.R. - fyziologický roztok
-R.R. - ringerův roztok 
-H.R. - hartmannův roztok 
-Rouškování - zakrytí okolí zranění, přičemž zůstane odhalené pouze zranění samotné
-Tracheostomie  - je stav, kdy je průdušnice uměle vyvedena na povrch těla - většinou proříznutím krku v místě, kde přechází v trup (zákrok je nazýván tracheostomie)
-Pneumotorax (PNO) - nahromadění vzduchu, či jiného plynu v dutině obklopující plíce, většinou způsobuje zhroucení plíce - odstraňuje se odsátím vzduchu punkční jehlou v oblasti 2. mezižebří
-Hemothorax - přítomnost krve v pleurální dutině - dutině obklopující plíce.
-Artroskopie - vyšetřovací a léčebná metoda, díky které je možné prohlédnout a pomoci endoskopického nástroje provést chirurgický zákrok na kloubu
-Sutura - steh, šití
-Safil - druh vlákna používaný při šití - postupně se vstřebává
-Malid - druh vlákna používaný při šití - nevstřebává se a je nutno jej chir. odstranit
-Silon - druh vlákna používaný při šití - používá se k šití svaloviny - nevstřebává se
-Kožní svorky - používá jí se v oblasti břicha a hrudníku k uzavření dutiny břišní či hrudní
-Adrenalin - používá se při zástavě srdce, či při prudkém snížení tepu (nikdy ne při krvácení)
-Beta-blokátory - používají se při snížení tepové frekvence
-Celková anestetika - reverzibilní stav (Pacient není při vědomí, užití během operací)
-Lokální anestetika - lokálně umrtvíte část těla (můžete ošetřovat, užití během menších úkonů)
+## Slovníček
+**Fraktura**  - zlomenina kosti <br>
+**F.R.** - fyziologický roztok <br>
+**R.R.** - ringerův roztok <br>
+**H.R.** - hartmannův roztok <br>
+**Rouškování** - zakrytí okolí zranění, přičemž zůstane odhalené pouze zranění samotné<br>
+**Tracheostomie**  - je stav, kdy je průdušnice uměle vyvedena na povrch těla - většinou proříznutím krku v místě, kde přechází v trup (zákrok je nazýván tracheostomie)<br>
+**Pneumotorax (PNO)** - nahromadění vzduchu, či jiného plynu v dutině obklopující plíce, většinou způsobuje zhroucení plíce - odstraňuje se odsátím vzduchu punkční jehlou v oblasti 2. mezižebří<br>
+**Hemothorax** - přítomnost krve v pleurální dutině - dutině obklopující plíce.<br>
+**Artroskopie** - vyšetřovací a léčebná metoda, díky které je možné prohlédnout a pomoci endoskopického nástroje provést chirurgický zákrok na kloubu<br>
+**Sutura** - steh, šití<br>
+**Safil** - druh vlákna používaný při šití - postupně se vstřebává<br>
+**Malid** - druh vlákna používaný při šití - nevstřebává se a je nutno jej chir. odstranit<br>
+**Silon** - druh vlákna používaný při šití - používá se k šití svaloviny - nevstřebává se<br>
+**Kožní svorky** - používá jí se v oblasti břicha a hrudníku k uzavření dutiny břišní či hrudní<br>
+**Adrenalin** - používá se při zástavě srdce, či při prudkém snížení tepu (nikdy ne při krvácení)<br>
+**Beta-blokátory** - používají se při snížení tepové frekvence<br>
+**Celková anestetika** - reverzibilní stav (Pacient není při vědomí, užití během operací)<br>
+**Lokální anestetika** - lokálně umrtvíte část těla (můžete ošetřovat, užití během menších úkonů)<br> 
 
 
-Resekce - odstranění části orgánu
--ektomie -  vyjmutí celého orgánu - první část slova označuje vyjmutý orgán (např. splenektomie - odstranění sleziny, 
-cystektomie -  odstranění močového měchýře, 
-gastrektomie - odstranění žaludku, 
-nefrektomie - odstranění ledviny, 
-pneumonektomie - odstranění celé plíce, 
-lobektomie - odstranění laloku plíce, mozku, jater apod.)
-Amputace - odstranění ruky, nohy, prsu apod. = odstranění nějaké vnější části těla
+**Resekce** - odstranění části orgánu <br>
+**-ektomie** -  vyjmutí celého orgánu - první část slova označuje vyjmutý orgán (např. splenektomie - odstranění sleziny, <br>
+**cystektomie** -  odstranění močového měchýře, <br>
+**gastrektomie** - odstranění žaludku, <br>
+**nefrektomie** - odstranění ledviny, <br>
+**pneumonektomie** - odstranění celé plíce, <br>
+**lobektomie** - odstranění laloku plíce, mozku, jater apod.)<br>
+**Amputace** - odstranění ruky, nohy, prsu apod. = odstranění nějaké vnější části těla<br>
  
-Exstirpace - vynětí celého útvaru, který nemá v těle co dělat (nádor, cysta)
-Sutura - steh nebo šití
-Polytrauma - postižení nejméně dvou orgánových systémů, z nichž alespoň jeden ohrožuje pacienta na životě
-Obstrukce - neprůchodnost (např. dýchacích cest)
-Arytmie - nepravidelná srdeční frekvence
-Diabetes - cukrovka
-KPR - kardiopulmonální resuscitace
-KPCR - kardiopulmocerebrální resuscitace - cerebrum = mozek (není rozdíl mezi KPR a KPCR)
-I.V. - intravenózně = zavedení léčiv, roztoků, krve přímo do žíly, nitrožilně
-I.O. - intraoseálně = zavedení léčiv, roztoků, krve navrtáním kosti - omezená doba používání vstupu je 6 - 12 hodin, zavádí se pomocí vrtačky (většinou do ramene), rychlejší nástup účinku léků
-I.M. - intramuskulárně - zavedení léčiv do svalu
-I.D. - intradermálně -  do kůže - použití např. při lokální anestezii
-Kanyla - jehla s hadičkou, používá se při zavádění i.v. nebo i.o. vstupu, podávají se skrz ni roztoky, krev, či léky
-Gravidita - těhotenství
-Nauzea - nevolnost, pocit na zvracení
-Amnézie - ztráta paměti
-Diagnóza - stanovení onemocnění
-Hypertenze - vysoký krevní tlak
-Hypotenze -  nízký krevní tlak
-Tachykardie - vysoký tep
-Bradykardie - nízký tep
+**Exstirpace** - vynětí celého útvaru, který nemá v těle co dělat (nádor, cysta) <br>
+**Sutura** - steh nebo šití <br>
+**Polytrauma** - postižení nejméně dvou orgánových systémů, z nichž alespoň jeden ohrožuje pacienta na životě <br>
+**Obstrukce** - neprůchodnost (např. dýchacích cest) <br>
+**Arytmie** - nepravidelná srdeční frekvence <br>
+**Diabetes** - cukrovka <br>
+**KPR** - kardiopulmonální resuscitace <br>
+**KPCR** - kardiopulmocerebrální resuscitace - cerebrum = mozek (není rozdíl mezi KPR a KPCR) <br>
+**I.V.** - intravenózně = zavedení léčiv, roztoků, krve přímo do žíly, nitrožilně <br>
+**I.O.** - intraoseálně = zavedení léčiv, roztoků, krve navrtáním kosti - omezená doba používání vstupu je 6 - 12 hodin, zavádí se pomocí vrtačky (většinou do ramene), rychlejší nástup účinku léků <br>
+**I.M.** - intramuskulárně - zavedení léčiv do svalu <br>
+**I.D.** - intradermálně -  do kůže - použití např. při lokální anestezii <br>
+**Kanyla** - jehla s hadičkou, používá se při zavádění i.v. nebo i.o. vstupu, podávají se skrz ni roztoky, krev, či léky <br>
+**Gravidita** - těhotenství <br>
+**Nauzea** - nevolnost, pocit na zvracení <br>
+**Amnézie** - ztráta paměti <br>
+**Diagnóza** - stanovení onemocnění <br>
+**Hypertenze** - vysoký krevní tlak <br>
+**Hypotenze** -  nízký krevní tlak <br>
+**Tachykardie** - vysoký tep <br>
+**Bradykardie** - nízký tep <br>
 
 
 
@@ -125,31 +125,33 @@ Bradykardie - nízký tep
 
 
 
-Základní fyziologické (životní) funkce
+## Základní fyziologické (životní) funkce
 
-Krevní tlak
+#### Krevní tlak
 Snížený tlak 100/60 - Hypotenze
 Zvýšený tlak 160/90 - Hypertenze
 
-Puls
+#### Puls
 Snížený puls pod 40 - Bradykardie
 Zvýšený puls nad 90 - Tachykardie
 
-Dýchání 
+#### Dýchání 
 (normálně 12-20/min)
 Snížená dechová frekvence - Bradypnoe
 Zvýšená dechová frekvence - Tachypnoe
 
-Teplota
+#### Teplota
 Snížená teplota pod 34,5 - Hypotermie
 Zvýšená teplota. nad 37,5 - Hypertermie
 
 
 
-Fyziologický roztok
+## Fyziologický roztok
 
 Jedná se o roztok, který se využívá jako nosná látka pro různé medikamenty, které je nutné podávat při operacích, či doléčení. Pro případ doplnění většího množství tekutin je potřeba použít tzv. balancový roztok, např. Hartmannův roztok. K podání výživy se používá infuze, která pak slouží jak pro parenterální výživu, tak i jako náhrada krevní plazmy.
-Výjezdy - pravidla a postupy
+
+
+## Výjezdy - pravidla a postupy
 
 Každý výjezd musí nějak vypadat. Nemůžeme si k případu jen tak ošetřit rjakoby nic, ošetřit raněného a zase odjet. Vše musí mít nějaká pravidla, která by se měla dodržovat, nějaké postupy, kterými se řídit. 
 
@@ -173,7 +175,7 @@ Vždy parkujeme vozidlo tak, abychom ochránili pacienta i sebe - takže klidně
 
 
 
-Postupy
+## Postupy
 
 Informace - nejdříve zjistíme, co se děje. Vždy je dobré vědět k čemu jedeme. Ať už informace o pacientovi (zranění, jak se to stalo apod.), tak i informace o situaci na místě, zvláště u přestřelky.
 Výběr správného vozu - Výjezdový vůz vždy používáme pouze ten který nám byl přidělen s volacím znakem. SUV je oprávněn užít doktor a výše a to však jen v případech které to dovolují.
@@ -205,7 +207,7 @@ Příjezd do nemocnice - dorazíme do nemocnice a neprodleně předáváme pacie
 
 
 
-PŘÍSTROJE
+## PŘÍSTROJE
 RTG - rentgen
 Před použitím RTG je potřeba pacientovi odebrat veškeré kovové předměty a dát mu ochranné prostředky.
  
@@ -224,7 +226,7 @@ RTG se používá k pozorování kostních struktur, případně k nalezení ciz
  
  
  
-CT - Computed tomography
+ CT - Computed tomography
 Funguje na podobný princip jako RTG, zobrazuje 3D snímek orgánů.
 Před použitím CT je potřeba pacientovi odebrat veškeré kovové předměty a dát mu ochranné prostředky.
 CT lze využít na zjištění:
@@ -316,7 +318,7 @@ Hypertenze = vysoký krevní tlak
 Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
 
 
-NÁSTROJE A DALŠÍ INSTRUMENTARIUM
+## NÁSTROJE A DALŠÍ INSTRUMENTARIUM
 Pean
 - pean na tampony
 - pean na šití
@@ -343,7 +345,7 @@ Stetoskop
 
  
  
-SLOVNÍČEK
+## SLOVNÍČEK
 Anamnézy
 -       Nynější onemocnění - NO
 -      Osobní anamnéza - OA
@@ -356,7 +358,7 @@ Anamnézy
 -       Sociální anamnéza - SA
 
 
-VYBAVENÍ SANITKY
+## VYBAVENÍ SANITKY
 Medibag
 -   	krční límec
 -   	pulsní oxymetr
@@ -397,7 +399,7 @@ Reflektor pro vyhledávání osob v terénu
 
 
 
-ANAMNÉZY
+## ANAMNÉZY
 Nynější onemocnění - NO
 -       aktuální příčina hospitalizace
 -       podrobný aktuální stav
@@ -422,7 +424,7 @@ Alergická anamnéza - AA
 -       seznam alergií pacienta
 
 
-MEDIKAMENTY
+## MEDIKAMENTY
 Analgetika: 
 Fentanyl: 100x silnější než morfin - používá se při závažných operací. Využívá se jako součást anestezie, jelikož jeho účinky mají rychlý nástup, ale doba trvání je velmi krátká.
 
@@ -540,14 +542,14 @@ Trombocyty (krevní destičky)
 Venózní krev - krev získaná z vény (žíly) - možná místa vpichu: v loketní jamce, žíly na předloktí, na hřbetu ruky, nohy, žíly v temenní a temporální oblasti (u kojenců a batolat)
 
 
-KREVNÍ SKUPINY
+## KREVNÍ SKUPINY
 -      A+, A-, B+, B-, AB+, AB-, 0+, 0-
 -      krevní skupina se dá zjistit pomocí krevních odběrů
 -      níže vidíte, kterou krev pacient s jakou krevní skupinou může přijmout v případě, že ji potřebuje (např. ztratí hodně krve)
 
 
 
-ABCDE označuje anglická slova:
+## ABCDE označuje anglická slova:
 Airway zajištění/zprůchodnění dýchacích cest kontrola dutiny ústní
 Breathing: kontrola dechu pohled (pohyb hrudníku, zda je symetricky -> tenzní pneumotorax), poslech (přiložení ucha u ústům a nosu pacienta) Kontrola saturace
 Circulation: kontrola krevního oběhu (tep, tlak) nahmataní tepny na zápěstí/krku
@@ -560,7 +562,7 @@ Rozdělit celkovou situaci do menších částí, které je možné lépe zvlád
 Získat čas na stanovení definitivní diagnózy!
 Je více než vhodné, aby jste se při kontaktu s pacientem drželi systematicky tohoto postupu. Tím bude zajištěno, že ty nejzávažnější stavy budou odhaleny včas a v pořadí, v němž kriticky nemocného pacienta ohrožují na životě. V každém hlavním bodě abecedy je několik dalších výkonů, které s konkrétní problematikou souvisí.
 
-SUTURA - šití
+## SUTURA - šití
  
 Sutura kůže
 - používají se autraumatická vlákna, kožní jehla se špicí trojúhelníkovitého průřezu – řezací
@@ -611,7 +613,7 @@ Sutura parenchymových a jiných orgánů (játra, plíce, ledviny,...)
 
 
 
-KARDIOPULMONÁLNÍ RESUSCITACE
+## KARDIOPULMONÁLNÍ RESUSCITACE
 = KPR, nepřímá masáž srdce + umělé dýchání
  Kdy ji zahájit?
 -       při zjištění zástavy oběhu u pacienta - pacient nedýchá nebo má pouze lapavé nádechy, není hmatatelný tep
@@ -633,7 +635,7 @@ Po pěti minutách, kdy pacient nedýchá, začnou postupně odumírat mozkové 
 
 
 
-KRVÁCENÍ
+## KRVÁCENÍ
 Vnější krvácení
 Vlásečnicové
 -       menší oděrky, malé ranky, ne moc výrazné krvácení
@@ -659,7 +661,7 @@ Krvácení do dutiny břišní, do dutiny hrudní, měkkých tkání, do mozku
 
  
  
-STŘELNÉ RÁNY
+## STŘELNÉ RÁNY
 
 Vstřel
  
@@ -691,7 +693,7 @@ Průstřel
 
  
 
-BODNÉ RÁNY
+## BODNÉ RÁNY
 -       pokud se v ráně bude stále nacházet nějaký předmět (např. nůž), nevyndáváme ho hned na místě, ale až v nemocnici, pacient by mohl vykrvácet
 -       jinak postupujeme dle závažnosti a typu zranění
 
@@ -717,7 +719,7 @@ BODNÉ RÁNY
 
 
 
-ZLOMENINY 
+## ZLOMENINY 
 -       zlomeniny dělíme na otevřené (kost čouhá ven z těla, rána krvácí) a uzavřené (můžeme vidět vzniklý otok nebo hematom)
 -       následně je také dělíme na příčné (ošetříme sádrovou dlahou), šikmé (ošetříme sádrovou dlahou se zpevňovači z kovu) a spirální (ošetříme sádrovou dlahou se zpevňovači a extenčními dráty)
  
@@ -754,7 +756,7 @@ Uzavřená zlomenina nosu
 -       některé zlomeniny vyžadují ruční navrácení kostí do správného tvaru (manuální repozice) s fixací
 
  
-KOMOCE MOZKU
+## KOMOCE MOZKU
  
 Diagnóza
 -       otřes mozku nevylučujeme, jestliže měl pacient nedávno úraz hlavy
@@ -780,7 +782,7 @@ Diagnóza
 Postkomoční syndrom
 -     může trvat až týdny a měsíce po úrazu
 -    bolesti hlavy, poruchy paměti, nespavost, nadměrná dráždivost, deprese
-POPÁLENINY
+## POPÁLENINY
 1. stupeň
 -       zarudnutí kůže, případný otok
 -       pouze chladit, podávat analgetika
@@ -805,7 +807,7 @@ POPÁLENINY
 -       mimo kůži jsou poškozené také kosti, svaly nebo šlachy
 -   odstranění nekrotické kůže, rekonstrukce poškozených struktur (kosti, svaly, šlachy)
 -       často amputace poškozených končetin
-Plastika
+## Plastika
 
 Oční víčka - Externí chir. řez podél linie záhybů horních a dolních víček. Odstranění tuku za pomocí kleští, hemostatu a kožního roztahováku (lékařský navíječ), odříznutí tuku chirurg. nůžkami. 
 
@@ -822,7 +824,7 @@ Plastika/Transplantace kůže - Provedení výběru štěpu - dárce, přímo pa
 
 
 
-Transplantece kostní dřeně
+## Transplantece kostní dřeně
 
 Pacient:
  - Zavede se katetr do centrální žíly hrudníku (subklavie, podklíčková žíla)
@@ -890,7 +892,7 @@ Po dobu 1 týdne dochází na pravidelné kontroly krevního obrazu
 
 
 
-Srdeční Arytmie
+## Srdeční Arytmie
 -Je porucha srdečního rytmu. Některé arytmie jsou považovány za běžné jako např. respirační sinusová arytmie, kdy se srdce při nádechu mírně zrychlí a při výdechu mírně zpomalí.
 
 Příčiny:
@@ -919,7 +921,7 @@ Eschariotický zánět je vystupňovanou podobou zánětu difterického. Sliznic
 Gangrenózní zánět
 O gangrenózním zánětu se hovoří tehdy, jsou-li zánětem poškozené tkáně sekundárně ischemické a sekundárně je infikují hnilobné (putridní) bakterie.
 
-Zlomeniny žeber
+## Zlomeniny žeber
 
 - Nejčastější příčiny: Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy 
 - Anamnéza: výrazná bolest při stlačení hrudníku nebo při výdechu/nádechu, dechová tíseň, omezená hybnost, dráždivý kašel 
@@ -941,7 +943,7 @@ Následná léčba doma: hojení cca 3-6týdnů, studené obklady, těsná band�
 rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu 
 Poučit pacienta: nepotlačovat kašel (jako obrana organismu se tvoří hlen, který musí ven) – přitlačte si polštář k hrudníku během kašle, spaní na zádech v polosedu, ne na břiše!, nepijte alkohol a nekuřte
 
-Hemothorax
+## Hemothorax
 Nejčastější příčiny: Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy 
 Anamnéza: kolaps plíce s dechovou nedostatečností, dušnost, cyanóza (= zmodrání kůže), rozvoj šoku, krvácení z pohraniční dutiny (nejčastěji z interkostálních artérií, méně často z plic) 
 Vyšetření: RTG hrudníku 
@@ -958,7 +960,7 @@ Umístění: na dorsu ruky (hřbetu), zápěstí, předloktí libovolným směre
 4) vysuneme mandrén a zavedeme kanylu 
 5) fixujeme náplastí 
 
-Pneumothorax 
+## Pneumothorax 
 
 Nejčastější příčiny: Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy 
 Anamnéza: kolaps plíce s dechovou nedostatečností, dušnost, cyanóza (=zmodrání kůže), rozvoj šoku Vyšetření: RTG hrudníku, v nejasných případech CT
@@ -978,7 +980,7 @@ Poučit pacienta: nepotlačovat kašel - hlen musí ven – přitlačte si polš
 
 
 
-Akutní mozková poranění
+## Akutní mozková poranění
 
 Typy mozkových poranění:
 
@@ -996,7 +998,7 @@ Pohmoždění mozku (lehké, střední, těžké)
 Difuzní axonální poranění: poškození nervových vláken, spojujících jednotlivé části mozku. Toto nastává v situaci, kdy dojde k difúznímu axonálnímu poranění mozku v okamžiku úrazu. Přenos mozkových informací se zpomalí nebo zcela ustane. Léčba se soustřeďuje na zvládnutí otoku mozku, jelikož zpřetrhané axony již není možno opravit.
 
 
-Chirurgický slovníček
+## Chirurgický slovníček
 
 
 Laparotomie - chir. otevření dutiny břišní
@@ -1037,7 +1039,7 @@ Enap/Adenosin - na vysoký krevní tlak (IV)
 IV - intravenózní vstup     IO - intraoseální vstup 
 
 
-Chirurgie
+## Chirurgie
 - Všechny druhy chirurgických výkonů jsou považovány za invazivní výkony
 - V každém případě musí být možnost provedení chirurgického výkonu nastavena pacientovi na míru tak aby se zohlednil stav, potřeby a očekávání pacienta, možná rizika a komplikace 
 
@@ -1062,7 +1064,7 @@ Transplantace - přenos a vpravení odebrané tkáně či orgánu
 
 
 
-Základní operační kategorie 
+## Základní operační kategorie 
 
 Neodkladné operace
 (př. zastavení masivního vnitřního krvácení)
@@ -1079,7 +1081,7 @@ Elektivní operace
 
 
 
-Dokumentace operací 
+## Dokumentace operací 
 - důležité je zapsat následující informace: 
 
 - Jméno pacienta, datum a čas operace.
@@ -1090,7 +1092,7 @@ Dokumentace operací
 - Všechny komplikace během operace. 
 - Pacientův stav na konci operace
 - Krevní ztráta
-Základní dělení chirurgických specializací a specializací souvisejících
+## Základní dělení chirurgických specializací a specializací souvisejících
 
 Hrudní chirurgie 
 - chirurgická léčba plic a hrudní dutiny 
@@ -1120,7 +1122,7 @@ Ortopedie
 
 
 
-Resuscitace 
+## Resuscitace 
 - základní postup sloužící k rychlému a neprodlenému obnovení příjmu okysličené krve do mozku a dalších periferií lidského těla
 - nenávratné škody jako je odumírání buněk mozku počínaje 4-5 minutou od zástavy oběhu.  
 
@@ -1147,7 +1149,7 @@ Resuscitace dětí
 
 
 
-Šok 
+## Šok 
 
 
 - Šok je primárně porucha krevního oběhu, která vede k akutnímu nepoměru mezi potřebou a dodávkou okysličené krve tkáním.
@@ -1181,14 +1183,6 @@ Chirurgické oblečení
 
 
 
-Barevné užití outfitů dle pozic
- 
-- primář (světle modrý operační empír)
-- chirurg (zelený operační empír)
-- doktor (tmavě modrý operační empír)
-
-- záchranář (oranžový operační empír)
-- ostatní personál (bílý operační empír)
 
 
 
@@ -1196,10 +1190,7 @@ Barevné užití outfitů dle pozic
 
 
 
-
-
-
-Typy ran
+## Typy ran
 
 Otevřené rány: 
 
@@ -1243,7 +1234,7 @@ Drtící zranění
 
 
 
-Operace a její průběh
+## Operace a její průběh
 
 - alespoň do jedné žíly na ruce nebo na noze je zavedena kanyla s katétrem, kterým jsou pacientovi podávány tekutiny a léky.
 
@@ -1280,7 +1271,7 @@ Výkon na sále
 - pacientovi je po vydezinfikování místa (nejčastěji betadine)  podána anestezie – celková nebo lokální 
 - důležité je připojit pacienta na všechny potřebné přístroje k monitoraci životních fcí
 - následně provedeme samotný operační úkon  
-Chirurgický tým
+## Chirurgický tým
 
 - skládá se z chirurga (operatéra), a jeho asistentů, anesteziologa a sálové sestry 
 
@@ -1299,14 +1290,14 @@ Instrumentářka - sálová sestra
 
 
 
-Operační sál
+## Operační sál
 
 - speciální vyčleněný prostor, kde se provádějí chirurgické výkon
 - operační sály představují sterilní prostředí
  
 
 
-Obvazy a převazový materiál
+## Obvazy a převazový materiál
 
 - obvaz se přikládá na ránu a slouží k tomu, aby podpořil hojení a zabránil dalšímu poškození. 
 
@@ -1342,7 +1333,7 @@ Dýhy
  - k posílení jiných druhů obvazů
 
 
-Šicí materiály
+## Šicí materiály
 
 
 Vstřebatelné
@@ -1419,7 +1410,7 @@ Hedvábí (MERSILK)
 
 
 
-Sutura
+## Sutura
 
 Sutura je jiný název pro stah, či šití, což je vlastně zakončení celého chirurgického zákroku, či způsob zacelené různých typ ran. Na saturu se dají použít tři různé typy satur
 
@@ -1428,7 +1419,7 @@ sutura nevstřebatelným materiálem - používat Malid - použití pro šití k
 sutura kovovými klipy a svorky - nutno po zahojení vyndat
 Silon - druh vlákna používaný při šití - používá se k šití svaloviny - nevstřebává se
 
-Základní chirurgické nástroje
+## Základní chirurgické nástroje
 
 Jehelce
 - nástroje sloužící k držení jehly při šití, nejčastěji v podobě klíštěk s nůžkovitými nebo klešťovými rukojeťmi a krátkými tupými čelistmi, opatřenými křížovým vroubkováním. 
@@ -1497,7 +1488,7 @@ nástroje na přidržení nebo odtažení tkáně
 
 
 
-Vybavení operačního sálu
+## Vybavení operačního sálu
 
 Anesteziologické a resuscitační vybavení 
 
@@ -1800,40 +1791,40 @@ C) Kombinovaná anestezie - propojení anestezie místní a celkové
 
 
 
-Inhalační anestetika 
+## Inhalační anestetika 
 
 Důležitý je přísun kyslíku který je nedílnou součástí všech plynných anestetik.
 Dlouhodobé vystavení vysoké koncentraci kyslíku může vést poškození orgánů
 Jsou podávány pomocí anesteziologického přístroje z barevně označených tlakových lahví 
 
-Plynná inhalační anestetika: 
+### Plynná inhalační anestetika: 
 
-Oxid dusný (N2O)
+#### Oxid dusný (N2O)
  - plyn, má analgetický a anestetický účinek Oxid dusný má minimum vedlejších účinků, nevyvolává hypertermii. 
 - K nevýhodám patří slabý anestetický efekt (nemůže být použit jako jediné anestetikum), může vyvolávat nevolnosti a zvracení
 
-Xenon
+#### Xenon
  - vzácný plyn, drahý, vhodné anestetikum avšak pro jeho nedostatek nepoužívané 
 
 
 
-Inhalační anestetika v kapalné formě: 
+### Inhalační anestetika v kapalné formě: 
 
-Isofluran 
+#### Isofluran 
 - Na myokard má minimální vliv, přesto může teoreticky způsobit přesun krevního zásobení  
 - kombinaci s kyslíkem nebo směsí kyslíku (100%) s oxidem dusným se doporučuje používání krátkodobě působících barbiturátů (propofol, etomidát nebo midazolam)
 
-Sevofluran 
+#### Sevofluran 
 - velmi rychlý úvod (téměř jako u i.v.), mnohem silnější než isofluran
 - nepříliš vhodné u dětí
 - může se objevit nevolnost
 
-Desfluran  
+#### Desfluran  
 - velmi rychlý úvod i probuzení a minimální ovlivnění orgánů i oběhu 
 - nesmí se používat u dětí
-Nitrožilní anestetika
+## Nitrožilní anestetika
 
-Thiopental 
+#### Thiopental 
 (3 - 5 mg/kg t.h. koncentrace 2,5%) 
 - je ultrakrátce působící barbiturát (zhruba 5 minut)
 - používá se pro úvod do celkové anestezie
@@ -1841,12 +1832,12 @@ Thiopental
 (Nechtěné podání do arterie může způsobit až ischemickou nekrózu. V tomto případě se nikdy nesmí vytáhnout kanyla nebo injekční jehla z cévy, ale musí se ponechat pro další terapii.)
 - celkové anestezie, nebo u velmi krátkých výkonů. 
 
-Metohexital 
+#### Metohexital 
 (dávka 1 - 2 mg/kg)
 - svými vlastnostmi podobný thiopentalu, ale je účinnějšímá ještě kratší účinek (okolo 3 minut). 
 Používá se zejména na velmi krátké ambulantní výkony. 
 
-Etomidát 
+#### Etomidát 
 (dávka 0,3 mg/kg)
 - má minimální vliv na oběh a alergické 
 - vhodné u osob s onemocněním myokardu a plic
@@ -1854,7 +1845,7 @@ Etomidát
 - k nežádoucím účinkům patří bolest při injekci a mimovolní pohyby končetin
 - Dávky jsou 0,3 mg/kg, trvání účinku jako u thiopentalu. 
 
-Ketamin 
+#### Ketamin 
 - anestetické a analgetické účinky 
 - i.v. (1-5 mg/kg) se 
 - i.m. (3-10mg/kg)
@@ -1862,39 +1853,39 @@ Ketamin
 - působí zvýšení krevního tlaku, pulsu zvýšené slinění, vzestup nitrolebního a nitroočního tlaku, možnost a pomáhá udržovat průchodné dýchací cesty. 
 - vhodné pro urgentní medicínu katastrof
 
-Propofol 
+#### Propofol 
 (dávka 2 - 2,5 mg)
 - pacienti se rychle budí
 - propofol lze použít k anestezii vedené pouze nitrožilně  
 - potlačuje pooperační nevolnost a zvracení, působí příjemné sny
 - k nežádoucím účinkům patří pokles krevního tlaku, palčivost v žíle. 
 
-Benzodiazepiny 
+## Benzodiazepiny 
 
 - používají rovněž k navození bezvědomí (nejedná se o anestetika)
 - výhodou je pozvolný nástup účinku, menší ovlivnění oběhu 
 - nevýhodou je jejich dlouhý poločas a kumulace. 
 - nevhodné pro lidi bojující se závislostmi 
 
-Diazepam 
+#### Diazepam 
 - 0,3-0,6 mg/kg i.v. 
 - 5-10 mg p.o. 
 - 15-30 min 
 - úvodní dávka k anestezii či premedikace 
 
-Midazolam 
+#### Midazolam 
 - 0,05-0,4 mg/kg i.v. nebo i.m. 
 - 15-30 min 1-3 hod. 
 - dobrá biologická dostupnost i po i.m., úvodní dávka k anestezii či premedikace 
 
-Oxazepam 
+#### Oxazepam 
 - 10-30 mg p.o.  
 - premedikace 
 
-Nitrazepam 
+#### Nitrazepam 
 - 10 mg p.o.  
 - premedikace 
-Opioidy 
+## Opioidy 
 
 - mají analgetický účinek 
 - slabé opioidy mají stropový účinek (zvyšování dávky nevede k dalšímu účinku)
@@ -1903,28 +1894,28 @@ Opioidy
 - dlouhodobý (účinek 4 - 8 hodin) se používají při léčbě pooperační bolesti.
 - anestezii pouze u dlouhodobých výkonů nebo při řízené ventilaci
 
-Morfin 
+#### Morfin 
 (0,1 mg/kg)
 - epidurální nebo subarachnoidální vstup má dlouhý účinek
 - nežádoucí účinky: dechová deprese, pruritus (svědivé projevy) a nauzea (nevolnost) nebo 
 zvracení
 - působí dlouho (až 4 hodiny) 
 
-Petidin 
+#### Petidin 
 (1 mg/kg)
 - nástup účinku je rychlejší a kratší než u morfinu
 - postupně se v organismu kumuluje a mohou se projevit neurotoxické účinky a křeče
 - podává i. m., s. c. a i. v. 
 - nevhodné pro kojící a gravidní ženy 
 
-Fentanyl 
+#### Fentanyl 
 (50 – 200 μg./kg) 
 - nejčastěji používaným opioidem v anesteziologii a resuscitaci. 
 - má 100x silnější analgetický účinek než morfin. 
 - podává i. v. 
 - u novorozenců a starších osob se může očekávat útlum dýchání již po malých dávkách
 
-Sufentanil 
+#### Sufentanil 
 (0,5-5 μg/kg)
 - má 7–10x větší analgetický účinek než fentanyl 
 - udržuje kardiovaskulární stabilitu. 
@@ -1933,67 +1924,67 @@ Sufentanil
 - nežádoucí účinky: výskyt nauzey, zvracení a pruritus (svědivé projevy) v oblasti obličeje
 
 
-Alfentanil 
+#### Alfentanil 
 (dávka v rámci IP - individuálního plánu)
 - Alfentanil je asi 10x slabší analgetikum, než fentanyl, a 10x silnější analgetikum, než morfin. 
 - rychlý a krátkodobý účinek 
 - krátkodobé výkony a ambulantní chirurgie 
 
-Remifentanil 
+#### Remifentanil 
 (0,5 až 1 g/kg/min) 
 - nutné podávat remifentanil spolu s celkovým anestetikem, např. propofolem, thiopentalem nebo isofluranem (může dojít k útlumu dechu)  
 - rychlý a krátkodobý účinek (5-10 minut)
 
 
-Antidota opioidů - Naloxon 
+## Antidota opioidů - Naloxon 
 - ruší všechny účinky opioidů, tj. nejen útlum dechu, ale i analgezii 
 - krátkodobý účinek 
 - aplikuje po částech 0,1-0,2 mg i.v. (1,5-3 mikrogramy/kg) v odstupu 2-3 minut
 
 
 
-Svalová relaxancia 
+## Svalová relaxancia 
 
-Suxametonium 
+#### Suxametonium 
 (1,5 mg/kg)
 - velmi rychlý a způsobuje kvalitní relaxaci příčně pruhovaného svalstva 
 - při tracheální intubaci
 - účinek 3 - 5 minut
 - nevýhody: bolesti svalů, hyperkalemie vyvolat maligní(zhoubné) hypertermii, bradykardii, zvyšuje nitrobřišní a nitrooční tlak. 
 
-Ostatní
-Pankuronium 
+####Ostatní
+#### Pankuronium 
 - může působit tachykardii a hypertenzi následkem uvolňování noradrenalinu 
 - dlouhotrvající účinek  
-Pipekuronium 
+#### Pipekuronium 
 - malé ovlivnění oběhu,ale se může kumulovat
 - dlouhotrvající účinek 
-Vekuronium 
+#### Vekuronium 
 - u neurgentních intubací
 - střednědobý účinek
-Mivakurium 
+#### Mivakurium 
 - má nejkratší dobu účinku
 - lokální užití 
 
 
 
 
-Místní anestetika
-Prokain 
+## Místní anestetika
+#### Prokain 
 (1%, 2%, 10% roztok.)
 - lokální anestetikum
 - vykazuje nejnižší toxicitu, proto byl využíván k intravenózním infuzím. 
 
-Lidokain 
+#### Lidokain 
 - nejužívanější krátce-střednědobě působící lokální anestetikum s nízkou toxicitou. 
 - infiltrační anestezie 0,5–1%
 - periferním nervovým blokádám 1–2%
 - epidurální blokáda 1–2%.
 - k dispozici je i ve formě náplastí, gelu, aerosolu.
 
-Mesokain (podobné prokainu), Xylokain (podobné lidokainu)
+#### Mesokain (podobné prokainu), Xylokain (podobné lidokainu)
 
-Trimekain 
+#### Trimekain 
 - je látka podobná lidokainu (metylovaný lidokain).  
 - 2x účinnější nežli prokain 
 - infiltrační anestézie 0,5% až 1% roztok
@@ -2001,33 +1992,33 @@ Trimekain
 - Nevýhodou trimekainu i lidokainu je zvyšují se riziko toxické reakce. 
 - K prodloužení účinku a snížení toxicity jsou proto přidávány k místním anestetikům příměsi (adrenalin 1 : 200 000 nebo fenyloktapresin).  
 
-Mepivakain 
+#### Mepivakain 
 - lokální anestetikum 
 - (max dávka nemá přesáhnout 7 mg/kg)
 - dostatečný pro zákroky trvá asi 130 až 160 minut
 
-Bupivakain 
+#### Bupivakain 
 - lokální anestetikum
 - maximální dávka je 2 mg/kg při použití adrenalinu 2,5 mg/kg, ne více než 225 mg)
 - nástup účinku je velmi pozvolný, délka účinku však v některých lokalizacích dosahuje mnoha hodin
 - určen pro všechny typy místní anestezie s výjimkou intravenózní 
 - nevýhodou bupivakainu je toxicita projevující se neurologickými a zejména kardiovaskulárními příznaky, jejich léčba může být navíc obtížná
 
-Ropivakain 
+#### Ropivakain 
 - lokální anestetikum
 - maximální dávka je 3 mg.kg-1)
 -určen pro všechny typy místní anestezie, jako je epidurální anestezie, včetně porodnictví - při císařském řezu, blokády velkých nervů, lokální anestezie 
 (infiltrace)
 - má jak analgetický, tak anestetický účinek 
 . 
-Artikain 
+#### Artikain 
 - lokální anestetikum 
 - nižší toxicita
 - používá se ve stejných koncentracích a indikacích jako lidokain
 - převažuje použití ve stomatologii
 
 
-Alergická reakce 
+## Alergická reakce 
 - příznaky: hypotenze, šok, srdeční zástava, erytém (červené zbarvení kůže) bronchospasmus (stažení svalů ve stěnách průdušek), angioedém (otok)
 
 - nutné zastavit podávání všech potenciálních antigenů. 
@@ -2035,7 +2026,7 @@ Alergická reakce
 - nutné položit pacienta a zvednout dolní končetiny (ne při dechových potížích). 
 - nutné podat adrenalin 0,5 mg i. m.
 
-Následná léčba 
+## Následná léčba 
 - Antihistaminika: chlorfenamin 10–20 mg pomalu i. v. 
 - Kortikoidy: hydrokortizon 100–300 mg i. v. 
 - Katecholaminy: při přetrvávající oběhové nestabilitě. 
@@ -2044,64 +2035,64 @@ Následná léčba
 - při obtížích dýchacích cest intubovat a přechodně převést na řízenou ventilaci. 
 
 
-Toxická reakce 
+## Toxická reakce 
 - zvýšená koncentrace místního anestetika v senzitivních orgánech, zejména CNS a srdci
 - nutné zajistit průchodnosti cest dýchacích, podání kyslíku, v případě křečí podání diazepamu nebo thiopentalu nebo svalového relaxancia
 - nutno zajistit i.v. vstup 
 
 
-Vybavení pro místní (lokální)
+## Vybavení pro místní (lokální)
 1) ruční dýchací přístroj s možností přísunu kyslíku ve vysoké koncentraci 
 2) svítící laryngoskop, tracheální rourky, zavaděč tracheálních rourek, Magillovy kleště
 3) odsávačku s odsávacími cévkami 
 4) pomůcky ke vstupu do žilního řečiště (i.v. kanyly, infuze) 
 5) thiopental a diazepam 
 6) atropin, efedrin, adrenalin 
-Premedikace 
+## Premedikace 
 
 
-Anxiolýza 
+#### Anxiolýza 
 (odstranění nervového napětí)
 - Benzodiazepiny (viz.)
 
-Sedace
+#### Sedace
 - Benzodiazepiny (viz.), barbituráty, neuroleptika  
 
 
-Anterográdní amnézie 
+#### Anterográdní amnézie 
 (porucha paměti pro nové informace)
 - Benzodiazepiny (viz.)
   
-Antiemetický účinek 
+#### Antiemetický účinek 
 (Nevolnost a zvracení) 
 - Neuroleptika (Antipsychotika)(flupentixol, melperon - i.m), H1 antagonisté  
 
-Snížení objemu a sekrece žaludeční šťávy
+#### Snížení objemu a sekrece žaludeční šťávy
 - H2 blokátory 
 
 
-Vegetativní stabilizace
+## Vegetativní stabilizace
 (odstranění vnímání bolesti, potlačení autonomních reakcí. – myorelaxace)
-Parasympatikolytika 
+###Parasympatikolytika 
 
-Atropin 
+#### Atropin 
 - u bradyarytmií, před celkovou anestezií
 
-Skopolamin
+#### Skopolamin
 - vyvolává útlum CNS, u bradyarytmií, před celkovou anestezi
 
-Homatropin 
+#### Homatropin 
 - v očním lékařství při topické (povrchová, slizniční) anestezii 
 
 
 
-Analgezie
+## Analgezie
 (odstraňování bolesti)
-opioidy (viz.)
+opioidy 
 
-Zajištění dýchacích cest
+## Zajištění dýchacích cest
 
-Tracheální rourka a tracheální intubace 
+#### Tracheální rourka a tracheální intubace 
 - zajišťuje oddělení horních dýchacích cest od zažívacího traktu
 - je nutné podat inhalačně kyslík po dobu 4 minut a zavedení i.v. či inhalační anestezie
 - následně provedeme přímou laryngoskopii která spočívá v zavedení laryngoskopu 
@@ -2112,12 +2103,12 @@ Tracheální rourka a tracheální intubace
 
 
 
-Pomůcky na zabezpečení průchodnosti dýchacích cest
+## Pomůcky na zabezpečení průchodnosti dýchacích cest
 
-Laryngeální maska 
+#### Laryngeální maska 
 - miniinvazivní zajištění dýchacích cest při vedení celkové inhalační anestezie. 
 
-Kombirourka a laryngeální tubus 
+#### Kombirourka a laryngeální tubus 
 - pomůcka pro personál nedostatečně zkušeným v technice tracheální intubace
 - slučuje možnost intubace nebo ventilace za použití jícnového obturátoru. 
 - riziko traumatizace horních cest dýchacích 
@@ -2130,40 +2121,40 @@ Kombirourka a laryngeální tubus
 
 
 
-Invazivní postupy zajištění dýchacích cest
+## Invazivní postupy zajištění dýchacích cest
 
-Tracheostomie
+#### Tracheostomie
 - průdušnice uměle vyústěna na povrch těla.
 - provedeme řez horizontální či vertikální a následně protneme kožní svaly krku a povrchový list krční mezodermní tkáně fibrózního kolagenu a následně protneme inf. vrstvu svaloviny a pronikneme tak k obalu štítné žlázy kde protneme vazivové spojení mezi pouzdrem štítné žlázy a prstenčitou chrupavkou a náslecně nařízneme přední stěnu průdušnice a zavedeme tracheostomické kanyly a provedeme suturu rány  
 
 
-Aplikace celkových anestetik
+## Aplikace celkových anestetik
 
-Kanylace periferní žíly 
+#### Kanylace periferní žíly 
 - základní postup
 - žíly v oblasti ruky
 
-Kanylace centrální žíly 
+#### Kanylace centrální žíly 
 - slouží pro dlouhodobý přístup do cévního řečiště
 - kanylace v. subclavia (žíla podklíčková) a v. jugularis interna (vnitřní hrdelní žíla)
 
-Intraoseální přístup 
+#### Intraoseální přístup 
 - nouzový přístup do cévního řečiště tam, kde je nutné urychleně mít žilní přístup a není možno provést předchozí
 
-Kanylace arterie
+#### Kanylace arterie
 - invazivní měření krevního tlaku tam, kde čekáme rychlých změn 
 - nejčastěji se používá ke kanylaci a. radialis (vřetenní tepna) nedominantní končetiny
 
-Allenův test 
+#### Allenův test 
 - k ověření funkčnosti kolaterálního oběhu cestou a. ulnaris (loketní tepna). 
 - u pacienta palpujeme obě tepny na zápěstí
 - vyzveme ho, aby silně stiskl ruku do pěsti a obě arterie uzavřeme tlakem svých palců
 - pacient povolí sevření pěsti – ruka zůstává bledá
 - uvolníme tlak nad a. ulnaris a sledujeme, za jak dlouho se ruka prokrví (zrůžoví)
 - norma je do 4 – 5 sekund
-Aplikace svodných anestetik 
+## Aplikace svodných anestetik 
 
-Epidurální anestezie 
+#### Epidurální anestezie 
 - zavedení místního anestetika do epidurálního prostoru ( je uvnitř páteřního kanálu ve vaku tvrdé pleny míšní)
 - dělíme epidurální anestezii na sakrální (kaudální), lumbální (nejčastěji ve výši L3 – L4) a hrudní, výjimečně krční.
 - k punkci epidurálního prostoru je používána nejčastěji jehla se zahnutým hrotem a otvorem směřujícím stranou hrotu, který umožňuje zavedení katetru
@@ -2173,7 +2164,7 @@ Epidurální anestezie
 - způsobuje pokles krevního tlaku hypotenze
 - riziko toxické reakce 
 
-Subarachnoidální anestezie
+#### Subarachnoidální anestezie
  - je zavedení místního anestetika subarachnoidálně do mozkomíšního moku.
 - k punkci subarachnoidálního prostoru je používána tenká spinální jehlou
 -  nástup účinku rychlý (2-3 minuty)
@@ -2186,15 +2177,15 @@ Subarachnoidální anestezie
 
 
 
-Průběh celkové anestezie
+#### Průběh celkové anestezie
 - vedení celkové anestezie vyžaduje pečlivé sledování klinického stavu nemocného a jeho životních funkcí, hloubky a kvality anestezie a její doplňování
 - je nutné včas reagovat na komplikace (krevní ztráta, odeznívání relaxace apod.)
 
-Monitorace a dokumentace v anesteziologii
+#### Monitorace a dokumentace v anesteziologii
 - Nutno sledovat kvalitu a frekvenci pulsu, periferní prokrvení, barvu sliznic, pocení, šíří zornic, krevní tlak, rychlost a hloubku dýchání, průchodnost dýchacích cest, dýchací šelesty. 
 - Sledování kontinuálního záznam EKG, srdeční frekvence a pulzní oxymetrie 
 
-Kapnografie a kapnometrie 
+#### Kapnografie a kapnometrie 
 - trvale sleduje koncentraci oxidu uhličitého ve vydechované dýchací směsi při ventilaci
 
 
