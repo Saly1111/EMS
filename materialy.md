@@ -467,10 +467,10 @@ Anestetika jsou dělena na celková a lokální. Celková se používají při v
 #### Celková anestetika
 Jejich použití je hlavně při operacích, v terénu pak pro zajištění pacienta s těžkými zraněními na převoz. Jsou dva druhy anestezií a to buďto inhalační, nebo intravenózní. Doba trvání závisí na délce podávání.
 Inhalační
-Isofluran - způsob podání je za pomoci dýchací masky, může lehce zvýšit srdeční frekvenci.
+Isofluran - způsob podání je za pomoci dýchací masky, může lehce zvýšit  frekvenci.
 Rajský plyn (oxyd dusný) - způsob podání dýchací maskou, slabá anestezie, doporučeno pro lehčí zákroky
 Intravénózní  - krátké výkony vyžadující anestezii, rychle se dostávají do mozku, nabíhá během pár sekund. Pro delší udržení je třeba anestetika dále distribuovat do těla. K ukončení anestezie stačí ukončit distribuci.
-Propofol - nástup okamžitý, trvá 4-8 min., nenastává stav oblouznění, způsobuje pokles srdečního tlaku, zvyšuje srdeční frekvenci
+Propofol - nástup okamžitý, trvá 4-8 min., nenastává stav oblouznění, způsobuje pokles ho tlaku, zvyšuje  frekvenci
 Midazolam - pomocné anestetikum, snižuje riziko kardiovaskulárního a dechového útlumu
 
 #### Lokální anestetika
@@ -488,7 +488,7 @@ Lokální anestetika se používají pro lokální umrtvení ošetřovaného mí
  Působí jako intoxikační látky:
 
 - **Narcan :** Předávkování opioidy či jako prevence opiové závislosti. Podává se nejčastěji intravenózně do svalové tkáně. Působí během 2 minut a jeho účinek je cca 30min - 1 hodinu. Pokud jsou účinky opioidních látek delší než účinky Narcanu, je třeba dávku opětovně aplikovat až do kýženého účinku. 
-POZOR: U osob závislých na opioidech může způsobit abstinenční syndrom, nervozitu, nevolnost, zvracení, zrychlení srdečního tepu a pocení.   
+POZOR: U osob závislých na opioidech může způsobit abstinenční syndrom, nervozitu, nevolnost, zvracení, zrychlení ho tepu a pocení.   
 
 ### Myorelaxancia: 
 Látky uvolňující spazmy (tzn. svalové křeče) a vedou k jejich relaxaci: 
@@ -498,7 +498,7 @@ Látky uvolňující spazmy (tzn. svalové křeče) a vedou k jejich relaxaci:
 - **Sukcinylcholin:** Působí velmi krátce. Pro dlouhodobější působení lze podat infuzi. Dochází k relaxaci nejprve očí, prstů a jazyku, teprve následně končetin, krku a svalů v hrtanu. Proto je záhodné tento svalový relaxant používat při intubaci.
 
 ### Betablokátory
-- zpomalují srdeční frekvenci, snižují krevní tlak, pomáhají při srdeční arytmii
+- zpomalují  frekvenci, snižují krevní tlak, pomáhají při srdeční arytmii
 -  nejčastěji se podávají ve formě tabletek, tudíž u pacientů, kteří se např. s hypertenzí léčí dlouhodobě
 - nepodávat pacientům s astmatem, mohou vyvolat astmatický záchvat
 - podávat opatrně u pacientů s cukrovkou, mohou maskovat příznaky nízkého cukru v krvi
@@ -911,10 +911,11 @@ Po dobu 1 týdne dochází na pravidelné kontroly krevního obrazu
 
 ### Příčiny:
 #### Ischemie: nedokrevnost určité tkáně nebo orgánu, to vede k jejímu poškození nebo odumření. Ischemii způsobuje hlavně nedostatek kyslíku potom nedostatek živin.
-#### Hypoxie: menší nebo nedostatečné množství kyslíku pro metabolismus skupiny hypoxie: Hypoxemická- Způsobuje menší parciální tlak kyslíku.
-Anemická- Chyba na straně červených krvinek
-Cirkulační- červené krvinky nesou kyslík
-Histotoxická- Chyba na straně buněk
+#### Hypoxie: menší nebo nedostatečné množství kyslíku pro metabolismus skupiny hypoxie: <br>
+Hypoxemická- Způsobuje menší parciální tlak kyslíku. <br>
+Anemická- Chyba na straně červených krvinek<br>
+Cirkulační- červené krvinky nesou kyslík<br>
+Histotoxická- Chyba na straně buněk<br> 
 #### Zánět: 
 Je složitá reakce živého organismu na poškození. Zahrnuje komplex biochemických a imunologických změn.
 ##### Alterativní zánět
