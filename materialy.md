@@ -841,13 +841,13 @@ Diagnóza
 ## Transplantece kostní dřeně
 
 #### Pacient:
- - Zavede se katetr do centrální žíly hrudníku (subklavie, podklíčková žíla)
+- Zavede se katetr do centrální žíly hrudníku (subklavie, podklíčková žíla)
 - Provést chemoterapii - aplikování cytostatik
--Léky proti nevolnosti a zvracení: Antiemetika
--Podpůrné léky: Ranital- snížení kyselosti žalud. šťáv a mesnauromitexan - ochrana sliznic močových cest.
--Po ukončení chemoterapie podáváme imunosupresiva - cyklosporin-A a metotrexat s metylprednisolonem
+- Léky proti nevolnosti a zvracení: Antiemetika
+- Podpůrné léky: Ranital- snížení kyselosti žalud. šťáv a mesnauromitexan - ochrana sliznic močových cest.
+- Po ukončení chemoterapie podáváme imunosupresiva - cyklosporin-A a metotrexat s metylprednisolonem
 - Transplantace kostní dřeně z vaků (v nich je protisrážlivý roztok) za pomocí katetru ( 0,5 - 1,5l)
-Pooper.: Podáváme pacientovi parenterální výživu a případě léky proti bolesti. 
+Pooperační.: Podáváme pacientovi parenterální výživu a případě léky proti bolesti. 
 Pokud se krvetvorba dostatečně neobnoví podáváme transfúze červených krvinek a koncentráty krevních destiček (Trombokoncentráty)
 - Podáváme erytropoetin (např. Eprex) na urychlení růstu červených krvinek
 - Provádíme odběr krve: Zjistit se objevily neutrofilní granulocyty (zralé bílé krvinky - aby jsme zamachrovali)
@@ -865,7 +865,7 @@ s těžšími formami alergie (sklon k alergii se může přenést spolu s darov
      - se záchvatovými stavy, závislí na užívání léků
      - s cukrovkou závislou na užívání inzulinu či léků
      - po prodělání infekce přenosné krví, jako je HIV, žloutenka typu  B a C, syfilis, malárie, 	
-     - s nemocemi, které by se mohly zátěží, spojenou s odběrem, 	teoreticky aktivovat (tuberkulóza, sarkoidóza, autoimunní onemocnění apod.)
+     - s nemocemi, které by se mohly zátěží, spojenou s odběrem, teoreticky aktivovat (tuberkulóza, sarkoidóza, autoimunní onemocnění apod.)
      - lidé závislí na alkoholu, drogách a lidé v úzkém kontaktu s HIV pozitivní osobou
 
 
@@ -938,12 +938,12 @@ O gangrenózním zánětu se hovoří tehdy, jsou-li zánětem poškozené tkán
 
 ## Zlomeniny žeber
 
-- Nejčastější příčiny: Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy 
-- Anamnéza: výrazná bolest při stlačení hrudníku nebo při výdechu/nádechu, dechová tíseň, omezená hybnost, dráždivý kašel 
-- Vyšetření: pohmat – stlačení hrudníku, RTG snímek hrudníku (v nejasných případech i CT)
-- Diagnóza: segmentované = vícečetné zlomeniny (na 1 žebru) sériové zlomeniny (několik žeber nad sebou) dvířková zlomenina = oboustranné vylomení několika žeber 
-- První pomoc: Fowlerova poloha (= v polosedě, usnadňuje dýchání), opioidní analgetika (Codein, Morfin) 
-- Léčba:
+- **Nejčastější příčiny:** Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy 
+- **Anamnéza:** výrazná bolest při stlačení hrudníku nebo při výdechu/nádechu, dechová tíseň, omezená hybnost, dráždivý kašel 
+- **Vyšetření:** pohmat – stlačení hrudníku, RTG snímek hrudníku (v nejasných případech i CT)
+- **Diagnóza:** segmentované = vícečetné zlomeniny (na 1 žebru) sériové zlomeniny (několik žeber nad sebou) dvířková zlomenina = oboustranné vylomení několika žeber 
+- **První pomoc:** Fowlerova poloha (= v polosedě, usnadňuje dýchání), opioidní analgetika (Codein, Morfin) 
+- **Léčba:**
  	- konzervativní – bandáž nebo hrudní krunýř, analgetická léčba (paracetamol, Codein, Tramadol), případně obstřik mezižeberních nervů (lokální anestezie) 
  	- operační (pouze u nestabilních hrudníků a zlomenin více než 5ti žeber): 
 1) celková anestezie
@@ -954,22 +954,25 @@ O gangrenózním zánětu se hovoří tehdy, jsou-li zánětem poškozené tkán
 6) přiložení přední dlahy Judetova typu (případně absorbovatelné dlahy 40-150mm) 
 7) fixace bikortikálními šrouby a fixačními kleštěmi 
 8) šití rány a bandáž hrudníku 
-Následná léčba doma: hojení cca 3-6týdnů, studené obklady, těsná bandáž 
+**Následná léčba doma:** hojení cca 3-6týdnů, studené obklady, těsná bandáž 
 rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu 
-Poučit pacienta: nepotlačovat kašel (jako obrana organismu se tvoří hlen, který musí ven) – přitlačte si polštář k hrudníku během kašle, spaní na zádech v polosedu, ne na břiše!, nepijte alkohol a nekuřte
+**Poučit pacienta:** nepotlačovat kašel (jako obrana organismu se tvoří hlen, který musí ven) – přitlačte si polštář k hrudníku během kašle, spaní na zádech v polosedu, ne na břiše!, nepijte alkohol a nekuřte
 
 ## Hemothorax
-Nejčastější příčiny: Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy 
-Anamnéza: kolaps plíce s dechovou nedostatečností, dušnost, cyanóza (= zmodrání kůže), rozvoj šoku, krvácení z pohraniční dutiny (nejčastěji z interkostálních artérií, méně často z plic) 
-Vyšetření: RTG hrudníku 
-Diagnóza: Hemothorax - malý (do 500 ml), střední (500–1500 ml), velký (masivní – nad 1500 ml = bezprostřední ohrožení života)
-Léčba: Punkce ve střední čáře axilární v 6. mezižebří při horní hraně dolního žebra a následná drenáž s připojením na rezervoár - odpad do 1000 ml – krvácení se zastaví obvykle spontánně, - odpad nad 1500 ml jednorázově nebo pokračující ztráty nad 300ml/h – indikována urgentní torakotomie (= otevřená plicní biopsie, při níž je odebrán vzorek plicní tkáně otevřeným řezem hrudní stěny) s ošetřením zdroje krvácení. 1) celková anestezie 2) endotracheální intubace 3) desinfekce a incize hrudní stěny (= naříznutí skalpelem) 4) revize dutiny hrudní (odsátí krve, torakotomie, hrudní drenáž) 5) šití rány a bandáž hrudníku
-Následná léčba doma: hojení cca 3-6týdnů, studené obklady, těsná bandáž
-Poučit pacienta: nepotlačovat kašel - hlen musí ven – přitlačte si polštář k hrudníku během kašle spaní na zádech v polosedu, ne na břiše! nepijte alkohol a nekuřte rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu
-Kanylace periferní žíly
+**Nejčastější příčiny:** Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy <br>
+**Anamnéza:** kolaps plíce s dechovou nedostatečností, dušnost, cyanóza (= zmodrání kůže), rozvoj šoku, krvácení z pohraniční dutiny (nejčastěji z interkostálních artérií, méně často z plic) <br>
+**Vyšetření:** RTG hrudníku <br>
+**Diagnóza:** Hemothorax - malý (do 500 ml), střední (500–1500 ml), velký (masivní – nad 1500 ml = bezprostřední ohrožení života)<br>
+**Léčba:** Punkce ve střední čáře axilární v 6. mezižebří při horní hraně dolního žebra a následná drenáž s připojením na rezervoár - odpad do 1000 ml – krvácení se zastaví obvykle spontánně, - odpad nad 1500 ml jednorázově nebo pokračující ztráty nad 300ml/h – indikována urgentní torakotomie (= otevřená plicní biopsie, při níž je odebrán vzorek plicní tkáně otevřeným řezem hrudní stěny) s ošetřením zdroje krvácení. 1) celková anestezie 2) endotracheální intubace 3) desinfekce a incize hrudní stěny (= naříznutí skalpelem) 4) revize dutiny hrudní (odsátí krve, torakotomie, hrudní drenáž) 5) šití rány a bandáž hrudníku <br>
+**Následná léčba doma:** hojení cca 3-6týdnů, studené obklady, těsná bandáž <br>
+**Poučit pacienta:** nepotlačovat kašel - hlen musí ven – přitlačte si polštář k hrudníku během kašle spaní na zádech v polosedu, ne na břiše! nepijte alkohol a nekuřte rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu <br>
 
-Použití: diagnostické účely, infúze, transfúze, aplikace léků i.v., výživa 
-Umístění: na dorsu ruky (hřbetu), zápěstí, předloktí libovolným směrem ale ideálně po směru gravitace Postup: 1) nad místem vpichu zaškrtíme gumovým turniketem 
+## Kanylace periferní žíly
+
+**Použití:** diagnostické účely, infúze, transfúze, aplikace léků i.v., výživa <br>
+**Umístění:** na dorsu ruky (hřbetu), zápěstí, předloktí libovolným směrem ale ideálně po směru gravitace <br>
+**Postup:**
+1) nad místem vpichu zaškrtíme gumovým turniketem 
 2) desinfekce místa pro vpich 
 3) zavedeme kanylu na jehlovém mandrénu pod úhlem 10-30°
 4) vysuneme mandrén a zavedeme kanylu 
@@ -978,10 +981,10 @@ Umístění: na dorsu ruky (hřbetu), zápěstí, předloktí libovolným směre
 ## Pneumothorax 
 
 Nejčastější příčiny: Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy 
-Anamnéza: kolaps plíce s dechovou nedostatečností, dušnost, cyanóza (=zmodrání kůže), rozvoj šoku Vyšetření: RTG hrudníku, v nejasných případech CT
-Diagnóza: spontánní (otevřený a zavřený) pneumotorax, tenzní (záklopkový) pneumotorax
-První pomoc: Otevřený pneumotorax ošetříme poloprodyšným obvazem (3 vrstvy, 3 zalepené stěny), fixujeme horní končetinu na poraněné straně do závěsu, uzavřený a záklopkový pneumothorax ošetřujeme tenzní punkcí
-Léčba: Rozsáhlejší spontánní pneumotorax je třeba drénovat (=slouží k odvodu látek z těla (krve, sekretu, žluče, vzduchu atd.) po operaci či zranění. Jejím cílem je zamezit hromadění tekutin či vzduchu v dané prostoru, principem je drenáž pomocí drenážní trubice. Samotný sekret se hromadí v rezervoáru.), tedy postupně za nízkého tlaku odsávat vzduch. Při selhání všech výše uvedených metod je na místě chirurgický zásah.
+**Anamnéza:** kolaps plíce s dechovou nedostatečností, dušnost, cyanóza (=zmodrání kůže), rozvoj šoku Vyšetření: RTG hrudníku, v nejasných případech CT
+**Diagnóza:** spontánní (otevřený a zavřený) pneumotorax, tenzní (záklopkový) pneumotorax
+**První pomoc:** Otevřený pneumotorax ošetříme poloprodyšným obvazem (3 vrstvy, 3 zalepené stěny), fixujeme horní končetinu na poraněné straně do závěsu, uzavřený a záklopkový pneumothorax ošetřujeme tenzní punkcí
+**Léčba:** Rozsáhlejší spontánní pneumotorax je třeba drénovat (=slouží k odvodu látek z těla (krve, sekretu, žluče, vzduchu atd.) po operaci či zranění. Jejím cílem je zamezit hromadění tekutin či vzduchu v dané prostoru, principem je drenáž pomocí drenážní trubice. Samotný sekret se hromadí v rezervoáru.), tedy postupně za nízkého tlaku odsávat vzduch. Při selhání všech výše uvedených metod je na místě chirurgický zásah.
 Tenzní pneumotorax je třeba ošetřit okamžitě – nejprve snížíme intrapleurální tlak odsátím vzduchu silnou punkční jehlou (nejlépe ve 2. mezižebří = pod klíční kostí) a poté drénujeme hrudník.
 1) celková anestezie
 2) endotracheální intubace
@@ -989,15 +992,15 @@ Tenzní pneumotorax je třeba ošetřit okamžitě – nejprve snížíme intrap
 4) hrudní drenáž
 5) šití rány a bandáž hrudníku 
 6) inhalace kyslíku – urychluje vstřebávání PNO 
-Drénáž: slouží k odvodu látek z těla (krve, sekretu, žluče, vzduchu atd.) po operaci či zranění. Jejím cílem je zamezit hromadění tekutin či vzduchu v dané prostoru, což má za následek komplikace hojení. Principem je drenáž pomocí drenážní trubice. Samotný sekret se hromadí v rezervoáru. Drenáž lze odstranit po 48-72 hodinách. 
-Následná léčba doma: hojení cca 3-6týdnů, studené obklady, těsná bandáž rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu 
-Poučit pacienta: nepotlačovat kašel - hlen musí ven – přitlačte si polštář k hrudníku během kašle spaní na zádech v polosedu, ne na břiše! nepijte alkohol a nekuřte rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu
+**Drénáž:** slouží k odvodu látek z těla (krve, sekretu, žluče, vzduchu atd.) po operaci či zranění. Jejím cílem je zamezit hromadění tekutin či vzduchu v dané prostoru, což má za následek komplikace hojení. Principem je drenáž pomocí drenážní trubice. Samotný sekret se hromadí v rezervoáru. Drenáž lze odstranit po 48-72 hodinách. 
+**Následná léčba doma:** hojení cca 3-6týdnů, studené obklady, těsná bandáž rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu 
+**Poučit pacienta:** nepotlačovat kašel - hlen musí ven – přitlačte si polštář k hrudníku během kašle spaní na zádech v polosedu, ne na břiše! nepijte alkohol a nekuřte rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu
 
 
 
 ## Akutní mozková poranění
 
-Typy mozkových poranění:
+### Typy mozkových poranění:
 
 Primární poškození mozkové tkáně: Vzniká v momentě úrazu. Mezi nejčastější zranění řadíme - zhmoždění mozku různých stupňů, penetrující poranění difuzní axonální poranění. 
 Jak zranění vzniká: Buď to přímým nárazem a nebo nárazem a zpětným nárazem. 
@@ -1016,42 +1019,43 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 ## Chirurgický slovníček
 
 
-Laparotomie - chir. otevření dutiny břišní
-      - horní střední řez - nad pupkem - žaludek, dvanáctník, žlučníkové cesty
-                      - dolní střední- pod pupkem- střeva, děloha
-                      - lumbotomie - na zádech nad ledvinou - op. ledvin
-                      - šikmý řez v pravém podžebří - játra, žlučník
+**Laparotomie - chir. otevření dutiny břišní**
+- horní střední řez - nad pupkem - žaludek, dvanáctník, žlučníkové cesty
+- dolní střední- pod pupkem- střeva, děloha
+	- lumbotomie - na zádech nad ledvinou - op. ledvin
+	- šikmý řez v pravém podžebří - játra, žlučník
 
-Incize - chirurgické otevření rány řezem 
-Excize - vyříznutí orgánu, tkáně či nadoru 
-Exstirpace - uplné odstranění zřetelně ohraničeného patologického ložiska
-Resekce - částečné odstranění orgánu
-Amputace - odříznutí či odnětí části těla
-Anastomóza - chirurgické napojení žil či tepen (většinou žilní či jiný štěp)
-Replantace - našívá zpátky oddělená část těla
-Transplantace - přenos a vpravení odebrané tkáně či orgánu 
+**Incize** - chirurgické otevření rány řezem 
+**Excize** - vyříznutí orgánu, tkáně či nadoru 
+**Exstirpace** - uplné odstranění zřetelně ohraničeného patologického ložiska
+**Resekce** - částečné odstranění orgánu
+**Amputace** - odříznutí či odnětí části těla
+**Anastomóza** - chirurgické napojení žil či tepen (většinou žilní či jiný štěp)
+**Replantace** - našívá zpátky oddělená část těla
+**Transplantace** - přenos a vpravení odebrané tkáně či orgánu 
 
-Hypoxemická hypoxie - nízký parciální tlak kyslíku PO2 (kyslík 35-40 torrů). Poskytnutí zvlhčeného a ohřátého kyslíku s malou koncentrací ox. uhličitého. Používáme kyslíkové brýle (možno použít i v sanitce) 
+**Hypoxemická hypoxie** - nízký parciální tlak kyslíku PO2 (kyslík 35-40 torrů). Poskytnutí zvlhčeného a ohřátého kyslíku s malou koncentrací ox. uhličitého. Používáme kyslíkové brýle (možno použít i v sanitce) 
 
-Laserová operace - nastroj - laserový skalpel
+**Laserová operace** - nastroj - laserový skalpel
                       - Vaporizace - odstranění tkáně odpařením
                       - Fototermální efekt - zastavení krvácení - endoskopie
                       - Roztržení tkáně - zvýšení teploty na 1250 stupňů - roztržení, řezání
 
-Endoskopie - vyšetření dutin a dutých orgánů či uměle vytvořených dutin ( laparoskopie) - Rigidní endoskop (tubusový) - žaludek, krk, horní části těla
+**Endoskopie** - vyšetření dutin a dutých orgánů či uměle vytvořených dutin ( laparoskopie) - Rigidní endoskop (tubusový) - žaludek, krk, horní části těla
                       - Flexibilní endoskop - můžeme jej ohýbat o 90 stupňů - střeva
                                                            - zorný úhel 30-120 stupňů 
 
-Termokoagulační elektroda - zastavení vnitřního krvácení - používá se při gastroskopii - zavedení endoskopu nebo u laparoskopie
+**Termokoagulační elektroda** - zastavení vnitřního krvácení - používá se při gastroskopii - zavedení endoskopu nebo u laparoskopie
 
-Elektrokoagulátor - vypalování cévek při krvácení do mozku
+**Elektrokoagulátor** - vypalování cévek při krvácení do mozku
 
-Bikarbonát - urychlení účinků adrenalinu
-Solumedrol - proti zánětu (poop)
-Diuretikum - Furosemid (snížení otoků, poop)
-Atropin - na nízký krevní tlak (IV)
-Enap/Adenosin - na vysoký krevní tlak (IV)
-IV - intravenózní vstup     IO - intraoseální vstup 
+**Bikarbonát** - urychlení účinků adrenalinu
+**Solumedrol** - proti zánětu (poop)
+**Diuretikum** - Furosemid (snížení otoků, poop)
+**Atropin** - na nízký krevní tlak (IV)
+**Enap/Adenosin** - na vysoký krevní tlak (IV)
+**IV** - intravenózní vstup     
+**IO** - intraoseální vstup 
 
 
 ## Chirurgie
@@ -1169,28 +1173,29 @@ IV - intravenózní vstup     IO - intraoseální vstup
 
 - Šok je primárně porucha krevního oběhu, která vede k akutnímu nepoměru mezi potřebou a dodávkou okysličené krve tkáním.
 
-Hypovolemický šok 
+### Hypovolemický šok 
 (ztráta cirkulujícího objemu buď krvácením, nebo ztrátou tekutin jako v případě rozsáhlých popálenin, dehydratace) 
 - nutné zastavit krvácení a zajistit přísun tekutin (r.r., h.r) a zajistit pacientovi přísun kyslíku
 - dále je možné UPV - umělá plicní ventilace a podpora zasažených orgánů medikamenty 
 
-Obstruktivní šok 
+### Obstruktivní šok 
 (překážka toku krve způsobená např. masivní plicní embolií nebo zevním útlakem srdce – přetlakový pneumotorax, srdeční tamponáda)
 - nutné povětšinou chirurgicky (v některých případech i farmakologicky či radiointervenčně)  odstranit obstrukci 
 
-Kardiogenní šok 
+### Kardiogenní šok 
 (neschopnost srdce efektivně čerpat krev – např. akutní infarkt myokardu, srdeční arytmie, kardiomyopatie či myokarditida - zánětlivé onemocnění srdečního svalu)
 - nutné obnovit přísun krve do myokardu za použití farmak či invazivními postupy (stenty do koronárních artérií, by-passy, balónková kontrapulzace apod.)
 
-Distribuční šok 
+### Distribuční šok 
 (šok způsobený extrémním rozšířením cévního řečiště, například při poruše míchy)
 - nutné započít lečbu s protišokovou polohou a podáním vasokonstrikčních látek. 
 
-Anafylaktický šok 
+### Anafylaktický šok 
 - způsoben závažnou alergickou reakcí s uvolněním histaminu a dalších látek. 
 - možnost výskytu poruch srdečního rytmu, hypotenze, tachykardie, otoky, vyrážky 
 - možno podat adrenalin i.m., i.v. či s.c.(subakutně, injekcí), a následně kortikoidy 
-Chirurgické oblečení 
+
+### Chirurgické oblečení 
 
 - každý lékařský oděv skládá z haleny nebo trika s krátkým rukávem a kalhot společně se speciální obuví. Součástí bývá i lékařský plášť s dlouhými rukávy.
 
@@ -1207,30 +1212,30 @@ Chirurgické oblečení
 
 ## Typy ran
 
-Otevřené rány: 
+### Otevřené rány: 
 
-Řezné  
+#### Řezné  
 - rány způsobené ostrými hranami předmětu, jako jsou nůž, břitva nebo sklo 
 
-Tržné
+#### Tržné
 - nepravidelné rány způsobené úderem na měkké tkáně, které překrývají tvrdou tkáň nebo roztržení kůže a dalších tkání vlivem tahu
 - na spodině tržné rány může být patrné přemostění tvořené zbytky vazivové tkáně a cévami
 
-Oděrky (abraze nebo exkoriace) 
+#### Oděrky (abraze nebo exkoriace) 
 - povrchní rány, v nichž horní vrstvy pokožky (epidermis, vrchní korium) byly sedřeny
 - oděrky jsou často způsobeny skluzným pádem na hrubý povrch. 
 
-Bodné rány 
+#### Bodné rány 
 - způsobené průnikem úzkého ostrého nebo tupého objektu (hřebík, jehla) přes kůži. 
 
-Sečné rány 
+#### Sečné rány 
 - vznikají dopadem sečného předmětu na tělo, mají hladké okraje, ostré úhly
 
-Kousnutí
+#### Kousnutí
 - způsobené kousnutím člověkem nebo zvířetem. Podle charakteru chrupu a síly stisku se jedná o rány zhmožděné, bodné, tržné 
 - rány kousnutím bývají velmi často kontaminované a obtížně se hojí
 
-Střelné rány 
+#### Střelné rány 
 - rozeznává se u nich vstřel a prustřel 
 - v případě průstřelu jsou rány primárně infikované, protože projektil zanáší mikroorganismy hluboko skrz tkáň 
 
@@ -1238,12 +1243,12 @@ Střelné rány
 
 
 
-Zavřené rány:
+### Zavřené rány:
 
-Zhmoždění (kontuze)
+#### Zhmoždění (kontuze)
 - způsobeny tupým úderem poškozujícím tkáně uložené pod kůží
 
-Drtící zranění
+#### Drtící zranění
 - způsobeny účinkem extrémního násilí tupého charakteru po delší dobu
 
 
@@ -1258,23 +1263,23 @@ Drtící zranění
 
 
 
-Předoperační péče
+#### Předoperační péče
 - nutné provést a zjistit následující následující
 
-Úplná anamnéza: 
+#### Úplná anamnéza: 
 - současná a prodělaná onemocnění, operace, alergie, sklon ke krvácení 
 
-Vyšetření: 
+#### Vyšetření: 
 - důkladné vyšetření všech systémů, zvláště kardiovaskulárního a dýchacího 
 
-Laboratorní testy
+#### Laboratorní testy
 - krevní obraz, hladina hemoglobinu, glykémie, jaterní funkce, sedimentace erytrocytů, C–reaktivní protein a srážlivost
 
-Rentgen: rentgen hrudníku 
+#### Rentgen: rentgen hrudníku 
 - u všech pacientů s rakovinou, onemocněním srdce, plic a ledvin. 
 - Rentgen hrudníku může odhalit chronické onemocnění plic, kardiomegalií a srdeční nedostatečnost. 
 
-EKG
+#### EKG
 - u všech pacientů, zejména pak u pacientů s onemocněním srdce, plic a ledvin. 
 
 
@@ -1282,24 +1287,25 @@ EKG
 
 
 
-Výkon na sále
+#### Výkon na sále
 - pacientovi je po vydezinfikování místa (nejčastěji betadine)  podána anestezie – celková nebo lokální 
 - důležité je připojit pacienta na všechny potřebné přístroje k monitoraci životních fcí
 - následně provedeme samotný operační úkon  
+
 ## Chirurgický tým
 
 - skládá se z chirurga (operatéra), a jeho asistentů, anesteziologa a sálové sestry 
 
-Chirurg 
+### Chirurg 
 - chirurg dalším specializovaným tréninkem a atestacemi za než je zodpovědný vedoucí oddělení či vedení nemocnice. 
 - chirurg při operacích dbá pokynů staršího chirurga nebo vedení nemocnice
 - chirurg se dále specializuje v jednotlivých specializacích
 
-Anesteziolog
+### Anesteziolog
 - lékař s atestacemi v oboru anesteziologie nejlépe v kombinaci s atestací chirurgie
 - anesteziolog se účastní všech fází chirurgické péče: předoperační, operační a pooperační
 
-Instrumentářka - sálová sestra
+### Instrumentářka - sálová sestra
 - starají se o materiál a nástroje potřebné k operaci a také mohou asistovat chirurgovi 
 - sálové sestry se specializují v různých chirurgických oborech
 
@@ -1316,70 +1322,70 @@ Instrumentářka - sálová sestra
 
 - obvaz se přikládá na ránu a slouží k tomu, aby podpořil hojení a zabránil dalšímu poškození. 
 
-Druhy obvazů 
+### Druhy obvazů 
 
-Dle typu a materiálu:
+#### Dle typu a materiálu:
 
-Postřikové obvazy 
+##### Postřikové obvazy 
 - na drobná aseptická poranění nebo pooperační jizvy, ve formě spreje 
 - po nastříkání a zaschnutí se vytvoří tenká průhledná elastická vrstva 
 
-Tkaniny 
+##### Tkaniny 
 - hydrofilový mul, pružná tkanina (elastická obinadla), pružná síťovina (pruban, trikot, tylexol) 
 - obinadla: gázová (krytí ran, fixace krycího obvazu) nebo elastická (komprese, fixace) 
 - šátky: krytí ran při první pomoci nebo závěs horní končetiny Vlákniny 
 - obvazová vata – podkládání sádrových obvazů, nikdy se nepřikládá přímo na ránu! 
 
-Sádrové obvazy 
+##### Sádrové obvazy 
 - zpevnění poraněných kloubů a kostí, znehybnění části těla 
 - po vyjmutí z obalu ponoříme obinadlo na 30 sekund až 1 minutu do teplé vody (40o C), po vyjmutí z lázně lehce vymačkáme vodu a ihned přikládáme, sádrový obvaz rychle tuhne, ale pomalu prosychá. 
 
-Škrobové obvazy 
+##### Škrobové obvazy 
 - zpevnění kloubů, pokud není nutné větší znehybnění 
 
-Lepicí pásky 
+##### Lepicí pásky 
 - používají se k zajištění obinadel a krycích obvazů 
 
-Lepicí proužky (Steri–strips) 
+##### Lepicí proužky (Steri–strips) 
 - vhodné na malé řezné ranky 
 - kryjí ránu a zároveň drží okraje u sebe 
 
-Dýhy 
+##### Dýhy 
  - k posílení jiných druhů obvazů
 
 
 ## Šicí materiály
 
 
-Vstřebatelné
+### Vstřebatelné
 
 - v průběhu procesu hojení jsou rozpuštěny a vstřebány buňkami imunitního systému. 
 - biologická vlákna jsou odbourávána enzymaticky, syntetická se rozkládají hydrolyticky. 
 - používají se většinou k podkožním stehům nebo podvazům krvácejících cév. 
 
 
-Polyglykolová kyselina (DEXON)
+#### Polyglykolová kyselina (DEXON)
 - široce rozšířený vstřebatelný šicí materiál ze syntetického pleteného polymeru
 - vyvolává v tkáních minimální akutní zánětlivou reakci
 - má vynikající pevnost v uzlu a pevnost v tahu
 - nevýhodou je vysoké tření, zejména pokud je vlhký
 
-Polyglaktin 910 (VICRYL) 
+#### Polyglaktin 910 (VICRYL) 
 - vstřebatelný syntetický pletený materiál
 - k přiblížení měkkých tkání nebo podvazům
 
-Poliglekapron 25 (MONOCRYL) 
+#### Poliglekapron 25 (MONOCRYL) 
 - syntetický vstřebatelný monofilamentní steh
 - pro sbližování měkkých tkání, podvazům a intradermální stehy, zejména v obličeji. 
 
-Polyglykonát (MAXON)
+#### Polyglykonát (MAXON)
 - syntetický vstřebatelný monofilamentní steh
 - v gynekologii nebo dětské kardiovaskulární chirurgii. 
 
-Polyglyton (CAPROSYN) 
+#### Polyglyton (CAPROSYN) 
 - vstřebatelný monofilamentní šicí materiál se vyznačuje rychlým vstřebáváním
 
-Polydioxanon (PDS)
+#### Polydioxanon (PDS)
 - monofilamentní steh, který se vstřebává velmi pomalu
 
 
@@ -1395,26 +1401,26 @@ Polydioxanon (PDS)
 
 
 
-Nevstřebatelné 
+### Nevstřebatelné 
 
 - tyto šicí materiály se nerozpouští a nejsou tedy absorbovány 
 - obvykle se používají k sutuře kůže
 
 
-Polyamid Nylon (ETHILON) 
+#### Polyamid Nylon (ETHILON) 
 - nejpoužívanější nevstřebatelný šicí materiál k sutuře kůže
 - monofilamentní vlákno s minimální tkáňovou reaktivitou a větší odolností vůči infekci
 - má vysokou pevnost v tahu
 
-Polypropylen (PROLENE) 
+#### Polypropylen (PROLENE) 
 - je pevnější než nylon a lépe zajišťuje ránu
 - nevýhodou je tvarová paměť (vlákno si udržuje tvar)
 
-Polyester (DACRON) 
+#### Polyester (DACRON) 
 - používán v kardiovaskulární chirurgii
 - minimální tkáňová reakce a velká pevnost v tahu 
 
-Hedvábí (MERSILK) 
+#### Hedvábí (MERSILK) 
 - dobře manipulovatelný pletený materiál, snadno se uzlí
 - vyvolává silné tkáňové reakce a má vysokou schopnost se infikovat.
 - v plastické a oční chirurgii. 
@@ -1426,32 +1432,31 @@ Hedvábí (MERSILK)
 
 
 ## Sutura
-
 Sutura je jiný název pro stah, či šití, což je vlastně zakončení celého chirurgického zákroku, či způsob zacelené různých typ ran. Na saturu se dají použít tři různé typy satur
 
-sutura vstřebatelným materiálem - používat Safil - použití pro orgány a podkožní šití - materiál se vstřebá, není nutné chirurgické vyndání stehů
-sutura nevstřebatelným materiálem - používat Malid - použití pro šití kůže na končetinách - po zahojení nutné chirurgické vyndání stehů
-sutura kovovými klipy a svorky - nutno po zahojení vyndat
-Silon - druh vlákna používaný při šití - používá se k šití svaloviny - nevstřebává se
+- sutura vstřebatelným materiálem - používat **Safil** - použití pro orgány a podkožní šití - materiál se vstřebá, není nutné chirurgické vyndání stehů
+- sutura nevstřebatelným materiálem - používat **Malid** - použití pro šití kůže na končetinách - po zahojení nutné chirurgické vyndání stehů
+- sutura **kovovými klipy a svorky** - nutno po zahojení vyndat
+- **Silon** - druh vlákna používaný při šití - používá se k šití svaloviny - nevstřebává se
 
 ## Základní chirurgické nástroje
 
-Jehelce
+### Jehelce
 - nástroje sloužící k držení jehly při šití, nejčastěji v podobě klíštěk s nůžkovitými nebo klešťovými rukojeťmi a krátkými tupými čelistmi, opatřenými křížovým vroubkováním. 
 
 
 
-Svorky
+### Svorky
 - klíšťky většinou s nůžkovitými rukojeťmi, užívají se na stisknutí cév nebo držení tkáně. 
 
-Peán
+### Peán
 cévní svorka (klíšťky) s nůžkovými rukojeťmi, plochými štíhlými vroubkovanými čelistmi a západkovým uzávěrem určená ke stavění krvácení. 
 čelisti mohou být rovné nebo zahnuté. 
 
-Kocher
+### Kocher
  klíšťky s nůžkovými rukojeťmi a plochými štíhlými vroubkovanými čelistmi. Ty jsou, na rozdíl od peánu na koncích vybaveny příčnými zoubky pro lepší uchopení cévy. Při operaci se často používají i k držení tkáně, je však třeba s nimi zacházet jemně, zejména při manipulaci s kůží. 
 
-Backhaus
+### Backhaus
  drobné svorky určené k držení operačních roušek, vzácněji k držení tkáně. 
 
 
@@ -1464,7 +1469,7 @@ Backhaus
 
 
 
-Pinzety
+### Pinzety
 - anatomické (jemně vroubkované, slouží k šetrnému uchopení jemných struktur)
 - chirurgické (má tři zoubky, slouží k uchopení hrubších tuhých struktur, jako kůže, sliznice)
 - oční (krátká se špičatými branžemi, k úchopu velmi jemných struktur oka)
@@ -1477,15 +1482,15 @@ Pinzety
 
 
 
-Kleště
+### Kleště
 - štípací či úchopné 
 
-Nůžky
+### Nůžky
 - nůžky na kosti, preparační nůžky, gynekologické a břišní, vaskulární, neurochirurgické, na střevo (enterotomy), na obvazy apod. 
 - obvazové nůžky – silné, zalomené s tupými konci, používají se při prostříhávání obvazů
 - cévní – jemné, zalomené, ostré špičky, používají se k prostříhávání cévní stěny
 
-Řezné nástroje 
+### Řezné nástroje 
 - skalpely (bříškatý, hrotnatý)
 - skalpely s vyměnitelnými čepelkami 
 (čepel #10 se používá se pro větší excize, čepel #15 malá, všestranná a vhodná pro revize a přesný řez rány, čepel #11 je ideální pro incizi a drenáž povrchových abscesů)
@@ -1493,11 +1498,11 @@ Nůžky
 - transplantační nože (pro odběr kožního štěpu) 
 
 
-Sondy
+### Sondy
 - paličková (štíhlý, na koncích tupý nástroj určený k průzkumu dutin)
 - žlábková (k chráněnému protětí tkáně). 
 
-Háky
+### Háky
 nástroje na přidržení nebo odtažení tkáně 
 
 
@@ -1505,58 +1510,58 @@ nástroje na přidržení nebo odtažení tkáně
 
 ## Vybavení operačního sálu
 
-Anesteziologické a resuscitační vybavení 
+### Anesteziologické a resuscitační vybavení 
 
-Ventilátor (nebo také respirátor)
+#### Ventilátor (nebo také respirátor)
 - pomáhá nebo kontroluje plicní ventilace pacienta
 
-Infúzní pumpa 
+#### Infúzní pumpa 
 - přístroj, který přes katétr dodává intravenózně
 - kontinuálně dodává stanovené dávky farmak a tekutin (infúze, krev, plazmu). 
 
 
 
 
-Podpůrné a neodkladné resuscitační vybavení 
-Pohotovostní (resuscitační) vozík 
+### Podpůrné a neodkladné resuscitační vybavení 
+#### Pohotovostní (resuscitační) vozík 
 - příruční vozík s pohotovostním resuscitačním vybavením pro pacienty, kteří mají známky poruchy životních funkcí.
 - obsahuje defibrilátor, pomůcky k intubaci, resuscitační masku a léky.
 
 
-Vybavení k monitoraci pacienta 
+### Vybavení k monitoraci pacienta 
 
-Systém monitorace funkcí při akutní péči 
+#### Systém monitorace funkcí při akutní péči 
 – monitoruje se elektrická aktivita srdce pomocí EKG, dýchání, krevní tlak (neinvazivně a invazivně), tělesná teplota, srdeční výdej, arteriální saturace hemoglobinu a end–tidal CO2. 
 
-Pulzní oxymetrie 
+#### Pulzní oxymetrie 
 – monitoruje arteriální saturaci hemoglobinu kyslíkem pomocí senzoru na prstě. 
 
 
-Ostatní vybavení operačního sálu 
+### Ostatní vybavení operačního sálu 
 - jednorázové vybavení zahrnuje močové katétry, arteriální katétry a katétry pro centrální kanylaci (k monitoraci krevního tlaku během operace nebo k odběru krevních vzorků), endotracheální rourky a monitorační elektrody
 
-Diagnostické vybavení 
+### Diagnostické vybavení 
 - někdy je na operačním sále potřeba použít diagnostických přístrojů
 - používají se mobilní RTG přístroje, příruční analyzátory pro provádění laboratorních testů 
 
-Mimotělní oběh 
+### Mimotělní oběh 
 - přístroj, který se používá při některých operacích srdce a plic, např. choroby chlopní, aneurysma, bypass, transplantace, nádory
 - princip mimotělního oběhu: žilní krev operovaného je odváděna pomocí pump, žilní kanylou z pravé síně nebo dvěma kanylami zavedenými do horní a dolní duté žíly do oxygenátoru s rezervoárem, kde se krev okysličí a je vháněna pumpou do tepenného řečiště kanylou zavedenou do ascendentní aorty.
 
 
-Intra–aortická balónková pumpa 
+### Intra–aortická balónková pumpa 
 - přístroj, který napomáhá snižovat srdeční zátěž a napomáhá přísunu krve do koronárních cév 
 - pumpa používá balónek, který je umístěn v pacientově aortě. Balónek je na konci katétru, který je připojen k pumpě, která ukazuje srdeční frekvenci, tlak a monitoruje EKG
 - EKG monitorace se používá k načasování nafouknutí a vyfouknutí balónku
 
 
 
-Monitor intrakraniálního tlaku 
+### Monitor intrakraniálního tlaku 
 - měří tlak tekutiny v mozku pacienta po úrazech hlavy nebo při jiných afekcí mozku 
 - monitoraci intrakraniálního tlaku provádějí senzory, které jsou zavedeny do mozku přes kanylu nebo otvor v lebce
 
 
-Mikroskop a mikrochirurgie
+### Mikroskop a mikrochirurgie
 - vyžaduje operační mikroskop nebo zvětšovací brýle, speciální nástroje a speciální šicí materiál
 
 Složený mikroskop 
@@ -1588,38 +1593,40 @@ Lupové brýle
 
 
 
-Užití mikrochirurgie
+### Užití mikrochirurgie
 
-Volný tkáňový přenos
+#### Volný tkáňový přenos
 - rekonstrukční chirurgická metoda
 - tkáň je odpojena od dárce přerušením cévního svazku a pak jsou na požadovaném místě upotřebení cévy opět napojeny pomocí mikrochirurgické techniky na příjemcovo řečiště.  
 
 
-Replantace 
+#### Replantace 
 - opětovné napojení kompletně oddělené části těla (nejčastěji se jedná o prsty a palec) 
 - zahrnuje obnovení krevního toku, potřebnou rekonstrukci skeletu, šlach a nervů
-Endoskop a endoskopie
 
-Endoskop 
+
+###Endoskop a endoskopie
+
+#### Endoskop 
 - rigidní nebo flexibilní optika 
 - systém optických vláken pro přenos světla 
 - zdroj světla (mimo tělo pacienta) 
 - systém čoček 
 - umožňuje odebírání biopsií a odstraňování cizích těles
 .  
-Rigidní endoskopie 
+#### Rigidní endoskopie 
 
-Sigmoideoskopie
+##### Sigmoideoskopie
 - nejčastěji užívaná rigidní endoskopie, 25 nebo 30 cm dlouhý endoskop
 - vyšetření se většinou provádí v poloze na levém boku 
 
-Ezofagoskopie
+##### Ezofagoskopie
 - velmi přínosná pro odstraňování cizích těles z jícnu, v jiných indikacích ji nahradila flexibilní endoskopie
  
-Cystoskopie 
+##### Cystoskopie 
 - používal se pro retrográdní katetrizaci močového měchýře, dnes se již používá flexibilní endoskop 
 
-Laparoskopie 
+##### Laparoskopie 
 - široce používaná v obecné chirurgii, částečně pro miniinvazivní výkony
 - používá se pro diagnostiku patologického procesu a odběr biopsií. 
 
@@ -1632,72 +1639,72 @@ Laparoskopie
 
 
 
-Flexibilní endoskopie 
+### Flexibilní endoskopie 
 
-Gastroskopie
+#### Gastroskopie
 - před vyšetřením se aplikuje intravenózní neuroleptanalgezie a lokální anestetický sprej, umožňuje přehlédnout jícen, žaludek
 - široké využití (odhalení krvácení z GIT - gastrointestinální trakt) 
 
-Kolonoskopie
+#### Kolonoskopie
 - umožňuje prohlédnout celé kolon po předchozí přípravě střeva
 - pomocí elektrokoagulační kličky se dají odstraňovat polypy, pomocí klíštěk lze odebírat biopsie 
 
-Bronchoskopie
+#### Bronchoskopie
 - úzký bronchoskop s optickými vlákny se zavádí po aplikaci lokálního anestetika
 - zejména se užívá se pro diagnostiku 
 
 
 
 
-Laserová chirurgie
+### Laserová chirurgie
 - laser = "světelný skalpel"
 - používají k řezání, pálení nebo odstraňování poškozených nebo nemocných tkání, zmenšování nebo odstranění tumorů a ke koagulaci krvácejících cév
 
-CO2 laser
+#### CO2 laser
 - ke stavění krvácení během průchodu tkáněmi. 
 
-Neodymium
+#### Neodymium
 - Nd: YAG laser
 - proniká tkáněmi hlouběji než ostatní lasery
 - rychle koaguluje krev a umožňuje přehlédnout a pracovat na částech těla jinak dostupné pouze pomocí invazivních postupů. 
 
-Argonový laser 
+#### Argonový laser 
 - proniká pouze povrchově a používá se proto v oční chirurgii a k povrchové léčbě kůže
 
 
 
 
-Robotická chirurgie 
+### Robotická chirurgie 
 
 - vstup do těla přes malé (obvykle asi 1 cm) řezy
 - umožnuje zobrazit  obraz s vysokým rozlišením a odstraněním rušivých struktur v pozadí  
 - na jeho rameni je umístěn endoskop 
 
-Krvácení
+#### Krvácení
 - krvácení neboli haemorhagie je ztráta krve z cirkulace
 - ztráta 10 – 15% celkového objemu krve může u zdravých osob proběhnout bez projevů
 - při darování krve je odebraný objem běžně  8 – 10% objemu krve dárce.
 
-Zevní krvácení 
+#### Zevní krvácení 
 Příznaky: Krev vytékající z otevřené rány, hematom, modřiny, šok, bledost, vlhká pokožka, závratě, zrychlení tepu, nízký krevní tlak, dechové obtíže, zmatenost, slabost. Zahájení první pomoci – přímý tlak zastaví většinu vnějších krvácení z otevřených ran.  
 
-Hemateméza 
+#### Hemateméza 
 - zvracení krve 
 - příčinami bývají žaludeční či dvanáctníkové vředy nebo jícnové raptury. 
 
-Hemoptýza 
+#### Hemoptýza 
 - vykašlávání krve, která je patrná v hlenu (zářivě červená nebo tmavě červená)
 - může být v důsledku infekce nebo rakoviny plic. 
 
-Hematurie 
+#### Hematurie 
 - přítomnost krve v moči 
 - důsledek poranění nebo onemocnění. 
 
-Rektoragie
+#### Rektoragie
 - přítomnost krve ve stolici
 - k příčinám patří nádory nebo zranění.
 
-Hemostáza 
+#### Hemostáza 
 - zástava krvácení 
 - chirurgická hemostáza 
 - na malé difúzní krvácení se používá komprese nebo zhmoždění cévy pinzetou či svorkou
