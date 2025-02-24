@@ -150,6 +150,7 @@ Zvýšená teplota. nad 37,5 - Hypertermie
 
 Jedná se o roztok, který se využívá jako nosná látka pro různé medikamenty, které je nutné podávat při operacích, či doléčení. Pro případ doplnění většího množství tekutin je potřeba použít tzv. balancový roztok, např. Hartmannův roztok. K podání výživy se používá infuze, která pak slouží jak pro parenterální výživu, tak i jako náhrada krevní plazmy.
 
+![fyzak](https://media.discordapp.net/attachments/762807292172435456/1343658275341733980/1ztWrX2VVGaOtDcNILBUUNEftrXu-Tdoruv-roSVuShvmF2rL5cP4m60nn2bHsQs.png?ex=67be12c8&is=67bcc148&hm=ef511b475b8e9292341c2259f36aa80dd1b30c8ebdfb713355b50eb42592b4aa&=&format=webp&quality=lossless)
 
 ## Výjezdy - pravidla a postupy
 
@@ -223,8 +224,8 @@ Při průběhu RTG jde lékař do vedlejší místnosti
 RTG je jeden z nejpoužívanějších přístrojů u EMS vůbec. K tomuto přístroji asi není pořádně co říkat, všichni ho znají, všichni ví, k čemu se používá. Ale i přes to, něco si k němu řekneme.
 RTG se používá k pozorování kostních struktur, případně k nalezení cizích tělísek vyšší hustoty v těle. Pokud tedy potřebujete vědět, jestli má pacient např. zlomenou nohu, použijete RTG. Stejně tak jej použijete pro zjištění projektilu v těle či jiného materiálu. Ovšem nezjistíte stav tkání ani stav chrupavek. Dále na RTG neuvidíte dřevěné předměty, nebo třeba sklo. Taktéž jím nejde zjistit vnitřní krvácení.
 
- 
- 
+ ![rtg1](https://cdn.discordapp.com/attachments/762807292172435456/1343658798036025416/1WnwXoEr3wwrcZ1A82kDYEqMHvM6e8CwcHCpqlIKyD3P_81j9lxe4ylIXzKqFzRY.png?ex=67be1345&is=67bcc1c5&hm=8aa7eb0d803c3905e199f5e9b5f82b874bcbd595491f10460d27907b26012d09&)
+ ![rtg2](https://cdn.discordapp.com/attachments/762807292172435456/1343658816801214494/1KfVMfkjE9mW6Q2cCbmhhtxw3_xDfJ98AwtWDxSYuMAVZ0pnBJ4C9CD4ASGhjIA.png?ex=67be1349&is=67bcc1c9&hm=5523ebb0b907452525c06bfd28a224a06b1cb4b0b839c105877f03770f36dd3b&)
  
 ### CT - Computed tomography
 Funguje na podobný princip jako RTG, zobrazuje 3D snímek orgánů.
@@ -244,9 +245,9 @@ CTčko je vlastně jiný typ rentgenu. Je složitější, náročnější na vý
 k prohlížení orgánů a jejich zranění
 k zjišťování vnitřního krvácení
 k prohlížení složitějších fraktur, zvláště v oblasti kloubů
- Nevýhody CT
-větší dávky ionizujícího záření
-delší doba diagnózy
+
+![ct1](https://media.discordapp.net/attachments/762807292172435456/1343658832852947034/1UVrnEPNnu0KHOlqfAzkMH3Xf6xT0QIQCtG37mMcep53G37HvYj622F-ZVG7jtA.png?ex=67be134d&is=67bcc1cd&hm=8dc380341b3666f3cdd0004461c6d6b779f5009c05ca5141f4168484549a05c0&=&format=webp&quality=lossless)
+![ct2](https://media.discordapp.net/attachments/762807292172435456/1343658845859348600/1S2CsY6zPMq4BFzZEyCG88XizVXOFl1qUSM3KGxJDtJW_Zk341ubefY8XHA7ZOQ.png?ex=67be1350&is=67bcc1d0&hm=f7acb91fe97db5a8c7e38e521bfb92eef3be5fc1787670c1944cae54c976b91e&=&format=webp&quality=lossless)
 
 ### MRI - Magnetická rezonance
 Má podobné využití jako CT, při častějším využívání je ale bezpečnější než CT. Vyšetření delší dobu.
@@ -264,11 +265,13 @@ MRI lze využít na zjištění:
 MRI má stejné využití jako CT, ale na rozdíl od ní nemá stejné negativní účinky jako CT. Respektive, CT používá ionizující záření, které může být ve vysokých dávkách škodlivé, zatímco MRI využívá… jednoduše řečeno, magnetů. Další výhodou MRI je vysoká přesnost zobrazení jednotlivých orgánů. Nevýhodou je však vysoká hlučnost, časová náročnost a nemožnost používat vyšetření na pacientech s kovovými tělísky v těle, stejně tak dělat vyšetření na částech těla, které jsou z větší části pokrytá tetováním<br>
 
 Nevýhody
-vysoká hlučnost
+vysoká hlučnost a časová naročnost
 nemožnost využití při přítomnosti kovových tělíscích v těle
 nemožnost využití při větším množství tattoo na těle
 
- 
+![mr1](https://media.discordapp.net/attachments/762807292172435456/1343658860342153228/1a047eww1Pn1mmxlCdyUq9qpWvWU5HCSQLHQiFyYAbjZ8mF-WzSiyaY2gp6K45w.png?ex=67be1354&is=67bcc1d4&hm=9678a953e8caa47da8b87fa8a28a3cf604a8469fe4c92d7c181bf065b04b813c&=&format=webp&quality=lossless)
+![mr2](https://media.discordapp.net/attachments/762807292172435456/1343658876620378142/1jd0dWE0HgxBIOgLB5csTG0ZCo1AJU8lwzr4VaKKruk0cHTW0W-pj1IZVrHuUDg.png?ex=67be1358&is=67bcc1d8&hm=5d5c4d7b0d06a7cec981438b488c39e80ec9efd595c45478672bdde10e069bdd&=&format=webp&quality=lossless) 
+
 ### Sonografie
 Neboli ultrazvuk, před použitím natřete sondu sonogelem.<br>
 Sono lze využít ke:<br>
@@ -280,9 +283,7 @@ Přenosné sono je k dispozici i v EMS helikoptéře.<br>
 Sonografie je vyšetření pomocí ultrazvuku. Nejčastěji je používáno v gynekologii pro vyšetření a zobrazení plodu. Ultrazvuk je schopný v reálném čase vykreslit měkké tkáně a odhalit tak vnitřní krvácení.
 Pro správné fungování sona je potřeba pokrýt čidlo sondy krémem, který zajistí dobrý průchod vlnění do kůže.<br>
 
- 
- 
- 
+![sono](https://media.discordapp.net/attachments/762807292172435456/1343658886682509382/1GmhyS4_iVuZv6NF4x9loB0hiHOlNdJyOaKBKCqrDDxbuY_b50mHADevihuGO_JM.png?ex=67be135a&is=67bcc1da&hm=d8c613152ca758d124ff4a3fbce9038a3bd3230fe5273561ca0d423a54ad910b&=&format=webp&quality=lossless) 
  
  
 ### EKG - Elektrokardiogram
@@ -292,6 +293,7 @@ Umístění svodů 12svodového EKG:<br>
 Sinusový rytmus = pravidelný rytmus<br>
 Využívá se v nemocnici i při výjezdech (je v sanitkách i v EMS helikoptérách).<br>
  
+![ekg](https://media.discordapp.net/attachments/762807292172435456/1343658899500437546/1JbqtkJd27NdX5QNKYoIn-KRQfWLpyDwbekKWWCg9fVQ4USA21I1QnKmIDP-W.png?ex=67be135d&is=67bcc1dd&hm=7627d3a08d274d166e9da73a027dbb164bfe47dc60d87c12e1c8ff5f3cb95795&=&format=webp&quality=lossless)
  
 ### Glukometr
 
@@ -299,10 +301,12 @@ Pro měření obsahu glukózy v krvi.<br>
 Norma - 3,9 - 5,9 mmol/l<br>
 Používá se v jak v nemocnici, tak při výjezdech (dostupný v medibagu)<br>
 
-
+![glkm](https://media.discordapp.net/attachments/762807292172435456/1343658911151951955/10jLgEu-rfYcMFVRZ6a3WJoVFR-7l11QzhCh9d1-NDcuD-4B3LBXigYQEtdV15pA.png?ex=67be1360&is=67bcc1e0&hm=e50021fcea7e180474daa1ea5bd1bd5fa3762246ffbf767f9ca38d1ab733ffd9&=&format=webp&quality=lossless)
  
 ### Elektroencefalografie - EEG
 Slouží k neinvazivnímu vyšetření elektrické aktivity centrálního nervového systému (mozek), nebo-li ke zjištění, jestli mozek a nervová soustava pacienta správně funguje. Nejčastěji se využije hlavně při operacích, k zajištění přehledu o aktivitě mozku pacienta. Na výjezdu pak ke zjištění, jestli pacient neupadl do komatu, či je jeho mozek vůbec aktivní.
+
+![eeg](https://media.discordapp.net/attachments/762807292172435456/1343658930257006783/1wJ8uKYyPEZ04xC6r-L3e84JK5IsOYS1_3ZzJ5pCG8ARC7ZA22f-sOhUoi4_M3VY.png?ex=67be1364&is=67bcc1e4&hm=fd37f9ebb24b33dca23c3fbdc7bdc0ec812471e80c9c0b2ed52c4e05d9d2128b&=&format=webp&quality=lossless)
  
 ### Pulsní oxymetr
 Oxymetr připnete pacientovi na ukazováček.
@@ -310,6 +314,8 @@ Ukáže vám 2 hodnoty:
 - saturace (okysličení krve) - norma 95 - 98 %
 - puls - norma 60 - 90
  Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu).
+
+![po](https://media.discordapp.net/attachments/762807292172435456/1343658945243516988/1lV66HLEoIvNquU5Gq5CsXqNXFCwtMoPPdByxuGfeE-bncPxGItYGysCmDdeUM4M.png?ex=67be1368&is=67bcc1e8&hm=e4963235408e445507cc5eca057d1c6e36b39a0e1eb294336ef965c60f191604&=&format=webp&quality=lossless)
  
 ### Tonometr
 K měření krevního tlaku.
@@ -325,6 +331,9 @@ Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
 - pean na šití
 - pean na sevření cévy (cévní svorky)
 - pean na roušky
+
+![pean](https://media.discordapp.net/attachments/762807292172435456/1343658957495078952/1FPVYmP3d9O3GAT03o9c-m5tN4WYDph2sqTNZxoUjJ2_boPHQEbucYyfPis5WP7o.png?ex=67be136b&is=67bcc1eb&hm=da8985124aedf6b0a7e08cf43a474401c0dd73f57a35cd1beec51676b1fe3d9d&=&format=webp&quality=lossless)
+
 ### Kanyla
 - na zavádění nebo odstraňování tekutin z těla
 - na zavádění léků
@@ -332,16 +341,21 @@ Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
 - existuje několik typů kanyl
 - jsou k dispozici v medibagu a samozřejmě se využívají i v nemocnici
 
+![kanyla](https://media.discordapp.net/attachments/762807292172435456/1343658969620549663/12UvgRV-T9uWCJFEWLw2BVqoWyjJlBSHeN7yUH8Yvb6IqXbXG_tnxfsGKZvrR8Q.png?ex=67be136e&is=67bcc1ee&hm=a15a16f8dd508b674b53c9cb1819cb86d53b6794419e7918acc56c2fde6dae8b&=&format=webp&quality=lossless)
 
 ### Ambuvak
 - využívá se zejména při resuscitaci, kdy je pacientovi nutné podat umělé dýchání
 - přiložíte pacientovi vak na ústa a přes nos a budete jej stlačovat tolikrát, kolik bude potřeba, tzn. po každých 30 stlačení hrudníku
  
+![ambuvak](https://media.discordapp.net/attachments/762807292172435456/1343658980475404328/1dpYRqC509fqzHAS6zsCc5V2DdJfBT55nrSnTEp_XfQe_I1t7E0-s_l0YC0_hcw.png?ex=67be1370&is=67bcc1f0&hm=5c8ef3a402c7c00714c376376affd6d52a2dc25dd0e073841aa1395a54693f87&=&format=webp&quality=lossless)
+
 ### Vakuová matrace
 - stabilizace a fixace celého těla pacienta
 - tepelně izoluje
-### Stetoskop
+![vm](https://media.discordapp.net/attachments/762807292172435456/1343658995289686247/1dVlOcUEgX98LNdHhsfDAJeQ7ZUl1_AJAxBCvIbBHogfUlElkiVM-8xZyA01Ixg.png?ex=67be1374&is=67bcc1f4&hm=a352ee92b3338ca2bbf23507195ca087ca4129c77d8153485a1813bb4813f2b7&=&format=webp&quality=lossless)
 
+### Stetoskop
+![stetoskop](https://media.discordapp.net/attachments/762807292172435456/1343659019528573059/1pOYCqsxy1wvEFU-Qtw2eWacHxbLtY4QBLwFzCvNN0ks3j5dseamKdm8bob_A.png?ex=67be137a&is=67bcc1fa&hm=3e2d70c46cc28f4fa18cdb96bdf9cfe96b3367baca39b0f06d65d28074c6736c&=&format=webp&quality=lossless)
 
 
  
