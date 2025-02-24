@@ -972,29 +972,29 @@ rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vte�
 **Použití:** diagnostické účely, infúze, transfúze, aplikace léků i.v., výživa <br>
 **Umístění:** na dorsu ruky (hřbetu), zápěstí, předloktí libovolným směrem ale ideálně po směru gravitace <br>
 **Postup:**
-1) nad místem vpichu zaškrtíme gumovým turniketem 
-2) desinfekce místa pro vpich 
-3) zavedeme kanylu na jehlovém mandrénu pod úhlem 10-30°
-4) vysuneme mandrén a zavedeme kanylu 
-5) fixujeme náplastí 
+1) nad místem vpichu zaškrtíme gumovým turniketem <br>
+2) desinfekce místa pro vpich <br>
+3) zavedeme kanylu na jehlovém mandrénu pod úhlem 10-30°<br>
+4) vysuneme mandrén a zavedeme kanylu <br>
+5) fixujeme náplastí <br>
 
 ## Pneumothorax 
 
-Nejčastější příčiny: Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy 
-**Anamnéza:** kolaps plíce s dechovou nedostatečností, dušnost, cyanóza (=zmodrání kůže), rozvoj šoku Vyšetření: RTG hrudníku, v nejasných případech CT
-**Diagnóza:** spontánní (otevřený a zavřený) pneumotorax, tenzní (záklopkový) pneumotorax
-**První pomoc:** Otevřený pneumotorax ošetříme poloprodyšným obvazem (3 vrstvy, 3 zalepené stěny), fixujeme horní končetinu na poraněné straně do závěsu, uzavřený a záklopkový pneumothorax ošetřujeme tenzní punkcí
-**Léčba:** Rozsáhlejší spontánní pneumotorax je třeba drénovat (=slouží k odvodu látek z těla (krve, sekretu, žluče, vzduchu atd.) po operaci či zranění. Jejím cílem je zamezit hromadění tekutin či vzduchu v dané prostoru, principem je drenáž pomocí drenážní trubice. Samotný sekret se hromadí v rezervoáru.), tedy postupně za nízkého tlaku odsávat vzduch. Při selhání všech výše uvedených metod je na místě chirurgický zásah.
+**Nejčastější příčiny:** Autonehoda, údery do hrudníku, pády na hrudník, sportovní úrazy <br>
+**Anamnéza:** kolaps plíce s dechovou nedostatečností, dušnost, cyanóza (=zmodrání kůže), rozvoj šoku Vyšetření: RTG hrudníku, v nejasných případech CT<br>
+**Diagnóza:** spontánní (otevřený a zavřený) pneumotorax, tenzní (záklopkový) pneumotorax<br>
+**První pomoc:** Otevřený pneumotorax ošetříme poloprodyšným obvazem (3 vrstvy, 3 zalepené stěny), fixujeme horní končetinu na poraněné straně do závěsu, uzavřený a záklopkový pneumothorax ošetřujeme tenzní punkcí <br>
+**Léčba:** Rozsáhlejší spontánní pneumotorax je třeba drénovat (=slouží k odvodu látek z těla (krve, sekretu, žluče, vzduchu atd.) po operaci či zranění. Jejím cílem je zamezit hromadění tekutin či vzduchu v dané prostoru, principem je drenáž pomocí drenážní trubice. Samotný sekret se hromadí v rezervoáru.), tedy postupně za nízkého tlaku odsávat vzduch. Při selhání všech výše uvedených metod je na místě chirurgický zásah.<br>
 Tenzní pneumotorax je třeba ošetřit okamžitě – nejprve snížíme intrapleurální tlak odsátím vzduchu silnou punkční jehlou (nejlépe ve 2. mezižebří = pod klíční kostí) a poté drénujeme hrudník.
 1) celková anestezie
 2) endotracheální intubace
 3) desinfekce a incize hrudní stěny (= naříznutí skalpelem) 
 4) hrudní drenáž
 5) šití rány a bandáž hrudníku 
-6) inhalace kyslíku – urychluje vstřebávání PNO 
-**Drénáž:** slouží k odvodu látek z těla (krve, sekretu, žluče, vzduchu atd.) po operaci či zranění. Jejím cílem je zamezit hromadění tekutin či vzduchu v dané prostoru, což má za následek komplikace hojení. Principem je drenáž pomocí drenážní trubice. Samotný sekret se hromadí v rezervoáru. Drenáž lze odstranit po 48-72 hodinách. 
-**Následná léčba doma:** hojení cca 3-6týdnů, studené obklady, těsná bandáž rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu 
-**Poučit pacienta:** nepotlačovat kašel - hlen musí ven – přitlačte si polštář k hrudníku během kašle spaní na zádech v polosedu, ne na břiše! nepijte alkohol a nekuřte rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu
+6) inhalace kyslíku – urychluje vstřebávání PNO <br>
+**Drénáž:** slouží k odvodu látek z těla (krve, sekretu, žluče, vzduchu atd.) po operaci či zranění. Jejím cílem je zamezit hromadění tekutin či vzduchu v dané prostoru, což má za následek komplikace hojení. Principem je drenáž pomocí drenážní trubice. Samotný sekret se hromadí v rezervoáru. Drenáž lze odstranit po 48-72 hodinách. <br>
+**Následná léčba doma:** hojení cca 3-6týdnů, studené obklady, těsná bandáž rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu <br>
+**Poučit pacienta:** nepotlačovat kašel - hlen musí ven – přitlačte si polštář k hrudníku během kašle spaní na zádech v polosedu, ne na břiše! nepijte alkohol a nekuřte rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu <br>
 
 
 
@@ -1019,43 +1019,43 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 ## Chirurgický slovníček
 
 
-**Laparotomie - chir. otevření dutiny břišní**
-- horní střední řez - nad pupkem - žaludek, dvanáctník, žlučníkové cesty
-- dolní střední- pod pupkem- střeva, děloha
-	- lumbotomie - na zádech nad ledvinou - op. ledvin
-	- šikmý řez v pravém podžebří - játra, žlučník
+**Laparotomie - chir. otevření dutiny břišní**<br>
+- horní střední řez - nad pupkem - žaludek, dvanáctník, žlučníkové cesty<br>
+- dolní střední- pod pupkem- střeva, děloha<br>
+	- lumbotomie - na zádech nad ledvinou - op. ledvin<br>
+	- šikmý řez v pravém podžebří - játra, žlučník<br>
 
-**Incize** - chirurgické otevření rány řezem 
-**Excize** - vyříznutí orgánu, tkáně či nadoru 
-**Exstirpace** - uplné odstranění zřetelně ohraničeného patologického ložiska
-**Resekce** - částečné odstranění orgánu
-**Amputace** - odříznutí či odnětí části těla
-**Anastomóza** - chirurgické napojení žil či tepen (většinou žilní či jiný štěp)
-**Replantace** - našívá zpátky oddělená část těla
-**Transplantace** - přenos a vpravení odebrané tkáně či orgánu 
+**Incize** - chirurgické otevření rány řezem <br>
+**Excize** - vyříznutí orgánu, tkáně či nadoru <br>
+**Exstirpace** - uplné odstranění zřetelně ohraničeného patologického ložiska<br>
+**Resekce** - částečné odstranění orgánu<br>
+**Amputace** - odříznutí či odnětí části těla<br>
+**Anastomóza** - chirurgické napojení žil či tepen (většinou žilní či jiný štěp)<br>
+**Replantace** - našívá zpátky oddělená část těla<br>
+**Transplantace** - přenos a vpravení odebrané tkáně či orgánu <br>
 
-**Hypoxemická hypoxie** - nízký parciální tlak kyslíku PO2 (kyslík 35-40 torrů). Poskytnutí zvlhčeného a ohřátého kyslíku s malou koncentrací ox. uhličitého. Používáme kyslíkové brýle (možno použít i v sanitce) 
+**Hypoxemická hypoxie** - nízký parciální tlak kyslíku PO2 (kyslík 35-40 torrů). Poskytnutí zvlhčeného a ohřátého kyslíku s malou koncentrací ox. uhličitého. Používáme kyslíkové brýle (možno použít i v sanitce) <br>
 
-**Laserová operace** - nastroj - laserový skalpel
-                      - Vaporizace - odstranění tkáně odpařením
-                      - Fototermální efekt - zastavení krvácení - endoskopie
-                      - Roztržení tkáně - zvýšení teploty na 1250 stupňů - roztržení, řezání
+**Laserová operace** - nastroj - laserový skalpel<br> 
+                      - Vaporizace - odstranění tkáně odpařením<br>
+                      - Fototermální efekt - zastavení krvácení - endoskopie <br>
+                      - Roztržení tkáně - zvýšení teploty na 1250 stupňů - roztržení, řezání<br>
 
-**Endoskopie** - vyšetření dutin a dutých orgánů či uměle vytvořených dutin ( laparoskopie) - Rigidní endoskop (tubusový) - žaludek, krk, horní části těla
-                      - Flexibilní endoskop - můžeme jej ohýbat o 90 stupňů - střeva
-                                                           - zorný úhel 30-120 stupňů 
+**Endoskopie** - vyšetření dutin a dutých orgánů či uměle vytvořených dutin ( laparoskopie) - Rigidní endoskop (tubusový) - žaludek, krk, horní části těla<br>
+                      - Flexibilní endoskop - můžeme jej ohýbat o 90 stupňů - střeva<br>
+                                                           - zorný úhel 30-120 stupňů <br>
 
-**Termokoagulační elektroda** - zastavení vnitřního krvácení - používá se při gastroskopii - zavedení endoskopu nebo u laparoskopie
+**Termokoagulační elektroda** - zastavení vnitřního krvácení - používá se při gastroskopii - zavedení endoskopu nebo u laparoskopie<br>
 
-**Elektrokoagulátor** - vypalování cévek při krvácení do mozku
+**Elektrokoagulátor** - vypalování cévek při krvácení do mozku<br>
 
-**Bikarbonát** - urychlení účinků adrenalinu
-**Solumedrol** - proti zánětu (poop)
-**Diuretikum** - Furosemid (snížení otoků, poop)
-**Atropin** - na nízký krevní tlak (IV)
-**Enap/Adenosin** - na vysoký krevní tlak (IV)
-**IV** - intravenózní vstup     
-**IO** - intraoseální vstup 
+**Bikarbonát** - urychlení účinků adrenalinu<br>
+**Solumedrol** - proti zánětu (poop)<br>
+**Diuretikum** - Furosemid (snížení otoků, poop)<br>
+**Atropin** - na nízký krevní tlak (IV)<br>
+**Enap/Adenosin** - na vysoký krevní tlak (IV)<br>
+**IV** - intravenózní vstup    <br> 
+**IO** - intraoseální vstup <br>
 
 
 ## Chirurgie
@@ -1561,23 +1561,21 @@ nástroje na přidržení nebo odtažení tkáně
 - monitoraci intrakraniálního tlaku provádějí senzory, které jsou zavedeny do mozku přes kanylu nebo otvor v lebce
 
 
-### Mikroskop a mikrochirurgie
+## Mikroskop a mikrochirurgie
 - vyžaduje operační mikroskop nebo zvětšovací brýle, speciální nástroje a speciální šicí materiál
 
-Složený mikroskop 
+#### Složený mikroskop 
 - jeden světelný paprsek 
 - poskytuje vysoké rozlišení 
 - není možné prostorové vidění 
 
-Stereo mikroskop 
+#### Stereo mikroskop 
 - používá dva oddělené světelné paprsky
 - lze dosáhnout prostorového vidění 
 - ideální pro chirurgii, ale má nižší rozlišení
 
 
-
-
-Lupové brýle 
+#### Lupové brýle 
 - existují 2 typy brýlí v závislosti na typu čoček – Keplerův a Galileův typ. 
 - mohou být vybaveny CCD kamerou a operační pole lze zobrazit na monitoru. 
 
@@ -1605,7 +1603,7 @@ Lupové brýle
 - zahrnuje obnovení krevního toku, potřebnou rekonstrukci skeletu, šlach a nervů
 
 
-###Endoskop a endoskopie
+### Endoskop a endoskopie
 
 #### Endoskop 
 - rigidní nebo flexibilní optika 
