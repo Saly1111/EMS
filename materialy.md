@@ -21,3 +21,24 @@ Kostra člověka je složena z více než 200 kostí, které tvoří základní 
 Svaly jsou tvořeny svalovou tkání a jsou klíčové pro pohyb těla. Jsou propojeny s kosterním systémem a pomáhají nám pohybovat se, udržovat rovnováhu a vykonávat různé činnosti. Svaly mohou být rozděleny do tří kategorií: hladké, srdcové a kosterní.
 
 ![svaly](https://media.discordapp.net/attachments/762807292172435456/1343625052771455100/1PeYXimZq326r7ZpZlVlDJEFGJ0B-dJoOWGSobMIePmdcP4-6ZCtksW5E83kweCA.png?ex=67bdf3d7&is=67bca257&hm=38a02e03b42c07fa9e9c7d2fc9026c70e3b6273f54a32994bf27fc5c15ba7c37&=&format=webp&quality=lossless)
+
+## Dýchací soustava
+Dýchací soustava je soustava orgánů, která umožňuje přívod kyslíku do organismu a odvod oxidu uhličitého z těla. Hlavními orgány dýchací soustavy jsou nos, hltan, průdušnice, průdušky a plíce
+
+Problémy s dýchací soustavou mohou být způsobeny různými faktory, jako jsou infekce, alergie, nádory nebo poškození plicní tkáně.
+
+## Trávicí a vylučovací soustava
+Trávicí a vylučovací soustava jsou dvě úzce propojené soustavy lidského těla, které společně zajišťují zpracování potravy, odstranění odpadních látek a udržení rovnováhy tekutin v těle.
+Trávicí soustava se skládá z ústní dutiny, jícnu, žaludku, tenkého a tlustého střeva a konečníku. 
+Vylučovací soustava se skládá z ledvin, močových cest a močového měchýře. 
+
+## Oběhový systém
+Systém tvořený srdcem, cévami a krví, který zajišťuje transport živin, kyslíku a metabolických odpadů do a z tkání těla. Dodávat kyslík a živiny do tkání a odvádět metabolické produkty a odpadní látky zpět do krevního řečiště, které je následně vylučováno z těla.  
+
+Srdce funguje jako čerpadlo, které pumpuje krev do cév a zpět. Krevní cévy jsou rozděleny do tří základních typů: tepen, žil a kapilár. Tepny odvádějí krev od srdce do tkání těla, žíly odvádějí krev zpět do srdce a kapiláry slouží k výměně živin a kyslíku mezi krví a tkáněmi. 
+
+## Nervová soustava 
+Nervová soustava je soustava těla, která řídí a koordinuje všechny fyziologické a behaviorální funkce organismu.
+
+Zahrnuje centrální nervovou soustavu, která zahrnuje mozek a míchu, a periferní nervovou soustavu, která zahrnuje nervy a nervová vlákna
+
