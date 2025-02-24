@@ -337,9 +337,9 @@ Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
 - využívá se zejména při resuscitaci, kdy je pacientovi nutné podat umělé dýchání
 - přiložíte pacientovi vak na ústa a přes nos a budete jej stlačovat tolikrát, kolik bude potřeba, tzn. po každých 30 stlačení hrudníku
  
-###Vakuová matrace
--       stabilizace a fixace celého těla pacienta
--       tepelně izoluje
+### Vakuová matrace
+- stabilizace a fixace celého těla pacienta
+- tepelně izoluje
 ### Stetoskop
 
 
@@ -377,90 +377,94 @@ Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
 - nůžky
 - skalpel
 - medikamenty
-**Defibrilátor
-EKG
-Ventilátor pro plicní ventilaci
-Odsávačka
-Polohovatelná nosítka
-Fixační deska
-Transportní plachta
-Přikrývka**
 
-**2 tlakové lahve s kyslíkem o obsahu + masky**
-**Fixační dlahy pro horní a dolní končetiny**
-**Pohotovostní porodní souprava**
-**Vakuová matrace**
-**Fólie nebo vak pro zemřelé**
-**Zařízení pro ohřev infuzí**
-**Vrtačka pro intraoseální vstup**
-**Souprava pro hrudní punkci**
-**Jednorázové emitní misky**
-**Ochranný oblek proti infekci**
-**Reflektor pro vyhledávání osob v terénu**
+**Defibrilátor**<br>
+**EKG**<br>
+**Ventilátor pro plicní ventilaci**<br>
+**Odsávačka**<br>
+**Polohovatelná nosítka**<br>
+**Fixační deska**<br>
+**Transportní plachta**<br>
+**Přikrývka** <br>
+**2 tlakové lahve s kyslíkem o obsahu + masky**<br>
+**Fixační dlahy pro horní a dolní končetiny**<br>
+**Pohotovostní porodní souprava**<br>
+**Vakuová matrace**<br>
+**Fólie nebo vak pro zemřelé**<br>
+**Zařízení pro ohřev infuzí**<br>
+**Vrtačka pro intraoseální vstup**<br>
+**Souprava pro hrudní punkci**<br>
+**Jednorázové emitní misky**<br>
+**Ochranný oblek proti infekci**<br>
+**Reflektor pro vyhledávání osob v terénu**<br>
 
 
 
 ## ANAMNÉZY
 ### Nynější onemocnění - NO
--       aktuální příčina hospitalizace
--       podrobný aktuální stav
--       popis počátečních obtíží
--       důvod obtíží
--       kroky, které pacient podnikl ke zmírnění obtíží
+- aktuální příčina hospitalizace
+- podrobný aktuální stav
+- popis počátečních obtíží
+- důvod obtíží
+- kroky, které pacient podnikl ke zmírnění obtíží
  ### Osobní anamnéza - OA
--  chronologicky uspořádaný přehled onemocnění, které pacient prodělal od narození do současnosti
--       všechny lékařské zprávy, případně může pacient doplnit
+- chronologicky uspořádaný přehled onemocnění, které pacient prodělal od narození do současnosti
+- všechny lékařské zprávy, případně může pacient doplnit
 ### Rodinná anamnéza - RA
--    onemocnění v rodině pacienta
--   mohou to být onemocnění dědičná nebo onemocnění, která např. vznikla z důvodu prostředí, ve kterém pacient a jeho rodina žije
+- onemocnění v rodině pacienta
+- mohou to být onemocnění dědičná nebo onemocnění, která např. vznikla z důvodu prostředí, ve kterém pacient a jeho rodina žije
 ### Farmakologická anamnéza - FA
--       léky, které pacient užívá
--       případně i doplňky stravy, vitamíny
+- léky, které pacient užívá
+- případně i doplňky stravy, vitamíny
  
 
 ### Toxikologická anamnéza - TA
--       informace o užívání návykových látek (alkohol, tabákové výrobky, kofein,...)
+- informace o užívání návykových látek (alkohol, tabákové výrobky, kofein,...)
  
 ### Alergická anamnéza - AA
--       seznam alergií pacienta
+- seznam alergií pacienta
 
 
 ## MEDIKAMENTY
-Analgetika: 
-Fentanyl: 100x silnější než morfin - používá se při závažných operací. Využívá se jako součást anestezie, jelikož jeho účinky mají rychlý nástup, ale doba trvání je velmi krátká.
+### Analgetika: 
+#### Fentanyl: 
+100x silnější než morfin - používá se při závažných operací. Využívá se jako součást anestezie, jelikož jeho účinky mají rychlý nástup, ale doba trvání je velmi krátká.
 
-Sufentanil: Je velmi silný analgetický prostředek k utlumení bolesti. Je cca 5-7x účinější než fentanyl. (IV)
+#### Sufentanil: 
+Je velmi silný analgetický prostředek k utlumení bolesti. Je cca 5-7x účinější než fentanyl. (IV)
 
-Morphin: Široké účinky: Analgetický (tlumení bolesti), Antinocicepční (tlumení nepříjemných vjemů), sedativní (psychický útlum), anxiolytický (tlumení úzkosti), psychotropní (zlepšení ale i zhoršení nálady).
+#### Morphin: 
+Široké účinky: Analgetický (tlumení bolesti), Antinocicepční (tlumení nepříjemných vjemů), sedativní (psychický útlum), anxiolytický (tlumení úzkosti), psychotropní (zlepšení ale i zhoršení nálady).
 
-Tramadol / Vicodin: Je prakticky stejně silný jako kodein, ale asi desetkrát slabší než orálně podaný morfin. Tramal se podává ve formě tablet nebo kapek a jeho účinek trvá cca 6 hodin. Nedoporučuje se pro děti, staří osoby a při selhání jater či ledvin. Je vhodný na pooperační bolesti.
+#### Tramadol / Vicodin: 
+Je prakticky stejně silný jako kodein, ale asi desetkrát slabší než orálně podaný morfin. Tramal se podává ve formě tablet nebo kapek a jeho účinek trvá cca 6 hodin. Nedoporučuje se pro děti, staří osoby a při selhání jater či ledvin. Je vhodný na pooperační bolesti.
 
-Apaurin:  Injekční roztok 10mg/2ml. Užívá se proti úzkosti a zklidnění.
+#### Apaurin:  
+Injekční roztok 10mg/2ml. Užívá se proti úzkosti a zklidnění.
 
-Antipyretika: 
+### Antipyretika: 
 Tlumí bolest a zároveň snižují tělesnou teplotu a některá zároveň působí protizánětlivě.
-Panadol, Paralen, Novalgin, Algifen, Atalargin, Eunalgit atd. 
+#### Panadol, Paralen, Novalgin, Algifen, Atalargin, Eunalgit atd. 
 
-Hemostatika:
-Zastavují krvácení: Dicynone, Gelaspon, Traumacel (v podobě spreje, slouží k rychlému zastavení drobných krvácení) 
+### Hemostatika:
+Zastavují krvácení: **Dicynone, Gelaspon, Traumacel (v podobě spreje, slouží k rychlému zastavení drobných krvácení)** 
 
-Antikoagulancia: 
-Snižují srážlivost krve: Warfarin, Fragmin
+### Antikoagulancia: 
+Snižují srážlivost krve: **Warfarin, Fragmin**
 
-Antiastmatika:
-Léčba astmatu: Euphyllin
+### Antiastmatika:
+Léčba astmatu: **Euphyllin**
 
-Hypnotika:
-Navozují spánek a odpočinek: Dormicum, Rohypnol
+### Hypnotika:
+Navozují spánek a odpočinek: **Dormicum, Rohypnol**
 
-Sedativa:
-Působí na celkové zklidnění, nevyvolávají spánek: Bellaspon 
+### Sedativa:
+Působí na celkové zklidnění, nevyvolávají spánek: **Bellaspon**
 
-Anestetika: 
-Anestetika
+### Anestetika: 
 Anestetika jsou dělena na celková a lokální. Celková se používají při vážnějších zraněních a poté i vážnějších operací. Lokální pak u lehčích zranění a drobných zákrocích.
 
-Celková anestetika
+#### Celková anestetika
 Jejich použití je hlavně při operacích, v terénu pak pro zajištění pacienta s těžkými zraněními na převoz. Jsou dva druhy anestezií a to buďto inhalační, nebo intravenózní. Doba trvání závisí na délce podávání.
 Inhalační
 Isofluran - způsob podání je za pomoci dýchací masky, může lehce zvýšit srdeční frekvenci.
@@ -468,96 +472,104 @@ Rajský plyn (oxyd dusný) - způsob podání dýchací maskou, slabá anestezie
 Intravénózní  - krátké výkony vyžadující anestezii, rychle se dostávají do mozku, nabíhá během pár sekund. Pro delší udržení je třeba anestetika dále distribuovat do těla. K ukončení anestezie stačí ukončit distribuci.
 Propofol - nástup okamžitý, trvá 4-8 min., nenastává stav oblouznění, způsobuje pokles srdečního tlaku, zvyšuje srdeční frekvenci
 Midazolam - pomocné anestetikum, snižuje riziko kardiovaskulárního a dechového útlumu
-Lokální anestetika
+
+#### Lokální anestetika
 Lokální anestetika se používají pro lokální umrtvení ošetřovaného místa. Obyčejný člověk se s ním setká nejčastěji u zubaře. Rozdělují se na povrchová, infiltrační, svodná, intravenózníregionální, spinální (míšnísubarachnoidální) a epidurální. Nás však budou nejvíce zajímat povrchová a intravenózní.
 
-Povrchová - nejčastěji se používá při ošetřování škrábanců, lehkých řezných ran, které vyžadují šití. Nanáší se pomoci tamponů přímo na pokožku v okolí rány.
-Lidokain - nanáší se v podobě aerosolu, nebo gelu, nástup je během jedné minuty, trvá cca 6 minut.
-Intravenózní - nejčastější použití naleznete při ošetřování střelné rány, či většího tržného zranění. Používá se za pomoci jehly, kdy je anestetikum vstříknuto přímo do okolí rány, nejčastěji podkožně.
-Prokain - zavádí se injekčně, nejčastěji do podkoží, či svalstva, tj. do okolí, či přímo do místa zákroku - nástup okamžitý, trvání záleží na dávce, nejčastěji 1 hodina do úplného odeznění
+##### Povrchová 
+- nejčastěji se používá při ošetřování škrábanců, lehkých řezných ran, které vyžadují šití. Nanáší se pomoci tamponů přímo na pokožku v okolí rány.
+- **Lidokain** - nanáší se v podobě aerosolu, nebo gelu, nástup je během jedné minuty, trvá cca 6 minut.
+##### Intravenózní 
+- nejčastější použití naleznete při ošetřování střelné rány, či většího tržného zranění. Používá se za pomoci jehly, kdy je anestetikum vstříknuto přímo do okolí rány, nejčastěji podkožně.
+- **Prokain** - zavádí se injekčně, nejčastěji do podkoží, či svalstva, tj. do okolí, či přímo do místa zákroku - nástup okamžitý, trvání záleží na dávce, nejčastěji 1 hodina do úplného odeznění
 
 
-Antidotum:
+### Antidotum:
  Působí jako intoxikační látky:
 
-- Narcan : Předávkování opioidy či jako prevence opiové závislosti. Podává se nejčastěji intravenózně do svalové tkáně. Působí během 2 minut a jeho účinek je cca 30min - 1 hodinu. Pokud jsou účinky opioidních látek delší než účinky Narcanu, je třeba dávku opětovně aplikovat až do kýženého účinku. 
+- **Narcan :** Předávkování opioidy či jako prevence opiové závislosti. Podává se nejčastěji intravenózně do svalové tkáně. Působí během 2 minut a jeho účinek je cca 30min - 1 hodinu. Pokud jsou účinky opioidních látek delší než účinky Narcanu, je třeba dávku opětovně aplikovat až do kýženého účinku. 
 POZOR: U osob závislých na opioidech může způsobit abstinenční syndrom, nervozitu, nevolnost, zvracení, zrychlení srdečního tepu a pocení.   
-Myorelaxancia: 
+
+### Myorelaxancia: 
 Látky uvolňující spazmy (tzn. svalové křeče) a vedou k jejich relaxaci: 
 
-- Diazepam: Tlumí nervovou soustavu. Používá se ke zklidnění a při úzkosti, dále k uvolnění svalových křečí, před anestezii a při léčbě epileptických záchvatů. Vhodný ke zvládnutí dočasných svalových spazmů - např. zlomeniny a jejich následné ošetření
+- **Diazepam:** Tlumí nervovou soustavu. Používá se ke zklidnění a při úzkosti, dále k uvolnění svalových křečí, před anestezii a při léčbě epileptických záchvatů. Vhodný ke zvládnutí dočasných svalových spazmů - např. zlomeniny a jejich následné ošetření
 
-- Sukcinylcholin: Působí velmi krátce. Pro dlouhodobější působení lze podat infuzi. Dochází k relaxaci nejprve očí, prstů a jazyku, teprve následně končetin, krku a svalů v hrtanu. Proto je záhodné tento svalový relaxant používat při intubaci.
+- **Sukcinylcholin:** Působí velmi krátce. Pro dlouhodobější působení lze podat infuzi. Dochází k relaxaci nejprve očí, prstů a jazyku, teprve následně končetin, krku a svalů v hrtanu. Proto je záhodné tento svalový relaxant používat při intubaci.
 
-Betablokátory
--       zpomalují srdeční frekvenci, snižují krevní tlak, pomáhají při srdeční arytmii
+### Betablokátory
+- zpomalují srdeční frekvenci, snižují krevní tlak, pomáhají při srdeční arytmii
 -  nejčastěji se podávají ve formě tabletek, tudíž u pacientů, kteří se např. s hypertenzí léčí dlouhodobě
--       nepodávat pacientům s astmatem, mohou vyvolat astmatický záchvat
+- nepodávat pacientům s astmatem, mohou vyvolat astmatický záchvat
 - podávat opatrně u pacientů s cukrovkou, mohou maskovat příznaky nízkého cukru v krvi
--       také podávat opatrně pacientům se sníženou funkcí štítné žlázy 
-Parasympatolytika
--       léčba bradykardie (nízkého tepu)
--       atropin - dávkování 0,25 - 1 mg
-Kardiotonika
-Adrenalin
--      podpora srdeční svaloviny
--      využití při KPR nebo anafylaktickém šoku
--     obvykle se podává intravenózně, lze jej podat ale i intramuskulárně, intradermálně nebo intraoseálně
--       dávka u dospělého člověka 0,1 - 1 mg každých 3 - 5 minut, závisí na hodnotách
- Noradrenalin
--       na zvýšení krevního tlaku u akutních stavů
--       aplikován intravenózně
--     dávka u dospělého člověka 0,5 - 1 mcg za minutu, závisí na hodnotách krevního tlaku
-INFUZNÍ ROZTOKY
-Fyziologický roztok
+- také podávat opatrně pacientům se sníženou funkcí štítné žlázy 
+
+### Parasympatolytika
+- léčba bradykardie (nízkého tepu)
+- **atropin** - dávkování 0,25 - 1 mg
+
+### Kardiotonika
+**Adrenalin**
+- podpora srdeční svaloviny
+- využití při KPR nebo anafylaktickém šoku
+- obvykle se podává intravenózně, lze jej podat ale i intramuskulárně, intradermálně nebo intraoseálně
+- dávka u dospělého člověka 0,1 - 1 mg každých 3 - 5 minut, závisí na hodnotách
+
+**Noradrenalin**
+- na zvýšení krevního tlaku u akutních stavů
+- aplikován intravenózně
+- dávka u dospělého člověka 0,5 - 1 mcg za minutu, závisí na hodnotách krevního tlaku
+### INFUZNÍ ROZTOKY
+#### Fyziologický roztok**
 Použití:
--       náhrada tekutin (při dehydrataci)
--       ředění léků podávaných nitrožilně
+- náhrada tekutin (při dehydrataci)
+- ředění léků podávaných nitrožilně
 
 - Fyziologický roztok (FR, fýzák):  Jedná se o roztok chloridu sodného. Slouží k rehydrataci a k ředění léků podávaných skrze I.V. (intravenózní vstup, nitrožilně). Standardně se využívá 200/500/1 000ml
  
-Plasmalyte roztok
+#### Plasmalyte roztok
 Použití:
 - náhrada tekutin (při dehydrataci, šokových stavech - anafylaktický šok, hypovolemický,...)
--       má podobné zastoupení iontů jako plazma
+- má podobné zastoupení iontů jako plazma
 - Plasmalyte roztok: Je roztok podávaný skrze I.V. (intravenózní vstup, nitrožilně), sloužící jako dočasná náhrada tekutin (během operací, úrazů: jako zlomenina, popálení, úrazy hlavy), či u hemoragického šoku a klinických stavech, během kterých je třeba rychle nahradit ztrátu krve (je kompatibilní s krví). Dávkování se podává dle hmotnosti:
 
--   0-10kg: do 100ml/kg/24h
+- 0-10kg: do 100ml/kg/24h
 - 10-20kg: 1 000ml/kg/24h
 - 20kg a víc: 1 500ml/kg/24h 
 
-KREVNÍ OBRAZ (KO) - co je součástí
-Leukocyty (bílé krvinky)
--    jejich počet se zvyšuje zejména při zánětech nebo infekčních onemocnění
+## KREVNÍ OBRAZ (KO) - co je součástí
+#### Leukocyty (bílé krvinky)
+- jejich počet se zvyšuje zejména při zánětech nebo infekčních onemocnění
 
 
-Erytrocyty (červené krvinky)
--     vznikají v kostní dřeni a jsou odbourávány zejména ve slezině
+#### Erytrocyty (červené krvinky)
+- vznikají v kostní dřeni a jsou odbourávány zejména ve slezině
 
-Parametry erytrocytů (červených krvinek)
--     jejich objem, obsah hemoglobinu v buňce, jeho koncentrace v buňce, distribuční šíře objemu erytrocytů
+##### Parametry erytrocytů (červených krvinek)
+- jejich objem, obsah hemoglobinu v buňce, jeho koncentrace v buňce, distribuční šíře objemu erytrocytů
  
-Trombocyty (krevní destičky)
--       mají nezastupitelnou úlohu při zástavě krvácení
+#### Trombocyty (krevní destičky)
+- mají nezastupitelnou úlohu při zástavě krvácení
  Kapilární krev - krev odebrána z bříšku prstu - vpich veden z boku
 Venózní krev - krev získaná z vény (žíly) - možná místa vpichu: v loketní jamce, žíly na předloktí, na hřbetu ruky, nohy, žíly v temenní a temporální oblasti (u kojenců a batolat)
 
 
 ## KREVNÍ SKUPINY
--      A+, A-, B+, B-, AB+, AB-, 0+, 0-
--      krevní skupina se dá zjistit pomocí krevních odběrů
--      níže vidíte, kterou krev pacient s jakou krevní skupinou může přijmout v případě, že ji potřebuje (např. ztratí hodně krve)
+- A+, A-, B+, B-, AB+, AB-, 0+, 0-
+- krevní skupina se dá zjistit pomocí krevních odběrů
+- níže vidíte, kterou krev pacient s jakou krevní skupinou může přijmout v případě, že ji potřebuje (např. ztratí hodně krve)
 
 
 
 ## ABCDE označuje anglická slova:
-Airway zajištění/zprůchodnění dýchacích cest kontrola dutiny ústní
-Breathing: kontrola dechu pohled (pohyb hrudníku, zda je symetricky -> tenzní pneumotorax), poslech (přiložení ucha u ústům a nosu pacienta) Kontrola saturace
-Circulation: kontrola krevního oběhu (tep, tlak) nahmataní tepny na zápěstí/krku
-Disability: reakce pacienta kontrola zorniček, reakce na zvukový podnět (odpovídá), reakce na bolestivý podnět (algický podnět) kontrola glykémie 
-Exposure: odhalení pacienta, sundání oblečení pro usnadnění přístupu k pacientovi (podle typu poranění, viz typy poranění)
+**Airway:** zajištění/zprůchodnění dýchacích cest kontrola dutiny ústní <br>
+**Breathing:** kontrola dechu pohled (pohyb hrudníku, zda je symetricky -> tenzní pneumotorax), poslech (přiložení ucha u ústům a nosu pacienta) Kontrola saturace <br>
+**Circulation:** kontrola krevního oběhu (tep, tlak) nahmataní tepny na zápěstí/krku <br>
+**Disability:** reakce pacienta kontrola zorniček, reakce na zvukový podnět (odpovídá), reakce na bolestivý podnět (algický podnět) kontrola glykémie <br>
+**Exposure:** odhalení pacienta, sundání oblečení pro usnadnění přístupu k pacientovi (podle typu poranění, viz typy poranění) <br>
 
-ABCDE postup označuje systematický přístup ke kriticky nemocným anebo poraněným jedincům s okamžitým zhodnocením stavu a poskytnutí urgentní první pomoci. Cíle postupu ABCDE:
+ABCDE postup označuje systematický přístup ke kriticky nemocným anebo poraněným jedincům s okamžitým zhodnocením stavu a poskytnutí urgentní první pomoci. 
+**Cíle postupu ABCDE:**
 Poskytnout podporu selhávajícím životním funkcím!
 Rozdělit celkovou situaci do menších částí, které je možné lépe zvládnout!
 Získat čas na stanovení definitivní diagnózy!
@@ -565,59 +577,59 @@ Je více než vhodné, aby jste se při kontaktu s pacientem drželi systematick
 
 ## SUTURA - šití
  
-Sutura kůže
+### Sutura kůže
 - používají se autraumatická vlákna, kožní jehla se špicí trojúhelníkovitého průřezu – řezací
 - možno použít i kovové svorky (spíše v oblasti trupu)
 typy stehů:
--       jednouzlové - jednoduché, matracové, intradermální, ….
--       pokračující - většinou pro intradermální stehy (používá se pouze v místech minimálního napětí tkání, například tam, kde bylo toto napětí eliminováno sešitím hlubších vrstev), steh je tvořen monofilním vláknem, které je vedeno uvnitř kůže, takže žádná část stehu nevychází ven a zpět z okrajů rány, pak se přelepí stripy
+- jednouzlové - jednoduché, matracové, intradermální, ….
+- pokračující - většinou pro intradermální stehy (používá se pouze v místech minimálního napětí tkání, například tam, kde bylo toto napětí eliminováno sešitím hlubších vrstev), steh je tvořen monofilním vláknem, které je vedeno uvnitř kůže, takže žádná část stehu nevychází ven a zpět z okrajů rány, pak se přelepí stripy
 odstraňování stehů
--       obličej za 3 - 4 dny
--       trup, končetiny za 7 - 10 dní
--       nad klouby za 10 - 14 dní
+- obličej za 3 - 4 dny
+- trup, končetiny za 7 - 10 dní
+- nad klouby za 10 - 14 dní
  
-Sutura podkoží
--   	má zásadní význam pro vzhled výsledné jizvy
--       vstřebatelný materiál (safil), půlkruhová řezací jehla
+### Sutura podkoží
+- má zásadní význam pro vzhled výsledné jizvy
+- vstřebatelný materiál (safil), půlkruhová řezací jehla
  
-Sutura šlach
--       monofilní vstřebatelná nebo nevstřebatelná vlákna
--       je třeba včasná rehabilitace
+### Sutura šlach
+- monofilní vstřebatelná nebo nevstřebatelná vlákna
+- je třeba včasná rehabilitace
  
-Sutura cév
--       monofilní atraumatické vlákno
--       pokračující nepřehazovaný steh
--       z důvodu rizika trombózy se ještě před zaklampováním cévy podává celkově heparin, který se po ukončení rekonstrukce cévy neutralizuje protaminem
--       ligatury (podvazy cév) - vstřebatelná vlákna (menší cévy, hlavně žíly), nevstřebatelná vlákna (větší cévy)
+### Sutura cév
+- monofilní atraumatické vlákno
+- pokračující nepřehazovaný steh
+- z důvodu rizika trombózy se ještě před zaklampováním cévy podává celkově heparin, který se po ukončení rekonstrukce cévy neutralizuje protaminem
+- ligatury (podvazy cév) - vstřebatelná vlákna (menší cévy, hlavně žíly), nevstřebatelná vlákna (větší cévy)
  
-Sutura nervů
--       monofilní nevstřebatelná vlákna nebo tkáňové lepidla (autologní plasma)
--       steh se provádí jednotlivými stehy
--       při poškození nad 2 cm je potřeba použít autotransplantát
--       hojení nervu zabere cca 4 - 6 týdnů u autotransplantátu zpoždění 8 - 12 týdnů
+### Sutura nervů
+- monofilní nevstřebatelná vlákna nebo tkáňové lepidla (autologní plasma)
+- steh se provádí jednotlivými stehy
+- při poškození nad 2 cm je potřeba použít autotransplantát
+- hojení nervu zabere cca 4 - 6 týdnů u autotransplantátu zpoždění 8 - 12 týdnů
  
-Sutura na trávicím ústrojí
--       střevní jehly
--       vstřebatelná vlákna
-Stehy:
--       Albertův steh - zabírá všechny vrstvy trávicí trubice, uzlen zevně
--       Mikuliczův steh - zabírá všechny vrstvy, uzlen dovnitř
--       moderním způsobem je sutura pomocí staplerů, hlavně při nutnosti rychlého ošetření střevního poranění v rámci polytraumatu
+### Sutura na trávicím ústrojí
+- střevní jehly
+- vstřebatelná vlákna
+#### Stehy:
+- Albertův steh - zabírá všechny vrstvy trávicí trubice, uzlen zevně
+- Mikuliczův steh - zabírá všechny vrstvy, uzlen dovnitř
+- moderním způsobem je sutura pomocí staplerů, hlavně při nutnosti rychlého ošetření střevního poranění v rámci polytraumatu
  
 
 
-Sutura parenchymových a jiných orgánů (játra, plíce, ledviny,...)
--       nebezpečí prořezání stehů
--       stehy lze podložit nebo po okrajích ranných ploch rovnoběžně s nimi založit několik matracových stehů a pak teprve ránu zašít dalšími stehy kolmými na předcházející
--       jehly kulatého průřezu
--       u močového měchýře se používá vstřebatelné vlákno ve dvou vrstvách
+### Sutura parenchymových a jiných orgánů (játra, plíce, ledviny,...)
+- nebezpečí prořezání stehů
+- stehy lze podložit nebo po okrajích ranných ploch rovnoběžně s nimi založit několik matracových stehů a pak teprve ránu zašít dalšími stehy kolmými na předcházející
+- jehly kulatého průřezu
+- u močového měchýře se používá vstřebatelné vlákno ve dvou vrstvách
 
 
 
 ## KARDIOPULMONÁLNÍ RESUSCITACE
 = KPR, nepřímá masáž srdce + umělé dýchání
  Kdy ji zahájit?
--       při zjištění zástavy oběhu u pacienta - pacient nedýchá nebo má pouze lapavé nádechy, není hmatatelný tep
+- při zjištění zástavy oběhu u pacienta - pacient nedýchá nebo má pouze lapavé nádechy, není hmatatelný tep
  
 Postup:
 pokud pacient krvácí, nejdřív zastavíme krvácení (nějaké menší krvácení nevadí)
@@ -637,38 +649,38 @@ Po pěti minutách, kdy pacient nedýchá, začnou postupně odumírat mozkové 
 
 
 ## KRVÁCENÍ
-Vnější krvácení
-Vlásečnicové
--       menší oděrky, malé ranky, ne moc výrazné krvácení
--       stačí vydezinfikovat, přestříkat traumacelem nebo přelepit
--       některé trochu hlubší rány je poté potřeba zašít
- NIKDY NEŠIJEME RÁNY MIMO NEMOCNICI!! Není zajištěno sterilní prostředí, v sanitce na to ani nemáte potřebné vybavení
+### Vnější krvácení
+#### Vlásečnicové
+- menší oděrky, malé ranky, ne moc výrazné krvácení
+- stačí vydezinfikovat, přestříkat traumacelem nebo přelepit
+- některé trochu hlubší rány je poté potřeba zašít
+ **NIKDY NEŠIJEME RÁNY MIMO NEMOCNICI!! Není zajištěno sterilní prostředí, v sanitce na to ani nemáte potřebné vybavení**
 
-Žilní
--       tmavší krev, hlubší rány, krev z rány vytéká
--   ránu obvážeme, popřípadě použijeme tlakový obvaz, pokud se bude jedna o masivnější krvácení, ránu zaškrtíme
+#### Žilní
+- tmavší krev, hlubší rány, krev z rány vytéká
+- ránu obvážeme, popřípadě použijeme tlakový obvaz, pokud se bude jedna o masivnější krvácení, ránu zaškrtíme
 - poškozená žíla se poté v nemocnici musí rekonstruovat (viz kategorie SUTURA - šití), rána vyčistit a zašít
-Tepenné
--       krev je světlá, z rány stříká
--       co nejvýš nad místem krvácení ránu zaškrtíme, použijeme turniket (pokud pacient krvácí z ruky, turniket dáme blízko ramene), tepenné krvácení z krku samozřejmě nezaškrcujeme
+#### Tepenné
+- krev je světlá, z rány stříká
+- co nejvýš nad místem krvácení ránu zaškrtíme, použijeme turniket (pokud pacient krvácí z ruky, turniket dáme blízko ramene), tepenné krvácení z krku samozřejmě nezaškrcujeme
 - v případě, že použijeme turniket, zapíšeme čas použití a trochu povolujeme každých 10 minut, turniket může na končetině být maximálně hodinu, aby nedošlo k odumření dané končetiny
  
-Vnitřní krvácení 
+### Vnitřní krvácení 
 Krvácení do dutiny břišní, do dutiny hrudní, měkkých tkání, do mozku
--       krvácení do břicha lze na místě poznat pohmatem břicha (břicho bude tvrdé)
--       můžou se také na místech krvácení objevit hematomy
--       pacient cítí bolest v místě krvácení
--       vnitřní krvácení poté v nemocnici odhalí CT, MRI popřípadě Son
+- krvácení do břicha lze na místě poznat pohmatem břicha (břicho bude tvrdé)
+- můžou se také na místech krvácení objevit hematomy
+- pacient cítí bolest v místě krvácení
+- vnitřní krvácení poté v nemocnici odhalí CT, MRI popřípadě Son
 
  
  
 ## STŘELNÉ RÁNY
 
-Vstřel
+### Vstřel
  
--       kulka zůstala v těle
--       kulku v žádném případě nevyndáváme ven na místě
--       nepoužíváme tlakový obvaz, kulku bychom tím zatlačili hlouběji
+- kulka zůstala v těle
+- kulku v žádném případě nevyndáváme ven na místě
+- nepoužíváme tlakový obvaz, kulku bychom tím zatlačili hlouběji
 1.    krvácení ošetříme dle typu krvácení
 2.    provedeme kanylaci žíly
 3.    pacientovi podáváme analgetika, v případě potřeby krevní transfuze nebo infuzní roztoky
@@ -682,8 +694,8 @@ Vstřel
 11. zašijeme podkoží a kůži zasvorkujeme kožníma svorkama
 12. pacienta odvážíme na JIP
  
-Průstřel
--       většinou bývá v končetinách
+### Průstřel
+- většinou bývá v končetinách
 1.    krvácení ošetříme dle typu krvácení
 2.    provedeme kanylaci žíly
 3.    pacientovi podáváme analgetika, v případě potřeby krevní transfuze nebo infuzní roztoky
@@ -695,10 +707,10 @@ Průstřel
  
 
 ## BODNÉ RÁNY
--       pokud se v ráně bude stále nacházet nějaký předmět (např. nůž), nevyndáváme ho hned na místě, ale až v nemocnici, pacient by mohl vykrvácet
--       jinak postupujeme dle závažnosti a typu zranění
+- pokud se v ráně bude stále nacházet nějaký předmět (např. nůž), nevyndáváme ho hned na místě, ale až v nemocnici, pacient by mohl vykrvácet
+- jinak postupujeme dle závažnosti a typu zranění
 
--   v případě, že bodná rána bude v oblasti trupu, v nemocnici uděláme CT, MRI nebo SONO, abychom vyloučili vnitřní krvácení
+- v případě, že bodná rána bude v oblasti trupu, v nemocnici uděláme CT, MRI nebo SONO, abychom vyloučili vnitřní krvácení
 
 
 
@@ -721,104 +733,105 @@ Průstřel
 
 
 ## ZLOMENINY 
--       zlomeniny dělíme na otevřené (kost čouhá ven z těla, rána krvácí) a uzavřené (můžeme vidět vzniklý otok nebo hematom)
--       následně je také dělíme na příčné (ošetříme sádrovou dlahou), šikmé (ošetříme sádrovou dlahou se zpevňovači z kovu) a spirální (ošetříme sádrovou dlahou se zpevňovači a extenčními dráty)
+- zlomeniny dělíme na otevřené (kost čouhá ven z těla, rána krvácí) a uzavřené (můžeme vidět vzniklý otok nebo hematom)
+- následně je také dělíme na příčné (ošetříme sádrovou dlahou), šikmé (ošetříme sádrovou dlahou se zpevňovači z kovu) a spirální (ošetříme sádrovou dlahou se zpevňovači a extenčními dráty)
  
-Otevřená zlomenina
--   	na místě přikryjeme otevřenou ránu sterilním krytím (neobvazujeme) a zafixujeme pomocí vakuové dlahy, ale pouze v případě že není riziko dalšího poškození tkáně či svaloviny, v případě masivního krvácení použijeme turniket
--       v nemocnici RTG, abychom zjistili, zda se jedná o zlomeninu s úlomkami kosti nebo bez
--       pacientovi podáváme celková anestetika
--       rouškujeme a dezinfikujeme
--       pokud se tam nachází úlomky, tak je vyndáme
--       ránu vyčistíme
--       natáhneme kost pomocí extenční dlahy a silou ji srovnáme
--       povolíme extenční dlahu
--       zašijeme podkoží a kůži
--       končetinu zasádrujeme
--       převážíme pacienta na JIP
+### Otevřená zlomenina
+- na místě přikryjeme otevřenou ránu sterilním krytím (neobvazujeme) a zafixujeme pomocí vakuové dlahy, ale pouze v případě že není riziko dalšího poškození tkáně či svaloviny, v případě masivního krvácení použijeme turniket
+- v nemocnici RTG, abychom zjistili, zda se jedná o zlomeninu s úlomkami kosti nebo bez
+- pacientovi podáváme celková anestetika
+- rouškujeme a dezinfikujeme
+- pokud se tam nachází úlomky, tak je vyndáme
+- ránu vyčistíme
+- natáhneme kost pomocí extenční dlahy a silou ji srovnáme
+- povolíme extenční dlahu
+- zašijeme podkoží a kůži
+- končetinu zasádrujeme
+- převážíme pacienta na JIP
  
  
-Uzavřená zlomenina žeber
--       používáme celovakuovou matraci
--       v nemocnici RTG
--       léčba pomocí bandáže nebo jiné fixace hrudníku, podávání analgetik
--       při frakturách více jak 5 žeber přecházíme již na umělou plicní ventilaci
--       při komplikaci s nestabilním hrudníkem volíme operativní léčbu - žebra se drátují
+### Uzavřená zlomenina žeber
+- používáme celovakuovou matraci
+- v nemocnici RTG
+- léčba pomocí bandáže nebo jiné fixace hrudníku, podávání analgetik
+- při frakturách více jak 5 žeber přecházíme již na umělou plicní ventilaci
+- při komplikaci s nestabilním hrudníkem volíme operativní léčbu - žebra se drátují
  
-Uzavřená zlomenina krčku
--       zlomenina horního konce stehenní kosti
--       příznaky: sakra velká bolest, často je nemožné s končetinou hýbat, otok
--       v nemocnici RTG
--       pacientovi podáváme celková anestetika, krček částečně nebo kompletně nahradíme implantátem
+### Uzavřená zlomenina krčku
+- zlomenina horního konce stehenní kosti
+- příznaky: sakra velká bolest, často je nemožné s končetinou hýbat, otok
+- v nemocnici RTG
+- pacientovi podáváme celková anestetika, krček částečně nebo kompletně nahradíme implantátem
  
-Uzavřená zlomenina nosu
--       lze rozeznat i pohmatem (bolestivá citlivost, abnormální pohyblivost nosních kůstek)
--       nezávažné zlomeniny léčíme jen ledováním
--       některé zlomeniny vyžadují ruční navrácení kostí do správného tvaru (manuální repozice) s fixací
+### Uzavřená zlomenina nosu
+- lze rozeznat i pohmatem (bolestivá citlivost, abnormální pohyblivost nosních kůstek)
+- nezávažné zlomeniny léčíme jen ledováním
+- některé zlomeniny vyžadují ruční navrácení kostí do správného tvaru (manuální repozice) s fixací
 
  
 ## KOMOCE MOZKU
  
 Diagnóza
--       otřes mozku nevylučujeme, jestliže měl pacient nedávno úraz hlavy
--       pacient má příznaky 1., 2. nebo 3. stupně otřesu mozku
--       kontrolní CT - v případě otřesu mozku neuvidíme na snímcích žádný nález, tudíž se pomocí CT otřes mozku nedá diagnostikovat, lze pouze vyloučit, že se nejedná o jiné vážnější poškození mozku - v případě, že na CT nějaký nález máme, jedná se o jinou a vážnější diagnózu
+- otřes mozku nevylučujeme, jestliže měl pacient nedávno úraz hlavy
+- pacient má příznaky 1., 2. nebo 3. stupně otřesu mozku
+- kontrolní CT - v případě otřesu mozku neuvidíme na snímcích žádný nález, tudíž se pomocí CT otřes mozku nedá diagnostikovat, lze pouze vyloučit, že se nejedná o jiné vážnější poškození mozku - v případě, že na CT nějaký nález máme, jedná se o jinou a vážnější diagnózu
  
-1. stupeň
--       zmatenost kratší než 15 minut
--       bolest hlavy, nevolnost
--       rekonvalescence několik dní
--       podat vicodin, předepsat panadol nebo nalgesin 
-2. stupeň
--       zmatenost, bolesti hlavy, nevolnost, závratě, dezorientace
--       porucha vědomí
--       rekonvalescence několik dní
--       podat vicodin, předepsat nalgesin
+### 1. stupeň
+- zmatenost kratší než 15 minut
+- bolest hlavy, nevolnost
+- rekonvalescence několik dní
+- podat vicodin, předepsat panadol nebo nalgesin 
+### 2. stupeň
+- zmatenost, bolesti hlavy, nevolnost, závratě, dezorientace
+- porucha vědomí
+- rekonvalescence několik dní
+- podat vicodin, předepsat nalgesin
  
-3. stupeň
--       bezvědomí, amnézie, zvracení, bolesti hlavy, závratě, zmatenost, dezorientace, pocení
--       rekonvalescence 6-12 týdnů
--       v nemocnici podáváme vicodin, předepisujeme nalgesin
+### 3. stupeň
+- bezvědomí, amnézie, zvracení, bolesti hlavy, závratě, zmatenost, dezorientace, pocení
+- rekonvalescence 6-12 týdnů
+- v nemocnici podáváme vicodin, předepisujeme nalgesin
  
-Postkomoční syndrom
--     může trvat až týdny a měsíce po úrazu
--    bolesti hlavy, poruchy paměti, nespavost, nadměrná dráždivost, deprese
+### Postkomoční syndrom
+- může trvat až týdny a měsíce po úrazu
+- bolesti hlavy, poruchy paměti, nespavost, nadměrná dráždivost, deprese
 ## POPÁLENINY
-1. stupeň
--       zarudnutí kůže, případný otok
--       pouze chladit, podávat analgetika
+### 1. stupeň
+- zarudnutí kůže, případný otok
+- pouze chladit, podávat analgetika
  
-2.A stupeň
--       zarudnutí, vodnaté puchýře, otok
--       chladit, podávat analgetika
+### 2.A stupeň
+- zarudnutí, vodnaté puchýře, otok
+- chladit, podávat analgetika
  
-2.B stupeň
--       zasahuje hlubší strukturu kůže
--       na místě aplikace antimikrobiálních obkladů, aby se zamezilo infekci
--       po zahojení zůstávají jizvy
+### 2.B stupeň
+- zasahuje hlubší strukturu kůže
+- na místě aplikace antimikrobiálních obkladů, aby se zamezilo infekci
+- po zahojení zůstávají jizvy
  
-3. stupeň
--       nekróza, popálená kůže odumírá i s nervovým zakončením
--       šedé, šedobílé zbarvení postiženého místa
--       na místě aplikace antimikrobiálních obkladů, aby se zamezilo infekci
--       nezbytný chirurgický zásah, transplantace kůže z jiných částí těla
+### 3. stupeň
+- nekróza, popálená kůže odumírá i s nervovým zakončením
+- šedé, šedobílé zbarvení postiženého místa
+- na místě aplikace antimikrobiálních obkladů, aby se zamezilo infekci
+- nezbytný chirurgický zásah, transplantace kůže z jiných částí těla
  
-4. stupeň
--       zuhelnatění
--       mimo kůži jsou poškozené také kosti, svaly nebo šlachy
--   odstranění nekrotické kůže, rekonstrukce poškozených struktur (kosti, svaly, šlachy)
--       často amputace poškozených končetin
+### 4. stupeň
+- zuhelnatění
+- mimo kůži jsou poškozené také kosti, svaly nebo šlachy
+- odstranění nekrotické kůže, rekonstrukce poškozených struktur (kosti, svaly, šlachy)
+- často amputace poškozených končetin
+
 ## Plastika
 
-Oční víčka - Externí chir. řez podél linie záhybů horních a dolních víček. Odstranění tuku za pomocí kleští, hemostatu a kožního roztahováku (lékařský navíječ), odříznutí tuku chirurg. nůžkami. 
+**Oční víčka** - Externí chir. řez podél linie záhybů horních a dolních víček. Odstranění tuku za pomocí kleští, hemostatu a kožního roztahováku (lékařský navíječ), odříznutí tuku chirurg. nůžkami. 
 
-Nos - Oddělení nosní kůže a měkké tkáně od ossea (nosní chrupavka), aplikace stentu (trubice k dýchání), podlepení nosu páskou a upevnění kovové dlahy. Modelace nosu se provádí kožními štěpy, implantátem v podobě restylanu nebo juvedermu. Dále seškrábáváním chrupavky Rhinoplastickou rašplí.
+**Nos** - Oddělení nosní kůže a měkké tkáně od ossea (nosní chrupavka), aplikace stentu (trubice k dýchání), podlepení nosu páskou a upevnění kovové dlahy. Modelace nosu se provádí kožními štěpy, implantátem v podobě restylanu nebo juvedermu. Dále seškrábáváním chrupavky Rhinoplastickou rašplí.
 
-Tváře - Řez od horní části úst blízko horní části dásní, odstranění podkožního tuku a vsunutí implantátu - Malar - běžný pod lícní kost
+**Tváře** - Řez od horní části úst blízko horní části dásní, odstranění podkožního tuku a vsunutí implantátu - Malar - běžný pod lícní kost
                  - Submalar - ke zvětšení prostřední části tváří
                  - Možnost aplikace Restylanu nebo Juvedermu do lícní plochy
 
-Plastika/Transplantace kůže - Provedení výběru štěpu - dárce, přímo pacient, prasečí. Dle velikosti štěpu vybíráme nástroje - malý štěp skalpel, velký štěp wattsonův nůž. Pokud by kožní štěp nestačil provedeme tzv. síťování (do štěpu se udělají oka, která transplantát zvětší až 5x).
+**Plastika/Transplantace kůže** - Provedení výběru štěpu - dárce, přímo pacient, prasečí. Dle velikosti štěpu vybíráme nástroje - malý štěp skalpel, velký štěp wattsonův nůž. Pokud by kožní štěp nestačil provedeme tzv. síťování (do štěpu se udělají oka, která transplantát zvětší až 5x).
 - Kožní štěp odebíráme z oblastí kryté oblečením - stehna, kyčle, paže, hrudník, břicho.
 - Následný štěp je možno přišít (volíme safil), svorkuje nebo ovazuje.
 - Štěp se ne vždy ujme
@@ -827,14 +840,14 @@ Plastika/Transplantace kůže - Provedení výběru štěpu - dárce, přímo pa
 
 ## Transplantece kostní dřeně
 
-Pacient:
+#### Pacient:
  - Zavede se katetr do centrální žíly hrudníku (subklavie, podklíčková žíla)
 - Provést chemoterapii - aplikování cytostatik
 -Léky proti nevolnosti a zvracení: Antiemetika
 -Podpůrné léky: Ranital- snížení kyselosti žalud. šťáv a mesnauromitexan - ochrana sliznic močových cest.
 -Po ukončení chemoterapie podáváme imunosupresiva - cyklosporin-A a metotrexat s metylprednisolonem
 - Transplantace kostní dřeně z vaků (v nich je protisrážlivý roztok) za pomocí katetru ( 0,5 - 1,5l)
-Poop: Podáváme pacientovi parenterální výživu a případě léky proti bolesti. 
+Pooper.: Podáváme pacientovi parenterální výživu a případě léky proti bolesti. 
 Pokud se krvetvorba dostatečně neobnoví podáváme transfúze červených krvinek a koncentráty krevních destiček (Trombokoncentráty)
 - Podáváme erytropoetin (např. Eprex) na urychlení růstu červených krvinek
 - Provádíme odběr krve: Zjistit se objevily neutrofilní granulocyty (zralé bílé krvinky - aby jsme zamachrovali)
@@ -843,50 +856,50 @@ Pokud se krvetvorba dostatečně neobnoví podáváme transfúze červených krv
 - Acidum folicum a freffonat 
 
 
-Nevhodní dárci
+#### Nevhodní dárci
 po prodělané léčbě zhoubného nádorového onemocnění
 po transplantaci orgánů a tkání
 s onemocněním srdce, cév, plic, kloubů a zažívacího systému, které vyžadují trvalé užívání léků
 s krvácivými chorobami a onemocněním krve
 s těžšími formami alergie (sklon k alergii se může přenést spolu s darovanými krvetvornými buňkami na příjemce)
-     -     se záchvatovými stavy, závislí na užívání léků
-     -     s cukrovkou závislou na užívání inzulinu či léků
-     -     po prodělání infekce přenosné krví, jako je HIV, žloutenka typu  B a C, syfilis, malárie, 	
-     -     s nemocemi, které by se mohly zátěží, spojenou s odběrem, 	teoreticky aktivovat (tuberkulóza, sarkoidóza, autoimunní 	onemocnění apod.)
-     -    lidé závislí na alkoholu, drogách a lidé v úzkém kontaktu s HIV pozitivní osobou
+     - se záchvatovými stavy, závislí na užívání léků
+     - s cukrovkou závislou na užívání inzulinu či léků
+     - po prodělání infekce přenosné krví, jako je HIV, žloutenka typu  B a C, syfilis, malárie, 	
+     - s nemocemi, které by se mohly zátěží, spojenou s odběrem, 	teoreticky aktivovat (tuberkulóza, sarkoidóza, autoimunní onemocnění apod.)
+     - lidé závislí na alkoholu, drogách a lidé v úzkém kontaktu s HIV pozitivní osobou
 
 
 
 
-Určení dárce
+#### Určení dárce
 Vzorek kostní dřeně
 odebrání vzorku kostní dřeně
 odběr se provádí pomocí široké jehly z hrudní kosti
 
 
-Vzorek DNA
-testy 	se provádí z krevních vzorků v laboratoři
+#### Vzorek DNA
+testy se provádí z krevních vzorků v laboratoři
 zjišťují se HLA znaky (tkáňové znaky)
 automatizovaný přístroj zobrazí soubor grafů detailního rozboru vzorku DNA
 
 
 
 
-Vyšetření před darováním
+#### Vyšetření před darováním
 vzorky se musí odebrat 30 dní před darováním dřeně
 vzorek krve
 vzorek moči
 MR srdce, plic a RTG pánve
 EKG
- ,Odběr krve pro autotrtansfuzi (asi půl litru)
+Odběr krve pro autotrtansfuzi (asi půl litru)
 
 
 
 
-Odběr dřeně od dárce
+#### Odběr dřeně od dárce
 Odběr se provádí na sále v celkové anestezii
 Pomocí punkční jehly se z pánevní kosti odsaje dřeň spolu z krví
-Odběr je závislý na hmotnosti pacienta i dárce (dárce nesmí darovat 	více než 20ml/kg, max 1500ml)
+Odběr je závislý na hmotnosti pacienta i dárce (dárce nesmí darovat více než 20ml/kg, max 1500ml)
 Odsátá krev je poté doplněna připravenou krví pro autotransfuzi
 Dárce 	tráví 3 dny na lůžku (jip)
 Po dobu 1 týdne dochází na pravidelné kontroly krevního obrazu
@@ -896,30 +909,31 @@ Po dobu 1 týdne dochází na pravidelné kontroly krevního obrazu
 ## Srdeční Arytmie
 -Je porucha srdečního rytmu. Některé arytmie jsou považovány za běžné jako např. respirační sinusová arytmie, kdy se srdce při nádechu mírně zrychlí a při výdechu mírně zpomalí.
 
-Příčiny:
-Ischemie: nedokrevnost určité tkáně nebo orgánu, to vede k jejímu poškození nebo odumření. Ischemii způsobuje hlavně nedostatek kyslíku potom nedostatek živin.
-Hypoxie: menší nebo nedostatečné množství kyslíku pro metabolismus skupiny hypoxie: Hypoxemická- Způsobuje menší parciální tlak kyslíku.
+### Příčiny:
+#### Ischemie: nedokrevnost určité tkáně nebo orgánu, to vede k jejímu poškození nebo odumření. Ischemii způsobuje hlavně nedostatek kyslíku potom nedostatek živin.
+#### Hypoxie: menší nebo nedostatečné množství kyslíku pro metabolismus skupiny hypoxie: Hypoxemická- Způsobuje menší parciální tlak kyslíku.
 		      Anemická- Chyba na straně červených krvinek
 		      Cirkulační- červené krvinky nesou kyslík
 		      Histotoxická- Chyba na straně buněk
-Zánět: Je složitá reakce živého organismu na poškození. Zahrnuje komplex biochemických a imunologických změn.
-Alterativní zánět
+#### Zánět: 
+Je složitá reakce živého organismu na poškození. Zahrnuje komplex biochemických a imunologických změn.
+##### Alterativní zánět
 Základní charakteristikou alternativního zánětu je to, že výrazně převažuje poškození (alterace) buněčných struktur. Postihuje především parenchym orgánů, vazivové stroma je postiženo řidčeji. Čisté alterativní záněty jsou poměrně vzácné, typickým příkladem je mikrobiálně podmíněná nekróza u agranulocytózy.
-Serózní zánět
+##### Serózní zánět
 U serózního zánětu převažuje produkce vodnatého exsudátu. Pokud probíhá serózní zánět na sliznici, dochází k míšení exsudátu s hlenem a hovoříme o katarálním zánětu (kataru). Nejčastěji se vyskytujícím serózním zánětem je katarální rhinitida (rýma).
-Lymfoplazmocytární zánět
+##### Lymfoplazmocytární zánět
 Pro tento druh zánětu je charakteristický obvykle nepříliš hojný vodnatý exsudát a infiltrace tkáně především lymfocyty a plazmatickými buňkami. Klasickým příkladem je chronická gastritida.
-Hnisavý zánět
+##### Hnisavý zánět
 Zánět je podobný seróznímu, exsudát je však hojně prostoupen rozpadajícími se granulocyty a mění se tak v hnis. Typicky je hnisavý zánět odpovědí na bakteriální infekci. Zvláštními formami jsou především:
 absces – lokalizovaný ohraničený rozpad tkáně
 flegmóna – hnisavý zánět šířící se difúzně tkání
-Krupózní zánět
+##### Krupózní zánět
 Krupózní zánět je formou fibrinózního zánětu. Fibrin v exsudátu nelne ke sliznici, poškození epitelu pod fibrinem je poměrně malé. Typickým příkladem je krupózní pneumonie.
-Difterický zánět
+##### Difterický zánět
 Zánět je pojmenovaný podle záškrtu (difterie). Od předchozího se liší tím, že fibrinová pablána lne k epitelu poměrně pevně.
-Eschariotický zánět
+##### Eschariotický zánět
 Eschariotický zánět je vystupňovanou podobou zánětu difterického. Sliznice pod fibrinovou pablánou podléhá nekróze a později se může v cárech odtrhávat.
-Gangrenózní zánět
+##### Gangrenózní zánět
 O gangrenózním zánětu se hovoří tehdy, jsou-li zánětem poškozené tkáně sekundárně ischemické a sekundárně je infikují hnilobné (putridní) bakterie.
 
 ## Zlomeniny žeber
@@ -929,12 +943,12 @@ O gangrenózním zánětu se hovoří tehdy, jsou-li zánětem poškozené tkán
 - Vyšetření: pohmat – stlačení hrudníku, RTG snímek hrudníku (v nejasných případech i CT)
 - Diagnóza: segmentované = vícečetné zlomeniny (na 1 žebru) sériové zlomeniny (několik žeber nad sebou) dvířková zlomenina = oboustranné vylomení několika žeber 
 - První pomoc: Fowlerova poloha (= v polosedě, usnadňuje dýchání), opioidní analgetika (Codein, Morfin) 
-- Léčba: - konzervativní – bandáž nebo hrudní krunýř, analgetická léčba (paracetamol, Codein, Tramadol), případně obstřik mezižeberních nervů (lokální anestezie) 
-
-              - operační (pouze u nestabilních hrudníků a zlomenin více než 5ti žeber): 
+- Léčba:
+ 	- konzervativní – bandáž nebo hrudní krunýř, analgetická léčba (paracetamol, Codein, Tramadol), případně obstřik mezižeberních nervů (lokální anestezie) 
+ 	- operační (pouze u nestabilních hrudníků a zlomenin více než 5ti žeber): 
 1) celková anestezie
- 2) endotracheální intubace
- 3) desinfekce a incize hrudní stěny (= naříznutí skalpelem)
+2) endotracheální intubace
+3) desinfekce a incize hrudní stěny (= naříznutí skalpelem)
 4) revize dutiny hrudní (ošetření poraněné plíce, hrudní drenáž)
 5) repozice zlomených žeber 
 6) přiložení přední dlahy Judetova typu (případně absorbovatelné dlahy 40-150mm) 
@@ -1044,38 +1058,38 @@ IV - intravenózní vstup     IO - intraoseální vstup
 - Všechny druhy chirurgických výkonů jsou považovány za invazivní výkony
 - V každém případě musí být možnost provedení chirurgického výkonu nastavena pacientovi na míru tak aby se zohlednil stav, potřeby a očekávání pacienta, možná rizika a komplikace 
 
-Základní termíny
+### Základní termíny
 
-Incize - chirurgické otevření rány řezem 
+**Incize** - chirurgické otevření rány řezem 
 
-Excize - vyříznutí orgánu, tkáně či nadoru 
+**Excize** - vyříznutí orgánu, tkáně či nadoru 
 
-Exstirpace - uplné odstranění zřetelně ohraničeného patologického ložiska
+**Exstirpace** - uplné odstranění zřetelně ohraničeného patologického ložiska
 
-Resekce - částečné odstranění orgánu
+**Resekce** - částečné odstranění orgánu
 
-Amputace - odříznutí či odnětí části těla
+**Amputace** - odříznutí či odnětí části těla
 
-Anastomóza - chirurgické napojení žil či tepen (většinou žilní či jiný štěp)
+**Anastomóza** - chirurgické napojení žil či tepen (většinou žilní či jiný štěp)
 
-Replantace - našívá zpátky oddělená část těla
+**Replantace** - našívá zpátky oddělená část těla
 
-Transplantace - přenos a vpravení odebrané tkáně či orgánu 
+**Transplantace** - přenos a vpravení odebrané tkáně či orgánu 
 
 
 
 
 ## Základní operační kategorie 
 
-Neodkladné operace
+### Neodkladné operace
 (př. zastavení masivního vnitřního krvácení)
 - v tomto případě je nutné provést zákrok okamžitě jakmile je to možné neboť v tomto případě je život pacienta v bezprostředním ohrožení
 
-Urgentní operace
+### Urgentní operace
 (př. odstranění zaníceného apendixu slepého střeva)
 - tento typ operace je nutné provést do několika málo hodin 
 
-Elektivní operace
+### Elektivní operace
 (př. náhrada kyčelního kloubu) 
 - je možné ji odložit a důležité je aby průběh operace a následné zotavení pacienta byli pro pacienta co nejvýhodnější 
 
@@ -1095,28 +1109,28 @@ Elektivní operace
 - Krevní ztráta
 ## Základní dělení chirurgických specializací a specializací souvisejících
 
-Hrudní chirurgie 
+### Hrudní chirurgie 
 - chirurgická léčba plic a hrudní dutiny 
 
-Kardiochirurgie a cévní chirurgie
+### Kardiochirurgie a cévní chirurgie
 - chirurgická léčba onemocnění srdce a cévního systému
 
-Transplantační chirurgie
+### Transplantační chirurgie
 - zabývá se přenosem a vpravením odebrané tkáně či orgánu 
 
-Maxilo–faciální chirurgie
+### Maxilo–faciální chirurgie
 - zabývá  se léčbou úrazů, vrozených vad a onemocnění obličeje, zejména pak čelistí
 
-Neurochirurgie 
+### Neurochirurgie 
 - zabývá se chirurgickou léčbou poruch centrálního, periferního, autonomního nervového systému a hypofýzy, včetně podpůrných struktur a cévního zásobení, taktéž léčbou bolestí spojené s touto problematikou 
 
-Oftalmologie 
+### Oftalmologie 
 - zabývá se nemocemi a chirurgií vizuálního aparátu tj. oko a jeho přídatné orgány 
 
-Plastická chirurgie 
+### Plastická chirurgie 
 - vylepšuje jejich vlastní tělesné proporce či spravuje deformované či nikterak poničené tělesné struktury
 
-Ortopedie 
+### Ortopedie 
 - jedná se obor na pomezí chirurgie ale povětšinou je členěn mimo chirurgii 
 - léčba akutních a chronických stavů, poranění a jejich následků, degenerativních procesů, nádorů i jiných poruch muskuloskeletálního systému 
 - obor používá jak chirurgické, tak konzervativní neinvazivní léčebné metody
@@ -1127,7 +1141,7 @@ Ortopedie
 - základní postup sloužící k rychlému a neprodlenému obnovení příjmu okysličené krve do mozku a dalších periferií lidského těla
 - nenávratné škody jako je odumírání buněk mozku počínaje 4-5 minutou od zástavy oběhu.  
 
-Resuscitace u dospělých pacientů
+### Resuscitace u dospělých pacientů
 
 - důležité je zjistit zda osoba je v bezvědomí což si ověříme tak že s osobou zatřeseme a následně užijeme duraznějších podmětu a pokud i poté osoba nereaguje došlo k poruše vědomí tj. bezvědomí (důležité je pacientovi nepůsobit bolest během podnětů). 
 
@@ -1141,7 +1155,7 @@ Resuscitace u dospělých pacientů
 
 
 
-Resuscitace dětí 
+### Resuscitace dětí 
 - u dětí je zástava v mnoha případech vyvolaná dušením a z toho důvodu je nutné zajistit přístup kyslíku a sledovat jeho hladinu v krvi pomocí pulzního oxymetru (hodnoty v normě 96-99,9%)
 
 - v první řadě ověříme zda-li je v bezvědomí následně ho umístíme vleže do pozice na znak a provedeme 5 lehkých vdechů (aby se hrudník lehce zvedal)  
