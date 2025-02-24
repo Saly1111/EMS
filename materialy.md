@@ -1475,22 +1475,22 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 ### Jehelce
 - nástroje sloužící k držení jehly při šití, nejčastěji v podobě klíštěk s nůžkovitými nebo klešťovými rukojeťmi a krátkými tupými čelistmi, opatřenými křížovým vroubkováním. 
 
-
+![jehelce](https://media.discordapp.net/attachments/762807292172435456/1343659153989701685/1yMSZE44lpHvL_1WmV4dGIQN7QSaa9HOoTNm95o-tWwBmeoB1T0Tw2COu6Y0VTw.png?ex=67be139a&is=67bcc21a&hm=b2b4b01fa51f8ef4c64a9276eb980c473fab64416673801b7a4f9ed4124d942f&=&format=webp&quality=lossless)
 
 ### Svorky
 - klíšťky většinou s nůžkovitými rukojeťmi, užívají se na stisknutí cév nebo držení tkáně. 
 
-### Peán
+#### Peán
 - cévní svorka (klíšťky) s nůžkovými rukojeťmi, plochými štíhlými vroubkovanými čelistmi a západkovým uzávěrem určená ke stavění krvácení. 
 čelisti mohou být rovné nebo zahnuté. 
 
-### Kocher
+#### Kocher
 - klíšťky s nůžkovými rukojeťmi a plochými štíhlými vroubkovanými čelistmi. Ty jsou, na rozdíl od peánu na koncích vybaveny příčnými zoubky pro lepší uchopení cévy. Při operaci se často používají i k držení tkáně, je však třeba s nimi zacházet jemně, zejména při manipulaci s kůží. 
 
-### Backhaus
+#### Backhaus
 - drobné svorky určené k držení operačních roušek, vzácněji k držení tkáně. 
 
-
+![svorky](https://media.discordapp.net/attachments/762807292172435456/1343659175473057852/1Tjbbz6MCAar-FnlLnfAPaeML-mDAvHqpsmVd-9bwOmak-rQGOt7UgafJwnUqqw.png?ex=67be139f&is=67bcc21f&hm=c69e88d084bb5229f62200e45eff884ac989001209d577ab852d1ad000e8c8da&=&format=webp&quality=lossless)
 
 
 
@@ -1505,7 +1505,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - chirurgické (má tři zoubky, slouží k uchopení hrubších tuhých struktur, jako kůže, sliznice)
 - oční (krátká se špičatými branžemi, k úchopu velmi jemných struktur oka)
 
-
+![pinzety](https://media.discordapp.net/attachments/762807292172435456/1343659206955241522/1j2ydwXMsdVW6ihwLCI8MJx0MoKyyRWSg6IsR1d9GpywMaziR1pTy9Yf1WM0XRso.png?ex=67be13a6&is=67bcc226&hm=011af335302ea67986e43266b9cbf860ba89e59532bb3458b5f547ed9db2ae9a&=&format=webp&quality=lossless)
 
 
 
@@ -1528,6 +1528,8 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - amputační nůž (silný, dvoubřitý, užívaný při protínání měkkých tkání při amputaci)
 - transplantační nože (pro odběr kožního štěpu) 
 
+![řežu](https://media.discordapp.net/attachments/762807292172435456/1343659190010384384/1np-0O_YAQ6r2kPnfoxuFQbGMHe3YJpD0KfaXkMoLD06Mn1uLbN0evm20Zu1R.png?ex=67be13a2&is=67bcc222&hm=57a91997d20137457320d2b5f94c27e618f55c76f3e732b8a86cd6a34a1510ef&=&format=webp&quality=lossless)
+
 
 ### Sondy
 - paličková (štíhlý, na koncích tupý nástroj určený k průzkumu dutin)
@@ -1536,7 +1538,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 ### Háky
 - nástroje na přidržení nebo odtažení tkáně 
 
-
+![hak](https://media.discordapp.net/attachments/762807292172435456/1343659165889073254/1mZ379DodDSHFVIcyb87-Fs54A7Lef1HG1jEXTQnfP5_413rYacSAFjzDHAmM.png?ex=67be139d&is=67bcc21d&hm=bdf3d4b5be2f23a6d0882f34fc4d253027a2398c29661cf9fa541ad4c57c25f3&=&format=webp&quality=lossless)
 
 
 ## Vybavení operačního sálu
@@ -1550,6 +1552,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - přístroj, který přes katétr dodává intravenózně
 - kontinuálně dodává stanovené dávky farmak a tekutin (infúze, krev, plazmu). 
 
+![infpmp](https://media.discordapp.net/attachments/762807292172435456/1343659223225073675/1uy9xiZFpK5zt7t7tw0EYExww1CENSp32_TvQkEH-ooqHQDQwsqiB6pvO2fXH0A.png?ex=67be13aa&is=67bcc22a&hm=72868a0d88f5dbb4aa9cb2a7e95ab426d5a6df90a4772ffb3711b2c14883931a&=&format=webp&quality=lossless)
 
 
 
@@ -1585,11 +1588,13 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - pumpa používá balónek, který je umístěn v pacientově aortě. Balónek je na konci katétru, který je připojen k pumpě, která ukazuje  frekvenci, tlak a monitoruje EKG
 - EKG monitorace se používá k načasování nafouknutí a vyfouknutí balónku
 
-
+![pumpa](https://media.discordapp.net/attachments/762807292172435456/1343659232112939008/1lfLUiVyNLUbwim6FWSSUsuTmR_fwmSAdd7u9hujBwsGPdkD7_CyTjKAcyont.png?ex=67be13ac&is=67bcc22c&hm=063e4c6f65acbeb95798a90f4233b60912197486d818f46a04b69241094e6055&=&format=webp&quality=lossless&width=333&height=350)
 
 ### Monitor intrakraniálního tlaku 
 - měří tlak tekutiny v mozku pacienta po úrazech hlavy nebo při jiných afekcí mozku 
 - monitoraci intrakraniálního tlaku provádějí senzory, které jsou zavedeny do mozku přes kanylu nebo otvor v lebce
+
+![tlaklebka](https://media.discordapp.net/attachments/762807292172435456/1343659267000893540/1p3DSes1eGVnoM3D0O9Bv5qtDPuX2ZTo0jFr_RFzMScjItcgo46Ipp0OhmxUOZg.png?ex=67be13b5&is=67bcc235&hm=f640a0f1df5fdb6dcf7f3cb6ecb564329a135f1bea85ead474054e2b9de833da&=&format=webp&quality=lossless)
 
 
 ## Mikroskop a mikrochirurgie
@@ -1605,12 +1610,14 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - lze dosáhnout prostorového vidění 
 - ideální pro chirurgii, ale má nižší rozlišení
 
+![mikroskop](https://media.discordapp.net/attachments/762807292172435456/1343659256372527126/1SDfRQP3IY63YcHYkOYaHxYBcDU37O4TM1WsoqOEOswsNgzpd79TEVRK8Ho256Cc.png?ex=67be13b2&is=67bcc232&hm=849c6971d2413f590c76ab30ac34427d3827d3e836ba1218d65ef0b1910c7ad2&=&format=webp&quality=lossless)
+
 
 #### Lupové brýle 
 - existují 2 typy brýlí v závislosti na typu čoček – Keplerův a Galileův typ. 
 - mohou být vybaveny CCD kamerou a operační pole lze zobrazit na monitoru. 
 
-
+![bryle](https://media.discordapp.net/attachments/762807292172435456/1343659289469911196/1PIAVCUM3_nGvK_0M_kSxu4qB01tpJoRo3yUEF_AQndPgd0eC60yPE1His9b9eA.png?ex=67be13ba&is=67bcc23a&hm=bbc670b0787e7790bf63b2e7c8ef9ad4eca4cbc13cbd889c932a4382f6c83a49&=&format=webp&quality=lossless)
 
 
 
@@ -1642,7 +1649,9 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - zdroj světla (mimo tělo pacienta) 
 - systém čoček 
 - umožňuje odebírání biopsií a odstraňování cizích těles
-.  
+
+![endo](https://media.discordapp.net/attachments/762807292172435456/1343659277197246635/1g8roHboZ17m2BAJw9pe2Th1inFIq0NZJ14vfPIQSckIwxRB9yJYCDYbnQ6uUlQ.png?ex=67be13b7&is=67bcc237&hm=a661d395dd19ae9c8e2aa246ac161c4896b58e81884530cf06a467c6714b61cc&=&format=webp&quality=lossless)
+ 
 #### Rigidní endoskopie 
 
 ##### Sigmoideoskopie
@@ -1662,7 +1671,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - Po stranách břišní dutiny vedeme dva řezy skalpelem o šířce 0,5 - 1,5 cm, každý na jedné straně. Do jedné zavedeme insuflační kanylu, na kterou se poté napojí insuflační pumpa. Pomocí pumpy se břišní dutina naplní plynem CO2 (plyn se musí předem ohřát, aby nedošlo u pacienta k následnému podchlazení!). Tento stav se nazývá Pneumoperitonea, při kterém plyn nadzdvihne břicho a vytvoří tak místo pro snazší manipulaci a pohyb nástrojů. Druhým z naříznutých otvorů pak zavedeme do těla trokar, který vzduchotěsně uzavře řez pro zavedení chirurgických nástrojů vybavených kamerkou a zdrojem světla (optická vlákna). Obraz z kamerky se pak převádí na monitor. S pomocí monitoru najdeme místo, ve kterém je orgán poškozen a ránu vypálíme. Po zákroku je nutno na JIPce dát pacientovi dýchací přístroj, kvůli zůstatku zbytkového plynu v břišní dutině, který může působit dočasné potíže s dýcháním, plyn se po čase vstřebá.
 
 
-
+![laparoskop](https://media.discordapp.net/attachments/762807292172435456/1343659349662371942/1hcEmV5_bZ4XId3w2Q1sMvTwksVbescNJbHKxd19tWf5ajb1DCLZ7MLewxEeSzQ.png?ex=67be13c8&is=67bcc248&hm=d87a4d32e08099890bccd154319fb0c741c0c4f6a977cfa48781c30891f128ea&=&format=webp&quality=lossless)
 
 
 
@@ -1700,7 +1709,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 #### Argonový laser 
 - proniká pouze povrchově a používá se proto v oční chirurgii a k povrchové léčbě kůže
 
-
+![laser](https://media.discordapp.net/attachments/762807292172435456/1343659310533574808/1taO_MHfyhcaSQRpRasLrzra3SWB3OVzoyzGwiIFWnyvM5GiCZzXd1399xYuI9NY.png?ex=67be13bf&is=67bcc23f&hm=a88c423fb062a86dab1294d81ef702b5e04878aa70607e2cc443b2470cb54638&=&format=webp&quality=lossless)
 
 
 ### Robotická chirurgie 
@@ -1708,6 +1717,8 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - vstup do těla přes malé (obvykle asi 1 cm) řezy
 - umožnuje zobrazit  obraz s vysokým rozlišením a odstraněním rušivých struktur v pozadí  
 - na jeho rameni je umístěn endoskop 
+
+![robot](https://media.discordapp.net/attachments/762807292172435456/1343659320994435122/1Qx2PsOZQoT25g6mLNWsnXmzSKK_yaBt-FpTieZ0qXgGA3IaSp_xDPbz758Yk6Q.png?ex=67be13c2&is=67bcc242&hm=b0bbb02fdac5fbd9b7531453e970daf95fa31198ea478e683b6e065120644ed2&=&format=webp&quality=lossless)
 
 ### Krvácení
 - krvácení neboli haemorhagie je ztráta krve z cirkulace
@@ -1741,7 +1752,7 @@ Příznaky: Krev vytékající z otevřené rány, hematom, modřiny, šok, bled
 .- malé cévy se podvazují vstřebatelným šicím materiálem
 - větší žíly a tepny se může použít dvojitý podvaz nebo tzv. Z–podvaz (cross–stitch) z nevstřebatelného materiálu.
 
-
+![elektrotermokolagulace](https://media.discordapp.net/attachments/762807292172435456/1343659338308521994/1ARx35usQeFfAFqGCvnxzk2d8hmY_wlMDVVbRpDKtRPTEZEdlgfDhQpL6Eiusa9M.png?ex=67be13c6&is=67bcc246&hm=e7ffe2fd9ded77ce90d64c35d98ff0e1fff81c8354054e026f890af207df2f1e&=&format=webp&quality=lossless)
 
 
 
@@ -2149,7 +2160,7 @@ opioidy
 - následně provedeme přímou laryngoskopii která spočívá v zavedení laryngoskopu 
 - poté zavedeme tracheální rourku a utěsníme manžetu a zafixujeme tr. rourku 
 
-
+![intubace](https://media.discordapp.net/attachments/762807292172435456/1343668616972861520/1fa66fjbnevLhRW60yVUrqXNa2wxeU9PZLjJ3an1NWjsHI2GK7WNBEhOn9rYIYw.png?ex=67be1c6a&is=67bccaea&hm=edd783888a66afc7295d4a096b46858ea92098f456ff34162d20b14a37c5bc8a&=&format=webp&quality=lossless)
 
 
 
@@ -2165,7 +2176,7 @@ opioidy
 - riziko traumatizace horních cest dýchacích 
 - zavádí se naslepo
 
-
+![tubus](https://media.discordapp.net/attachments/762807292172435456/1343668468582580224/image.png?ex=67be1c47&is=67bccac7&hm=cb3c09396d3c455ec6d304d4d84cf899c4a6f98f4723e8b5ff4a60a158d541db&=&format=webp&quality=lossless)
 
 
 
@@ -2181,7 +2192,7 @@ opioidy
 
 ## Aplikace celkových anestetik
 
-##### Intravenózní vstup
+#### Intravenózní vstup
 **I.V.** - intravenózně = zavedení léčiv, roztoků, krve přímo do žíly, nitrožilně
 
 ##### Zavedení intravenózního (IV) vstupu:
@@ -2251,7 +2262,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 - způsobuje pokles krevního tlaku hypotenze
 - riziko postpunkční bolesti hlavy
 
-
+![anestezieepsub](https://media.discordapp.net/attachments/762807292172435456/1343668573289189407/1Jk-zFx0snfla8vG8HofBvNBSRhdLio0iPgFA_CJi4NGjWCEa4uUoFK816h0jPA.png?ex=67be1c60&is=67bccae0&hm=42553cce55ecae4f7e29fe965a14b77404b016bd3d641be486eba7bcb7454ae2&=&format=webp&quality=lossless)
 
 
 
@@ -2267,8 +2278,8 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 ## Kapnografie a kapnometrie 
 - trvale sleduje koncentraci oxidu uhličitého ve vydechované dýchací směsi při ventilaci
 
+![anepristr](https://media.discordapp.net/attachments/762807292172435456/1343668560836296817/1Rxga5JqWNdbm3DA838lPmqnOaLUWvY6nWJ-gK6gCcDlQUx-QtP359PwCzaILMEI.png?ex=67be1c5d&is=67bccadd&hm=9d55cb4adfabae58dadeb18ada617870563f3e0893ea60a96e17658fb36486c0&=&format=webp&quality=lossless)
 
 
 
-
-
+©Copyright 2022-2025, Všechna práva rezervována. Žádná část této publikace nesmí být bez předchozího písemného souhlasu vydavatele reprodukována, šířena nebo přenášena v jakékoli formě nebo jakékoliv prostředky, včetně kopírování, nahrávání nebo jiných elektronických nebo mechanických metod. 
