@@ -1696,61 +1696,61 @@ Hemostáza
 
 
 
-Anesteziologie 
+## Anesteziologie 
 
 
-Základní pojmy 
+### Základní pojmy 
 
-Sedace při vědomí - stav, kdy pacient reaguje na výzvu a může být snadno probuzen, nehrozí poruchy vitálních funkcí, zejména ohrožení průchodnosti dýchacích cest a deprese dechu. 
+**Sedace při vědomí** - stav, kdy pacient reaguje na výzvu a může být snadno probuzen, nehrozí poruchy vitálních funkcí, zejména ohrožení průchodnosti dýchacích cest a deprese dechu. 
 
-Hluboká sedace - stav, kdy pacient je v hlubokém útlumu vědomí, reaguje jen na silné podněty a hrozí poruchy průchodnosti dýchacích cest a deprese dechu.
+**Hluboká sedace** - stav, kdy pacient je v hlubokém útlumu vědomí, reaguje jen na silné podněty a hrozí poruchy průchodnosti dýchacích cest a deprese dechu.
 Lze snadno přejít k celkové anestezii 
 
-Celková anestezie - jsou vyřazeny nebo silně potlačeny všechny podněty jdoucí do CNS (Mozek a mícha) a výsledkem je iatrogenní (lékařem navozené) bezvědomí. Chybí ochranné reflexy a může být porušena průchodnost dýchacích cest. 
+**Celková anestezie** - jsou vyřazeny nebo silně potlačeny všechny podněty jdoucí do CNS (Mozek a mícha) a výsledkem je iatrogenní (lékařem navozené) bezvědomí. Chybí ochranné reflexy a může být porušena průchodnost dýchacích cest. 
 
-analgezie - snížené vnímání bolesti 
-anxiolýza - snížení úzkosti 
-analgosedace - spojení analgezie a sedace
+**analgezie** - snížené vnímání bolesti 
+**anxiolýza** - snížení úzkosti 
+**analgosedace** - spojení analgezie a sedace
 
-amnézie - vyřazení paměti
+**amnézie** - vyřazení paměti
 - anterográdní, t.j. od podání preparátu
 - retrográdní - vyřazení paměti i na určitý časový úsek před podáním léku 
 
 
-Dělení anestezie
+### Dělení anestezie
 
 
-Dle způsobu vyvolání anestezie:
+### Dle způsobu vyvolání anestezie:
 Anestezie navozená léky – farmakoanestezie
 
 Anestezie navozená fyzikálními vlivy
-a)chladem – kryoanestezie (používá se pro drobné výkony na povrchu kůže)  
-b)elektrickým proudem – elektroanestezie (využívá vlastností elektrického stimulu na nervový systém) 
+#### a)chladem – kryoanestezie (používá se pro drobné výkony na povrchu kůže)  
+#### b)elektrickým proudem – elektroanestezie (využívá vlastností elektrického stimulu na nervový systém) 
 
 
  
-Dle rozsahu působení anestezii:
-A) Anestezie celková – vyřazení všech podnětů, které jdou do centrálního nervového systému. Nelze pacienta probudit ani silnými bolestivými podněty. 
+### Dle rozsahu působení anestezii:
+#### A) Anestezie celková – vyřazení všech podnětů, které jdou do centrálního nervového systému. Nelze pacienta probudit ani silnými bolestivými podněty. 
 
 Dle způsobu, jakým se celkové anestetikum dostane do organismu:
-a) anestezie inhalační
+##### a) anestezie inhalační
 - je navozena vdechováním plynných anestetik nebo par kapalných anestetik
 
-b) anestezie intravenózní (intramuskulární) 
+##### b) anestezie intravenózní (intramuskulární) 
 - anestetikum se podá do žíly (do svalu)
 
-c) anestezie doplňovaná 
+##### c) anestezie doplňovaná 
 - podávají různá farmaka, aby se dosáhlo 
 potenciace žádoucích účinků a snížily účinky nežádoucí
 
 
-Složky doplňované anestezie:
+#### Složky doplňované anestezie:
 Analgezie (opioidy – morfin, fentanyl, sufentanil, alfentanil, remifentanil; oxid 
 dusný, ketamin v malé dávce, neopioidní analgetika) k potlačení bolesti 
 Bezvědomí a amnézie (celková anestetika, benzodiazepiny) 
 Svalová relaxace (svalová relaxancia – suxametonium, atrakurium, cisatrakurium, vekuronium, rokuronium a další) k snížení tonu příčně pruhovaného svalstva
 
-d) anestezii navozenou netradičními způsoby podání 
+##### d) anestezii navozenou netradičními způsoby podání 
 - rektální (thiopental, benzodiazepiny)
 - bukální (anestetikum se rozpouští mezi dásní a tváří) 
 
@@ -1761,21 +1761,21 @@ d) anestezii navozenou netradičními způsoby podání
 
 
 
-B) Anestezie místní (lokoregionální) – vyřazení podnětů jen z určité omezené části těla
+#### B) Anestezie místní (lokoregionální) – vyřazení podnětů jen z určité omezené části těla
 
-a) Topická anestezie
+##### a) Topická anestezie
 - podání anestetika na povrch sliznic (spojivka, dýchací cesty) nebo intaktní kůži (EMLA Cream) 
 
-b) Infiltrační anestezie 
+##### b) Infiltrační anestezie 
 - injekce LA přímo k terminálním zakončením nervů. 
 V tomto případě se k LA často přidává adrenalin, který lokální vasokonstrikcí (smrštění) sníží vstřebávání do oběhu a tím prodlouží účinek LA a umožní v některých případech zvýšit jeho dávkování 
 Adrenalin se nepodává tam, kde může dojít k zúžení terminálních arterií ischemickou nekrózu (prsty)
 
-c) Intravenózní regionální blokáda (Bierův blok)
+##### c) Intravenózní regionální blokáda (Bierův blok)
 - spočívá v podání LA do žíly končetiny (zpravidla horní) ischemizované nafouknutým turniketem. 
 LA difunduje (proniká) přes žilní stěnu k poblíž probíhajícím nervům a vyvolá anestezii. 
 
-d) Svodná anestezie 
+##### d) Svodná anestezie 
 - podání LA cíleně k nervovým strukturám  
 - subarachnoidální (spinální) – podání do mozkomíšního moku 
 - epidurální – podání do prostoru mezi vakem plen a stěnou páteřního kanálu  
@@ -1783,7 +1783,7 @@ d) Svodná anestezie
 
 
 
-C) Kombinovaná anestezie - propojení anestezie místní a celkové
+####  C) Kombinovaná anestezie - propojení anestezie místní a celkové
 
 
 
@@ -1952,7 +1952,7 @@ zvracení
 - účinek 3 - 5 minut
 - nevýhody: bolesti svalů, hyperkalemie vyvolat maligní(zhoubné) hypertermii, bradykardii, zvyšuje nitrobřišní a nitrooční tlak. 
 
-####Ostatní
+## Ostatní
 #### Pankuronium 
 - může působit tachykardii a hypertenzi následkem uvolňování noradrenalinu 
 - dlouhotrvající účinek  
@@ -2053,15 +2053,15 @@ zvracení
 
 #### Anxiolýza 
 (odstranění nervového napětí)
-- Benzodiazepiny (viz.)
+- Benzodiazepiny 
 
 #### Sedace
-- Benzodiazepiny (viz.), barbituráty, neuroleptika  
+- Benzodiazepiny, barbituráty, neuroleptika  
 
 
 #### Anterográdní amnézie 
 (porucha paměti pro nové informace)
-- Benzodiazepiny (viz.)
+- Benzodiazepiny 
   
 #### Antiemetický účinek 
 (Nevolnost a zvracení) 
@@ -2145,13 +2145,14 @@ opioidy
 - invazivní měření krevního tlaku tam, kde čekáme rychlých změn 
 - nejčastěji se používá ke kanylaci a. radialis (vřetenní tepna) nedominantní končetiny
 
-#### Allenův test 
+## Allenův test 
 - k ověření funkčnosti kolaterálního oběhu cestou a. ulnaris (loketní tepna). 
 - u pacienta palpujeme obě tepny na zápěstí
 - vyzveme ho, aby silně stiskl ruku do pěsti a obě arterie uzavřeme tlakem svých palců
 - pacient povolí sevření pěsti – ruka zůstává bledá
 - uvolníme tlak nad a. ulnaris a sledujeme, za jak dlouho se ruka prokrví (zrůžoví)
 - norma je do 4 – 5 sekund
+
 ## Aplikace svodných anestetik 
 
 #### Epidurální anestezie 
@@ -2177,15 +2178,15 @@ opioidy
 
 
 
-#### Průběh celkové anestezie
+### Průběh celkové anestezie
 - vedení celkové anestezie vyžaduje pečlivé sledování klinického stavu nemocného a jeho životních funkcí, hloubky a kvality anestezie a její doplňování
 - je nutné včas reagovat na komplikace (krevní ztráta, odeznívání relaxace apod.)
 
-#### Monitorace a dokumentace v anesteziologii
+## Monitorace a dokumentace v anesteziologii
 - Nutno sledovat kvalitu a frekvenci pulsu, periferní prokrvení, barvu sliznic, pocení, šíří zornic, krevní tlak, rychlost a hloubku dýchání, průchodnost dýchacích cest, dýchací šelesty. 
 - Sledování kontinuálního záznam EKG, srdeční frekvence a pulzní oxymetrie 
 
-#### Kapnografie a kapnometrie 
+## Kapnografie a kapnometrie 
 - trvale sleduje koncentraci oxidu uhličitého ve vydechované dýchací směsi při ventilaci
 
 
