@@ -208,7 +208,7 @@ Příjezd do nemocnice - dorazíme do nemocnice a neprodleně předáváme pacie
 
 
 ## PŘÍSTROJE
-RTG - rentgen
+### RTG - rentgen
 Před použitím RTG je potřeba pacientovi odebrat veškeré kovové předměty a dát mu ochranné prostředky.
  
 RTG lze využít na zjištění:
@@ -226,7 +226,7 @@ RTG se používá k pozorování kostních struktur, případně k nalezení ciz
  
  
  
- CT - Computed tomography
+### CT - Computed tomography
 Funguje na podobný princip jako RTG, zobrazuje 3D snímek orgánů.
 Před použitím CT je potřeba pacientovi odebrat veškeré kovové předměty a dát mu ochranné prostředky.
 CT lze využít na zjištění:
@@ -248,7 +248,7 @@ k prohlížení složitějších fraktur, zvláště v oblasti kloubů
 větší dávky ionizujícího záření
 delší doba diagnózy
 
-MRI - Magnetická rezonance
+### MRI - Magnetická rezonance
 Má podobné využití jako CT, při častějším využívání je ale bezpečnější než CT. Vyšetření delší dobu.
 MRI není možné využívat u pacientů s tetováním nebo pokud má uvnitř těla něco kovového, potom by vám za to moc nepoděkoval.
 Také je potřeba pacientovi před použitím odebrat veškeré kovové předměty.
@@ -269,7 +269,7 @@ nemožnost využití při přítomnosti kovových tělíscích v těle
 nemožnost využití při větším množství tattoo na těle
 
  
-Sonografie
+### Sonografie
 Neboli ultrazvuk, před použitím natřete sondu sonogelem.
 Sono lze využít ke:
 -       gynekologickým vyšetřením (např. stav plodu v břiše maminky)
@@ -284,7 +284,7 @@ Pro správné fungování sona je potřeba pokrýt čidlo sondy krémem, který 
  
  
  
- EKG - Elektrokardiogram
+### EKG - Elektrokardiogram
  Využívá se k monitorování srdeční aktivity.
 Umístění svodů 12svodového EKG:
 
@@ -292,7 +292,7 @@ Sinusový rytmus = pravidelný rytmus
 Využívá se v nemocnici i při výjezdech (je v sanitkách i v EMS helikoptérách).
  
  
-Glukometr
+### Glukometr
 
 Pro měření obsahu glukózy v krvi.
 Norma - 3,9 - 5,9 mmol/l
@@ -300,17 +300,17 @@ Používá se v jak v nemocnici, tak při výjezdech (dostupný v medibagu)
 
 
  
-Elektroencefalografie - EEG
+### Elektroencefalografie - EEG
 Slouží k neinvazivnímu vyšetření elektrické aktivity centrálního nervového systému (mozek), nebo-li ke zjištění, jestli mozek a nervová soustava pacienta správně funguje. Nejčastěji se využije hlavně při operacích, k zajištění přehledu o aktivitě mozku pacienta. Na výjezdu pak ke zjištění, jestli pacient neupadl do komatu, či je jeho mozek vůbec aktivní.
  
-Pulsní oxymetr
+### Pulsní oxymetr
 Oxymetr připnete pacientovi na ukazováček.
 Ukáže vám 2 hodnoty:
 -       saturace (okysličení krve) - norma 95 - 98 %
 -       puls - norma 60 - 90
  Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu).
  
- Tonometr
+### Tonometr
 K měření krevního tlaku.
 Norma okolo 120/80 = systolický tlak/diastolický tlak
 Hypotenze = nízký krevní tlak
@@ -319,12 +319,12 @@ Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
 
 
 ## NÁSTROJE A DALŠÍ INSTRUMENTARIUM
-Pean
+### Pean
 - pean na tampony
 - pean na šití
 - pean na sevření cévy (cévní svorky)
 - pean na roušky
-Kanyla
+### Kanyla
 - na zavádění nebo odstraňování tekutin z těla
 - na zavádění léků
 - obojí přímo do žíly
@@ -332,14 +332,14 @@ Kanyla
 - jsou k dispozici v medibagu a samozřejmě se využívají i v nemocnici
 
 
-Ambuvak
+### Ambuvak
 - využívá se zejména při resuscitaci, kdy je pacientovi nutné podat umělé dýchání
 - přiložíte pacientovi vak na ústa a přes nos a budete jej stlačovat tolikrát, kolik bude potřeba, tzn. po každých 30 stlačení hrudníku
  
-Vakuová matrace
+###Vakuová matrace
 -       stabilizace a fixace celého těla pacienta
 -       tepelně izoluje
-Stetoskop
+### Stetoskop
 
 
 
@@ -400,27 +400,27 @@ Reflektor pro vyhledávání osob v terénu
 
 
 ## ANAMNÉZY
-Nynější onemocnění - NO
+### Nynější onemocnění - NO
 -       aktuální příčina hospitalizace
 -       podrobný aktuální stav
 -       popis počátečních obtíží
 -       důvod obtíží
 -       kroky, které pacient podnikl ke zmírnění obtíží
- Osobní anamnéza - OA
+ ### Osobní anamnéza - OA
 -  chronologicky uspořádaný přehled onemocnění, které pacient prodělal od narození do současnosti
 -       všechny lékařské zprávy, případně může pacient doplnit
- Rodinná anamnéza - RA
+### Rodinná anamnéza - RA
 -    onemocnění v rodině pacienta
 -   mohou to být onemocnění dědičná nebo onemocnění, která např. vznikla z důvodu prostředí, ve kterém pacient a jeho rodina žije
-Farmakologická anamnéza - FA
+### Farmakologická anamnéza - FA
 -       léky, které pacient užívá
 -       případně i doplňky stravy, vitamíny
  
 
-Toxikologická anamnéza - TA
+### Toxikologická anamnéza - TA
 -       informace o užívání návykových látek (alkohol, tabákové výrobky, kofein,...)
  
-Alergická anamnéza - AA
+### Alergická anamnéza - AA
 -       seznam alergií pacienta
 
 
