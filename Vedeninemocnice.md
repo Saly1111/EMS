@@ -1,18 +1,29 @@
 # Vedení nemocnice
 
 ## Ředitel
-**[Angel 1] - Timothy Jenkins** <br>
+**[Volačka] - Jméno Příjmení** <br>
 *📧 Email:*
 
 ## Náměstek Ředitele
-**[Angel 2] - George Salywen** <br>
+**[Volačka] - Jméno Příjmení** <br>
 *📧 Email:* 
 
-**[Angel 3] - James Nord** <br>
+**[Volačka] - Jméno Příjmení** <br>
 *📧 Email:*
 
-**[Angel 4] - Ray Reed** <br>
+**[Volačka] - Jméno Příjmení** <br>
 *📧 Email:*
 
-**[Angel 5] - Ray Reed** <br>
+**[Volačka] - Jméno Příjmení** <br>
+*📧 Email:* 
+
+# Emeritní vedení nemocnice
+
+**[Volačka] - Jméno Příjmení** <br>
+*📧 Email:* 
+
+**[Volačka] - Jméno Příjmení** <br>
+*📧 Email:* 
+
+**[Volačka] - Jméno Příjmení** <br>
 *📧 Email:* 
