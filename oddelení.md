@@ -1,4 +1,4 @@
-# Primáři
+# Oddělení nemocnice - Primáři
 
 ## Traumatologie
 **[Volačka] - Jméno Příjmení** <br>
