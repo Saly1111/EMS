@@ -1,4 +1,4 @@
-# Vedení Los Santos Fire Department 🔥
+# Vedení Los Santos Fire Department 
 
 ## Chief 
 **[Volačka] - Jméno Příjmení** <br>
