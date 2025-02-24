@@ -1451,14 +1451,14 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - klíšťky většinou s nůžkovitými rukojeťmi, užívají se na stisknutí cév nebo držení tkáně. 
 
 ### Peán
-cévní svorka (klíšťky) s nůžkovými rukojeťmi, plochými štíhlými vroubkovanými čelistmi a západkovým uzávěrem určená ke stavění krvácení. 
+- cévní svorka (klíšťky) s nůžkovými rukojeťmi, plochými štíhlými vroubkovanými čelistmi a západkovým uzávěrem určená ke stavění krvácení. 
 čelisti mohou být rovné nebo zahnuté. 
 
 ### Kocher
- klíšťky s nůžkovými rukojeťmi a plochými štíhlými vroubkovanými čelistmi. Ty jsou, na rozdíl od peánu na koncích vybaveny příčnými zoubky pro lepší uchopení cévy. Při operaci se často používají i k držení tkáně, je však třeba s nimi zacházet jemně, zejména při manipulaci s kůží. 
+- klíšťky s nůžkovými rukojeťmi a plochými štíhlými vroubkovanými čelistmi. Ty jsou, na rozdíl od peánu na koncích vybaveny příčnými zoubky pro lepší uchopení cévy. Při operaci se často používají i k držení tkáně, je však třeba s nimi zacházet jemně, zejména při manipulaci s kůží. 
 
 ### Backhaus
- drobné svorky určené k držení operačních roušek, vzácněji k držení tkáně. 
+- drobné svorky určené k držení operačních roušek, vzácněji k držení tkáně. 
 
 
 
@@ -1504,7 +1504,7 @@ cévní svorka (klíšťky) s nůžkovými rukojeťmi, plochými štíhlými vro
 - žlábková (k chráněnému protětí tkáně). 
 
 ### Háky
-nástroje na přidržení nebo odtažení tkáně 
+- nástroje na přidržení nebo odtažení tkáně 
 
 
 
