@@ -155,13 +155,13 @@ Jedná se o roztok, který se využívá jako nosná látka pro různé medikame
 
 Každý výjezd musí nějak vypadat. Nemůžeme si k případu jen tak ošetřit rjakoby nic, ošetřit raněného a zase odjet. Vše musí mít nějaká pravidla, která by se měla dodržovat, nějaké postupy, kterými se řídit. 
 
-Pravidla
-Nevyjíždíme k zásahu, když nevíme, co se děje - záchranáři k případu o kterém mají alespoň základní informace. Ví co se stalo, rámcově, ví kde se to stalo a znají alespoň část toho, co se děje. 
-Nevjíždíme do střelby - když jsme přivolani a my vyrazíme, určitě nepřijedeme na místo, kde se stále střílí. Nejsme zásahovka, nejsme ten typ hrdinů. Pokud dorazíme na místo, kde se stále střílí, počkáme mimo dostřel zbraní a skrytí vyčkáváme až nás na místo vpustí PD. Do té chvíle jsme schovaní někde poblíž a informujeme PD o naší přítomnosti. Pokud PD není na místě, informujeme ji a vyčkáváme do jejich příjezdu. Tím zaručíme, že budeme moci pomoc poskytnout a ne ji potřebovat. V první řadě je důležitý náš život. A navíc, nikomu nepomůžeme, když se budeme válet na zemi s kulkou v hrudi.
-Vždy v uniformě - uniformy mají svůj význam. Nejsou jen pro parádu, ale mají všem ihned říci kdo jsme. Proto uniformu k výjezdu vždy nosíme.
-K výjezdu jezdí vždy dva - vím, toto pravidlo je ne vždy uskutečnitelné, ale když je to možné, snažíme se jej dodržovat.
-Jezdíme rychle, ale opatrně  - Pozorně sledovat cestu, přibržďovat si do zatáček, nesnažit se za každou cenu nacpat tam, kam se nevejdu. Opět se dostáváme k tomu, že jedeme někoho zachránit, ne se nechat zachraňovat.
-Vždy parkujeme vozidlo tak, abychom ochránili pacienta i sebe - takže klidně zastavíme dopravu, pokud je to nutné.
+### Pravidla
+1. **Nevyjíždíme k zásahu, když nevíme, co se děje** - záchranáři k případu o kterém mají alespoň základní informace. Ví co se stalo, rámcově, ví kde se to stalo a znají alespoň část toho, co se děje. 
+2. **Nevjíždíme do střelby** - když jsme přivolani a my vyrazíme, určitě nepřijedeme na místo, kde se stále střílí. Nejsme zásahovka, nejsme ten typ hrdinů. Pokud dorazíme na místo, kde se stále střílí, počkáme mimo dostřel zbraní a skrytí vyčkáváme až nás na místo vpustí PD. Do té chvíle jsme schovaní někde poblíž a informujeme PD o naší přítomnosti. Pokud PD není na místě, informujeme ji a vyčkáváme do jejich příjezdu. Tím zaručíme, že budeme moci pomoc poskytnout a ne ji potřebovat. V první řadě je důležitý náš život. A navíc, nikomu nepomůžeme, když se budeme válet na zemi s kulkou v hrudi.
+3. **Vždy v uniformě** - uniformy mají svůj význam. Nejsou jen pro parádu, ale mají všem ihned říci kdo jsme. Proto uniformu k výjezdu vždy nosíme.
+4. **K výjezdu jezdí vždy dva** - vím, toto pravidlo je ne vždy uskutečnitelné, ale když je to možné, snažíme se jej dodržovat.
+5. **Jezdíme rychle, ale opatrně**  - Pozorně sledovat cestu, přibržďovat si do zatáček, nesnažit se za každou cenu nacpat tam, kam se nevejdu. Opět se dostáváme k tomu, že jedeme někoho zachránit, ne se nechat zachraňovat.
+6. **Vždy parkujeme vozidlo tak, abychom ochránili pacienta i sebe** - takže klidně zastavíme dopravu, pokud je to nutné.
 
 
 
@@ -175,15 +175,15 @@ Vždy parkujeme vozidlo tak, abychom ochránili pacienta i sebe - takže klidně
 
 
 
-## Postupy
+### Postupy
 
-Informace - nejdříve zjistíme, co se děje. Vždy je dobré vědět k čemu jedeme. Ať už informace o pacientovi (zranění, jak se to stalo apod.), tak i informace o situaci na místě, zvláště u přestřelky.
-Výběr správného vozu - Výjezdový vůz vždy používáme pouze ten který nám byl přidělen s volacím znakem. SUV je oprávněn užít doktor a výše a to však jen v případech které to dovolují.
-Bezpečná jízda - jedeme rychle, ale bezpečně. A vždy se zapnutými majáky - Kód 2 či Kód 3 - sirény a majáky.
-Sběr informací cestou - zatímco se řidič věnuje jízdě, jeho kolega komunikuje s přítomnými a snaží se zjistit co nejvíce jde. Kolik je zraněných, jaký typ zranění. Kde přesně se místo nachází. Je to důležité pro to, abychom ihned po příjezdu začali se záchranou a nezdržovali se hledáním a zjišťováním.
-Příjezd na místo - jakmile dorazíme na místo určení, spolujezdec - doktor, vyskakuje jako první. Ihned zamíří k pacientovi a stará se o jeho stav. To ale neznamená, že řidič sedí za volantem a lelkuje. Také vystoupí a vyndavá potřebné věci z vozidla (kyslíkovou láhev, monitor, zásahový batoh, atd.). Také připravuje transportní pomůcky (nosítka, dlahy, vakuové matrace, schodolez apod.). Poté asistuje doktorovi
-Odjezd do nemocnice - když pacienta stabilizujeme a připravíme na odvoz, doktor sedí vedle pacienta, kontroluje jeho stav a stará se o něj. Pořád při tom komunikuje s pacientem, pokud je při vědomí. Řidič před odjezdem z místa dává vědět do nemocnice, že vyráží, informuje o stavu pacienta, případně žádá o přípravu op. sálu.
-Příjezd do nemocnice - dorazíme do nemocnice a neprodleně předáváme pacienta do rukou chirurgů. Poté doplníme zásoby a připravíme se na další výjezd.
+1. **Informace** - nejdříve zjistíme, co se děje. Vždy je dobré vědět k čemu jedeme. Ať už informace o pacientovi (zranění, jak se to stalo apod.), tak i informace o situaci na místě, zvláště u přestřelky.
+2. **Výběr správného vozu** - Výjezdový vůz vždy používáme pouze ten který nám byl přidělen s volacím znakem. SUV je oprávněn užít doktor a výše a to však jen v případech které to dovolují.
+3. **Bezpečná jízda** - jedeme rychle, ale bezpečně. A **vždy** se zapnutými majáky - Kód 2 či Kód 3 - sirény a majáky.
+4. **Sběr informací cestou** - zatímco se řidič věnuje jízdě, jeho kolega komunikuje s přítomnými a snaží se zjistit co nejvíce jde. Kolik je zraněných, jaký typ zranění. Kde přesně se místo nachází. Je to důležité pro to, abychom ihned po příjezdu začali se záchranou a nezdržovali se hledáním a zjišťováním.
+5. **Příjezd na místo** - jakmile dorazíme na místo určení, spolujezdec - doktor, vyskakuje jako první. Ihned zamíří k pacientovi a stará se o jeho stav. To ale neznamená, že řidič sedí za volantem a lelkuje. Také vystoupí a vyndavá potřebné věci z vozidla (kyslíkovou láhev, monitor, zásahový batoh, atd.). Také připravuje transportní pomůcky (nosítka, dlahy, vakuové matrace, schodolez apod.). Poté asistuje doktorovi
+6. **Odjezd do nemocnice** - když pacienta stabilizujeme a připravíme na odvoz, doktor sedí vedle pacienta, kontroluje jeho stav a stará se o něj. Pořád při tom komunikuje s pacientem, pokud je při vědomí. Řidič před odjezdem z místa dává vědět do nemocnice, že vyráží, informuje o stavu pacienta, případně žádá o přípravu op. sálu.
+7. **Příjezd do nemocnice** - dorazíme do nemocnice a neprodleně předáváme pacienta do rukou chirurgů. Poté doplníme zásoby a připravíme se na další výjezd.
 
 
 
@@ -212,11 +212,11 @@ Příjezd do nemocnice - dorazíme do nemocnice a neprodleně předáváme pacie
 Před použitím RTG je potřeba pacientovi odebrat veškeré kovové předměty a dát mu ochranné prostředky.
  
 RTG lze využít na zjištění:
--       zlomenin (fraktur) kostí
--       poranění kloubů
--       pneumothoraxu
--       poranění lebky
--       přítomnosti kovových předmětů v těle (např. častý projektil)
+- zlomenin (fraktur) kostí
+- poranění kloubů
+- pneumothoraxu
+- poranění lebky
+- přítomnosti kovových předmětů v těle (např. častý projektil)
 Plast, dřevo nebo sklo na RTG neuvidíte.
 Při průběhu RTG jde lékař do vedlejší místnosti
 
@@ -230,13 +230,13 @@ RTG se používá k pozorování kostních struktur, případně k nalezení ciz
 Funguje na podobný princip jako RTG, zobrazuje 3D snímek orgánů.
 Před použitím CT je potřeba pacientovi odebrat veškeré kovové předměty a dát mu ochranné prostředky.
 CT lze využít na zjištění:
--       krvácení do břišní dutiny
--       krvácení do hrudní dutiny
--       krvácení do mozku
--       onemocnění orgánů
--       porušení cév v těle
--       detailní zobrazení složitějších zlomenin
--       zobrazení chrupavek
+- krvácení do břišní dutiny
+- krvácení do hrudní dutiny
+- krvácení do mozku
+- onemocnění orgánů
+- porušení cév v těle
+- detailní zobrazení složitějších zlomenin
+- zobrazení chrupavek
  Při průběhu CT jde lékař do vedlejší místnosti
 
 CTčko je vlastně jiný typ rentgenu. Je složitější, náročnější na výpočet a vyžaduje výkoné PC. Jedná se o neinvazivní zobrazení orgánů a tkání pro diagnostiku různých typů zranění, či chorob. Touhle velkou mrškou se dá zjistit stav orgánů, aniž byste museli pacienta otevírat a dívat se sami. Výsledky CT se zobrazují na PC jako 3D model těla v reálném čase.
@@ -253,13 +253,13 @@ Má podobné využití jako CT, při častějším využívání je ale bezpečn
 MRI není možné využívat u pacientů s tetováním nebo pokud má uvnitř těla něco kovového, potom by vám za to moc nepoděkoval.
 Také je potřeba pacientovi před použitím odebrat veškeré kovové předměty.
 MRI lze využít na zjištění:
--       krvácení do břišní dutiny
--       krvácení do hrudní dutiny
--       krvácení do mozku
--       onemocnění orgánů
--       poškození cév v těle
--       detailní zobrazení složitějších zlomenin
--       zobrazení chrupavek
+- krvácení do břišní dutiny
+- krvácení do hrudní dutiny
+- krvácení do mozku
+- onemocnění orgánů
+- poškození cév v těle
+- detailní zobrazení složitějších zlomenin
+- zobrazení chrupavek
 
 MRI má stejné využití jako CT, ale na rozdíl od ní nemá stejné negativní účinky jako CT. Respektive, CT používá ionizující záření, které může být ve vysokých dávkách škodlivé, zatímco MRI využívá… jednoduše řečeno, magnetů. Další výhodou MRI je vysoká přesnost zobrazení jednotlivých orgánů. Nevýhodou je však vysoká hlučnost, časová náročnost a nemožnost používat vyšetření na pacientech s kovovými tělísky v těle, stejně tak dělat vyšetření na částech těla, které jsou z větší části pokrytá tetováním
 
@@ -272,8 +272,9 @@ nemožnost využití při větším množství tattoo na těle
 ### Sonografie
 Neboli ultrazvuk, před použitím natřete sondu sonogelem.
 Sono lze využít ke:
--       gynekologickým vyšetřením (např. stav plodu v břiše maminky)
--       odhalení vnitřního krvácení
+- gynekologickým vyšetřením (např. stav plodu v břiše maminky)
+- odhalení vnitřního krvácení
+- zjištovaní stavu kloubů
 Přenosné sono je k dispozici i v EMS helikoptéře.
 
 Sonografie je vyšetření pomocí ultrazvuku. Nejčastěji je používáno v gynekologii pro vyšetření a zobrazení plodu. Ultrazvuk je schopný v reálném čase vykreslit měkké tkáně a odhalit tak vnitřní krvácení.
@@ -306,8 +307,8 @@ Slouží k neinvazivnímu vyšetření elektrické aktivity centrálního nervov
 ### Pulsní oxymetr
 Oxymetr připnete pacientovi na ukazováček.
 Ukáže vám 2 hodnoty:
--       saturace (okysličení krve) - norma 95 - 98 %
--       puls - norma 60 - 90
+- saturace (okysličení krve) - norma 95 - 98 %
+- puls - norma 60 - 90
  Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu).
  
 ### Tonometr
@@ -346,56 +347,56 @@ Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
  
  
 ## SLOVNÍČEK
-Anamnézy
--       Nynější onemocnění - NO
--      Osobní anamnéza - OA
--       Rodinná anamnéza - RA
--       Farmakologická anamnéza - FA
--       Toxikologická anamnéza - TA
--       Alergická anamnéza - AA
--       Gynekologická anamnéza - GA
--       Pracovní anamnéza - PA
--       Sociální anamnéza - SA
+### Anamnézy 
+- Nynější onemocnění - NO
+- Osobní anamnéza - OA
+- Rodinná anamnéza - RA
+- Farmakologická anamnéza - FA
+- Toxikologická anamnéza - TA
+- Alergická anamnéza - AA
+- Gynekologická anamnéza - GA
+- Pracovní anamnéza - PA
+- Sociální anamnéza - SA
 
 
 ## VYBAVENÍ SANITKY
-Medibag
--   	krční límec
--   	pulsní oxymetr
--   	termoizolační fólie
--   	jednorázové chirurgické rukavice
--   	intubační sada (laryngoskop, endotracheální kanyly, Magillovy kleště, zavaděč do endotracheální kanyly, supraglotické pomůcky)
--   	ambuvak
--   	injekce
--   	kanyly
--   	stetoskop
--   	glukometr
--   	teploměr
--   	dezinfekce
--   	obvazový materiál
--   	nůžky
--   	skalpel
--   	medikamenty
-Defibrilátor
+**Medibag**
+- krční límec
+- pulsní oxymetr
+- termoizolační fólie
+- jednorázové chirurgické rukavice
+- intubační sada (laryngoskop, endotracheální kanyly, Magillovy kleště, zavaděč do endotracheální kanyly, supraglotické pomůcky)
+- ambuvak
+- injekce
+- kanyly
+- stetoskop
+- glukometr
+- teploměr
+- dezinfekce
+- obvazový materiál
+- nůžky
+- skalpel
+- medikamenty
+**Defibrilátor
 EKG
 Ventilátor pro plicní ventilaci
 Odsávačka
 Polohovatelná nosítka
 Fixační deska
 Transportní plachta
-Přikrývka
+Přikrývka**
 
-2 tlakové lahve s kyslíkem o obsahu + masky
-Fixační dlahy pro horní a dolní končetiny
-Pohotovostní porodní souprava
-Vakuová matrace
-Fólie nebo vak pro zemřelé
-Zařízení pro ohřev infuzí
-Vrtačka pro intraoseální vstup
-Souprava pro hrudní punkci
-Jednorázové emitní misky
-Ochranný oblek proti infekci
-Reflektor pro vyhledávání osob v terénu
+**2 tlakové lahve s kyslíkem o obsahu + masky**
+**Fixační dlahy pro horní a dolní končetiny**
+**Pohotovostní porodní souprava**
+**Vakuová matrace**
+**Fólie nebo vak pro zemřelé**
+**Zařízení pro ohřev infuzí**
+**Vrtačka pro intraoseální vstup**
+**Souprava pro hrudní punkci**
+**Jednorázové emitní misky**
+**Ochranný oblek proti infekci**
+**Reflektor pro vyhledávání osob v terénu**
 
 
 
