@@ -251,7 +251,7 @@ delší doba diagnózy
 ### MRI - Magnetická rezonance
 Má podobné využití jako CT, při častějším využívání je ale bezpečnější než CT. Vyšetření delší dobu.
 MRI není možné využívat u pacientů s tetováním nebo pokud má uvnitř těla něco kovového, potom by vám za to moc nepoděkoval.
-Také je potřeba pacientovi před použitím odebrat veškeré kovové předměty.
+Také je potřeba pacientovi před použitím odebrat veškeré kovové předměty.<br>
 MRI lze využít na zjištění:
 - krvácení do břišní dutiny
 - krvácení do hrudní dutiny
@@ -261,7 +261,7 @@ MRI lze využít na zjištění:
 - detailní zobrazení složitějších zlomenin
 - zobrazení chrupavek
 
-MRI má stejné využití jako CT, ale na rozdíl od ní nemá stejné negativní účinky jako CT. Respektive, CT používá ionizující záření, které může být ve vysokých dávkách škodlivé, zatímco MRI využívá… jednoduše řečeno, magnetů. Další výhodou MRI je vysoká přesnost zobrazení jednotlivých orgánů. Nevýhodou je však vysoká hlučnost, časová náročnost a nemožnost používat vyšetření na pacientech s kovovými tělísky v těle, stejně tak dělat vyšetření na částech těla, které jsou z větší části pokrytá tetováním
+MRI má stejné využití jako CT, ale na rozdíl od ní nemá stejné negativní účinky jako CT. Respektive, CT používá ionizující záření, které může být ve vysokých dávkách škodlivé, zatímco MRI využívá… jednoduše řečeno, magnetů. Další výhodou MRI je vysoká přesnost zobrazení jednotlivých orgánů. Nevýhodou je však vysoká hlučnost, časová náročnost a nemožnost používat vyšetření na pacientech s kovovými tělísky v těle, stejně tak dělat vyšetření na částech těla, které jsou z větší části pokrytá tetováním<br>
 
 Nevýhody
 vysoká hlučnost
@@ -270,15 +270,15 @@ nemožnost využití při větším množství tattoo na těle
 
  
 ### Sonografie
-Neboli ultrazvuk, před použitím natřete sondu sonogelem.
-Sono lze využít ke:
-- gynekologickým vyšetřením (např. stav plodu v břiše maminky)
-- odhalení vnitřního krvácení
-- zjištovaní stavu kloubů
-Přenosné sono je k dispozici i v EMS helikoptéře.
+Neboli ultrazvuk, před použitím natřete sondu sonogelem.<br>
+Sono lze využít ke:<br>
+- gynekologickým vyšetřením (např. stav plodu v břiše maminky)<br>
+- odhalení vnitřního krvácení<br>
+- zjištovaní stavu kloubů<br>
+Přenosné sono je k dispozici i v EMS helikoptéře.<br>
 
 Sonografie je vyšetření pomocí ultrazvuku. Nejčastěji je používáno v gynekologii pro vyšetření a zobrazení plodu. Ultrazvuk je schopný v reálném čase vykreslit měkké tkáně a odhalit tak vnitřní krvácení.
-Pro správné fungování sona je potřeba pokrýt čidlo sondy krémem, který zajistí dobrý průchod vlnění do kůže.
+Pro správné fungování sona je potřeba pokrýt čidlo sondy krémem, který zajistí dobrý průchod vlnění do kůže.<br>
 
  
  
@@ -286,18 +286,18 @@ Pro správné fungování sona je potřeba pokrýt čidlo sondy krémem, který 
  
  
 ### EKG - Elektrokardiogram
- Využívá se k monitorování  aktivity.
-Umístění svodů 12svodového EKG:
+ Využívá se k monitorování  aktivity.<br>
+Umístění svodů 12svodového EKG:<br>
 
-Sinusový rytmus = pravidelný rytmus
-Využívá se v nemocnici i při výjezdech (je v sanitkách i v EMS helikoptérách).
+Sinusový rytmus = pravidelný rytmus<br>
+Využívá se v nemocnici i při výjezdech (je v sanitkách i v EMS helikoptérách).<br>
  
  
 ### Glukometr
 
-Pro měření obsahu glukózy v krvi.
-Norma - 3,9 - 5,9 mmol/l
-Používá se v jak v nemocnici, tak při výjezdech (dostupný v medibagu)
+Pro měření obsahu glukózy v krvi.<br>
+Norma - 3,9 - 5,9 mmol/l<br>
+Používá se v jak v nemocnici, tak při výjezdech (dostupný v medibagu)<br>
 
 
  
@@ -569,6 +569,7 @@ Venózní krev - krev získaná z vény (žíly) - možná místa vpichu: v loke
 **Exposure:** odhalení pacienta, sundání oblečení pro usnadnění přístupu k pacientovi (podle typu poranění, viz typy poranění) <br>
 
 ABCDE postup označuje systematický přístup ke kriticky nemocným anebo poraněným jedincům s okamžitým zhodnocením stavu a poskytnutí urgentní první pomoci. <br>
+
 **Cíle postupu ABCDE:** <br>
 Poskytnout podporu selhávajícím životním funkcím!
 Rozdělit celkovou situaci do menších částí, které je možné lépe zvládnout!
@@ -627,9 +628,9 @@ odstraňování stehů
 
 
 ## KARDIOPULMONÁLNÍ RESUSCITACE
-= KPR, nepřímá masáž srdce + umělé dýchání
- Kdy ji zahájit?
-- při zjištění zástavy oběhu u pacienta - pacient nedýchá nebo má pouze lapavé nádechy, není hmatatelný tep
+= KPR, nepřímá masáž srdce + umělé dýchání <br>
+ Kdy ji zahájit?<br>
+- při zjištění zástavy oběhu u pacienta - pacient nedýchá nebo má pouze lapavé nádechy, není hmatatelný tep<br>
  
 **Postup:**
 pokud pacient krvácí, nejdřív zastavíme krvácení (nějaké menší krvácení nevadí)
@@ -651,10 +652,10 @@ Po pěti minutách, kdy pacient nedýchá, začnou postupně odumírat mozkové 
 ## KRVÁCENÍ
 ### Vnější krvácení
 #### Vlásečnicové
-- menší oděrky, malé ranky, ne moc výrazné krvácení
-- stačí vydezinfikovat, přestříkat traumacelem nebo přelepit
-- některé trochu hlubší rány je poté potřeba zašít
- **NIKDY NEŠIJEME RÁNY MIMO NEMOCNICI!! Není zajištěno sterilní prostředí, v sanitce na to ani nemáte potřebné vybavení**
+- menší oděrky, malé ranky, ne moc výrazné krvácení <br>
+- stačí vydezinfikovat, přestříkat traumacelem nebo přelepit <br>
+- některé trochu hlubší rány je poté potřeba zašít <br>
+- **NIKDY NEŠIJEME RÁNY MIMO NEMOCNICI!! Není zajištěno sterilní prostředí, v sanitce na to ani nemáte potřebné vybavení** <br>
 
 #### Žilní
 - tmavší krev, hlubší rány, krev z rány vytéká
@@ -857,11 +858,11 @@ Pokud se krvetvorba dostatečně neobnoví podáváme transfúze červených krv
 
 
 #### Nevhodní dárci
-po prodělané léčbě zhoubného nádorového onemocnění
-po transplantaci orgánů a tkání
-s onemocněním srdce, cév, plic, kloubů a zažívacího systému, které vyžadují trvalé užívání léků
-s krvácivými chorobami a onemocněním krve
-s těžšími formami alergie (sklon k alergii se může přenést spolu s darovanými krvetvornými buňkami na příjemce)
+po prodělané léčbě zhoubného nádorového onemocnění<br>
+po transplantaci orgánů a tkání<br>
+s onemocněním srdce, cév, plic, kloubů a zažívacího systému, které vyžadují trvalé užívání léků<br>
+s krvácivými chorobami a onemocněním krve<br>
+s těžšími formami alergie (sklon k alergii se může přenést spolu s darovanými krvetvornými buňkami na příjemce)<br>
      - se záchvatovými stavy, závislí na užívání léků
      - s cukrovkou závislou na užívání inzulinu či léků
      - po prodělání infekce přenosné krví, jako je HIV, žloutenka typu  B a C, syfilis, malárie, 	
@@ -872,26 +873,26 @@ s těžšími formami alergie (sklon k alergii se může přenést spolu s darov
 
 
 #### Určení dárce
-Vzorek kostní dřeně
-odebrání vzorku kostní dřeně
-odběr se provádí pomocí široké jehly z hrudní kosti
+Vzorek kostní dřeně<br> 
+odebrání vzorku kostní dřeně<br>
+odběr se provádí pomocí široké jehly z hrudní kosti<br>
 
 
 #### Vzorek DNA
-testy se provádí z krevních vzorků v laboratoři
-zjišťují se HLA znaky (tkáňové znaky)
-automatizovaný přístroj zobrazí soubor grafů detailního rozboru vzorku DNA
+testy se provádí z krevních vzorků v laboratoři<br>
+zjišťují se HLA znaky (tkáňové znaky)<br>
+automatizovaný přístroj zobrazí soubor grafů detailního rozboru vzorku DNA<br>
 
 
 
 
 #### Vyšetření před darováním
-vzorky se musí odebrat 30 dní před darováním dřeně
-vzorek krve
-vzorek moči
-MR srdce, plic a RTG pánve
-EKG
-Odběr krve pro autotrtansfuzi (asi půl litru)
+vzorky se musí odebrat 30 dní před darováním dřeně <br>
+vzorek krve <br>
+vzorek moči <br>
+MR srdce, plic a RTG pánve <br>
+EKG<br> 
+Odběr krve pro autotrtansfuzi (asi půl litru)<br>
 
 
 
