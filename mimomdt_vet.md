@@ -6,6 +6,8 @@
 
 ## Veterina 
 
+![vet](https://media.discordapp.net/attachments/762807292172435456/1343879309659738163/1YSJUh433qkPzyhsEWW-8ckUX9Xn_9-Yji3tYz3wa6EhvO4ye4RgwlvxykV6uIOo.png?ex=67bee0a3&is=67bd8f23&hm=961b689b0d35d0779198b0a92f88a3f8960acc87d410c0cb38750799c2d324ef&=&format=webp&quality=lossless)
+
 ## Očkovaní a farmaka:
 
 ### Farmaka: 
@@ -79,3 +81,5 @@ Revakcinace – 2-3 roky
 5. Kontrola dle závažnosti případu nejlépe do 3 týdnu
 
 V případě zlomenin v oblasti hrudního koše , žeber užijeme ochranného korzetu , a kontrola opět dle závažnosti nejlépe do 3 týdnu
+
+©Copyright 2022-2025, Všechna práva rezervována. Žádná část této publikace nesmí být bez předchozího písemného souhlasu vydavatele reprodukována, šířena nebo přenášena v jakékoli formě nebo jakékoliv prostředky, včetně kopírování, nahrávání nebo jiných elektronických nebo mechanických metod. 
