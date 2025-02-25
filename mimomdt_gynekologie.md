@@ -5,20 +5,22 @@
 
 
 ## Gynekologie a porodnictví
-Gynekologie je lékařský obor zabývající se léčbou ženských pohlavních orgánů a   prevencí nemocí těchto orgánů
+Gynekologie je lékařský obor zabývající se léčbou ženských pohlavních orgánů a  prevencí nemocí těchto orgánů
+
+![logogynda](https://media.discordapp.net/attachments/762807292172435456/1343904175616036956/1gdQmMPYN6n8KCKO7k8I8wiZDxlHWgpeWU0-NjmWd6oiz8uH2HKFJZrsT3bjjCw.png?ex=67bef7cb&is=67bda64b&hm=a9712e8e25c307e78666341476f74512909c08fe5ae8e5e8bc6418f9c64db90a&=&format=webp&quality=lossless)
 
 ## Vyšetřovací a snímkovací metody
 
 ### ● Diagnostické zobrazovací metody v gynekologii
 
 #### ● Ultrasonografie (USG)
-je zobrazovací metoda založená na detekci odražených UZ vln 
+- je zobrazovací metoda založená na detekci odražených UZ vln 
 
-Typy ultrazvuku obecně:
-Ultrazvukové zobrazování – pořizování tomografických řezů na podkladě rozdílných akustických parametrů tkání
-Dopplerovský průtokoměr – měření toku krve
-Ultrazvuková elastografie – vizualizace pružnosti (tuhosti) tkání
-Ultrazvuková kostní denzitometrie – méně vhodná než rentgenové měření
+**Typy ultrazvuku obecně:** <br>
+Ultrazvukové zobrazování – pořizování tomografických řezů na podkladě rozdílných akustických parametrů tkání<br>
+Dopplerovský průtokoměr – měření toku krve <br>
+Ultrazvuková elastografie – vizualizace pružnosti (tuhosti) tkání <br>
+Ultrazvuková kostní denzitometrie – méně vhodná než rentgenové měření <br> 
 
 Typy ultrazvuku v gynekologii:
 Transvaginální ultrazvuk
@@ -430,7 +432,44 @@ Menarche – první menstruace se objevuje mezi 12.–15. rokem života dívky
 
 Menopauza – období, kdy se objevuje poslední menstruace ženy, je obvykle kolem 45.–50. roku věku
 
+## Gynekologická prohlídka - Vzor
+### Vzor karty
 
+### I. OSOBNÍ ANAMNÉZA
+
+Nemoci srdce a cév:<br>
+Vysoký krevní tlak:<br>
+Poruchy krevní srážlivosti:<br>
+Dýchací obtíže:<br>
+Zažívací obtíže<br>
+Nemoci moč. systému a ledvin (záněty, koliky):<br>
+Neurologické potíže (migréna, epilepsie):<br>
+Endokrinologické poruchy (štítná žláza):<br>
+Cukrovka:<br>
+Infekční onemocnění:<br>
+Pohlavně přenosné nemoci:<br>
+Kožní nemoci:<br>
+Nemoci svalů, kostry:<br>
+Revmatologické potíže:<br>
+Alergie:<br>
+Nádory:<br>
+Operace a úrazy:<br>
+Léky užívané pravidelně:<br>
+Kouření:<br>
+Alkohol:<br>
+Drogy:<br>
+
+
+### II. GYNEKOLOGICKÁ ANAMNÉZA
+
+Menstruace: pravidelná/nepravidelná<br>
+Intenzita:<br>
+Bolestivost:<br>
+<br>
+Cytologické nálezy: pokud je záznam<br>
+<br>
+Porod: jen v případě, že nějaký proběhl<br>
+Potrat: jen v případě, že nějaký proběhl<br>
 
 
 ©Copyright 2022-2025, Všechna práva rezervována. Žádná část této publikace nesmí být bez předchozího písemného souhlasu vydavatele reprodukována, šířena nebo přenášena v jakékoli formě nebo jakékoliv prostředky, včetně kopírování, nahrávání nebo jiných elektronických nebo mechanických metod. 
