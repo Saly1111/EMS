@@ -284,4 +284,44 @@ dubová kůra, a to formě koupelí nebo gelů
 2. Masti a krémy – např. Dobexil H, Faktu či Procto-glyvenol
 3. Léky – užívají se venotonika (Diozen)
 
+## Urologická prohlídka - vzor
+### Vzor karty
+
+### I. OSOBNÍ ANAMNÉZA
+
+Nemoci srdce a cév:<br>
+Vysoký krevní tlak:<br>
+Poruchy krevní srážlivosti:<br>
+Dýchací obtíže:<br>
+Zažívací obtíže<br>
+Nemoci moč. systému a ledvin (záněty, koliky):<br>
+Neurologické potíže (migréna, epilepsie):<br>
+Endokrinologické poruchy (štítná žláza):<br>
+Cukrovka:<br>
+Infekční onemocnění:<br>
+Pohlavně přenosné nemoci:<br>
+Kožní nemoci:<br>
+Nemoci svalů, kostry:<br>
+Revmatologické potíže:<br>
+Alergie:<br>
+Nádory:<br>
+Operace a úrazy:<br>
+Léky užívané pravidelně:<br>
+Kouření:<br>
+Alkohol:<br>
+Drogy:<br>
+<br>
+V případě, že z jedné kategorie nebylo zjištěno používání, nebo jakékoliv jiné problémy bez vyplnění uvést N/A<br>
+
+
+### II. UROLOGICKÁ ANAMNÉZA<br>
+
+Fyzikální vyšetření: (provedení Israeliho hmatu + Tappotementu) + (popř. nálezy)<br>
+Ultrasonografie (nálezy):<br>
+MRI ( magnetická rezonance): provedena/neprovedena (popř. nálezy)<br>
+Cytologie: provedena/neprovedena (popř. nálezy)<br>
+Vyšetření uretrálního a prostatického sekretu, spermatu: provedena/neprovedena (popř. nálezy)<br>
+Vyšetření moči: provedena/neprovedena (popř. nálezy)<br>
+
+
 ©Copyright 2022-2025, Všechna práva rezervována. Žádná část této publikace nesmí být bez předchozího písemného souhlasu vydavatele reprodukována, šířena nebo přenášena v jakékoli formě nebo jakékoliv prostředky, včetně kopírování, nahrávání nebo jiných elektronických nebo mechanických metod. 
