@@ -671,3 +671,4 @@ Příznaky: Krev vytékající z otevřené rány, hematom, modřiny, šok, bled
 
 ![elektrotermokolagulace](https://media.discordapp.net/attachments/762807292172435456/1343659338308521994/1ARx35usQeFfAFqGCvnxzk2d8hmY_wlMDVVbRpDKtRPTEZEdlgfDhQpL6Eiusa9M.png?ex=67be13c6&is=67bcc246&hm=e7ffe2fd9ded77ce90d64c35d98ff0e1fff81c8354054e026f890af207df2f1e&=&format=webp&quality=lossless)
 
+©Copyright 2022-2025, Všechna práva rezervována. Žádná část této publikace nesmí být bez předchozího písemného souhlasu vydavatele reprodukována, šířena nebo přenášena v jakékoli formě nebo jakékoliv prostředky, včetně kopírování, nahrávání nebo jiných elektronických nebo mechanických metod. 
