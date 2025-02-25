@@ -6,11 +6,6 @@
 
 Traumatologie a specializované obory chirurgie se specializující na diagnostiku, léčbu a rehabilitaci pacientů s akutními zraněními a poraněními. To zahrnuje léčbu zlomenin, poranění měkkých tkání, popálenin, úrazů hrudníku, hlavy a dalších závažných stavů vyžadujících okamžitou lékařskou péči zahrnující kupříkladu kardiovaskulární systém.  V případě potřeby vypomáhají na oddělení soudního lékařství. 
 
-## Urgentní příjem
-**[Angel 1] - Jméno Příjmení** <br>
-*📧 Email:*
-
-Urgentní příjem je oddělení nemocnice, které poskytuje okamžitou lékařskou péči pacientům s naléhavými zdravotními potřebami, jako jsou akutní nemoci, zranění nebo život ohrožující stavy. Zde pracují lékaři a zdravotníci, kteří mají schopnosti a vybavení pro rychlou diagnostiku a léčbu.
 
 ## Psychologie a Psychiatrie 
 **[Medic 11] - Jméno Příjmení** <br>
@@ -33,6 +28,12 @@ Hematologie je specializovaný obor medicíny, který se zabývá studiem a lé�
 *📧 Email:*
 
 Gynekologie a urologie jsou obory medicíny zaměřené na diagnostiku a léčbu gynekologických a urologických problémů u žen a mužů. To zahrnuje péči o reprodukční zdraví, gynekologické chirurgické zákroky, léčbu poruch menstruačního cyklu, sexuálních dysfunkcí a dalších souvisejících stavů.
+
+## Urgentní příjem
+**[Angel 1] - Jméno Příjmení** <br>
+*📧 Email:*
+
+Urgentní příjem je oddělení nemocnice, které poskytuje okamžitou lékařskou péči pacientům s naléhavými zdravotními potřebami, jako jsou akutní nemoci, zranění nebo život ohrožující stavy. Zde pracují lékaři a zdravotníci, kteří mají schopnosti a vybavení pro rychlou diagnostiku a léčbu.
 
 ## Anesteziologie 
 **[Medic 15] - Jméno Příjmení** <br>
