@@ -501,7 +501,16 @@ Lokální anestetika se používají pro lokální umrtvení ošetřovaného mí
  Působí jako intoxikační látky:
 
 - **Narcan :** Předávkování opioidy či jako prevence opiové závislosti. Podává se nejčastěji intravenózně do svalové tkáně. Působí během 2 minut a jeho účinek je cca 30min - 1 hodinu. Pokud jsou účinky opioidních látek delší než účinky Narcanu, je třeba dávku opětovně aplikovat až do kýženého účinku. 
+
 POZOR: U osob závislých na opioidech může způsobit abstinenční syndrom, nervozitu, nevolnost, zvracení, zrychlení ho tepu a pocení.   
+
+Obecné postupy terapie otrav<br>
+1) Přerušení toxického působení<br>
+2) Zachování fyziologických funkcí<br>
+3) Eliminace xenobiotika z organismu (navození zvracení či výplach žaludku, hemodyalýza)<br>
+4) Detoxikace xenobiotik – Antidota (Živočišné uhlí)<br> 
+
+![antidota](https://media.discordapp.net/attachments/762807292172435456/1292498893883445320/image.png?ex=67be8125&is=67bd2fa5&hm=16607aa24e294618d22b1dbbc5de65b2a63da5db8d31d2892a93cab65d6cc9f2&=&format=webp&quality=lossless)
 
 ### Myorelaxancia: 
 Látky uvolňující spazmy (tzn. svalové křeče) a vedou k jejich relaxaci: 
