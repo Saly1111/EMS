@@ -1,29 +1,29 @@
 # Vedení nemocnice
 
 ## Ředitel
-**[Volačka] - Jméno Příjmení** <br>
+**[Angel 1] - Jméno Příjmení** <br>
 *📧 Email:*
 
 ## Náměstek Ředitele
-**[Volačka] - Jméno Příjmení** <br>
+**[Angel 2] - Jméno Příjmení** <br>
 *📧 Email:* 
 
-**[Volačka] - Jméno Příjmení** <br>
+**[Angel 3] - Jméno Příjmení** <br>
 *📧 Email:*
 
-**[Volačka] - Jméno Příjmení** <br>
+**[Angel 4] - Jméno Příjmení** <br>
 *📧 Email:*
 
-**[Volačka] - Jméno Příjmení** <br>
+**[Angel 5] - Jméno Příjmení** <br>
 *📧 Email:* 
 
 # Emeritní vedení nemocnice
 
-**[Volačka] - Jméno Příjmení** <br>
+**[Medic 1] - Jméno Příjmení** <br>
 *📧 Email:* 
 
-**[Volačka] - Jméno Příjmení** <br>
+**[Medic 2] - Jméno Příjmení** <br>
 *📧 Email:* 
 
-**[Volačka] - Jméno Příjmení** <br>
+**[Medic 3] - Jméno Příjmení** <br>
 *📧 Email:* 
