@@ -130,12 +130,15 @@ Mamografie je skiagrafické vyšetření prsu
 Použití při kontrolách a odhalení nádoru prsu 
 U mladých žen nevhodné, -> užití ultrazvuku 
 
+![mamo](https://media.discordapp.net/attachments/762807292172435456/1343913148549304350/image.png?ex=67bf0027&is=67bdaea7&hm=e0e31ac5df9a4816979ad6a1955456408b713c1f148176bbf6fdacce9cac4cf2&=&format=webp&quality=lossless)
+
 
 #### ● Duktografie 
 MMG po aplikaci KL 
 Užití při krvavé sekreci z prsu 
 Slouží k odhalení intraduktálních lézí (nádorů prsu) 
 
+![dukto](https://media.discordapp.net/attachments/762807292172435456/1343913168170254336/image.png?ex=67bf002b&is=67bdaeab&hm=62aa823bc33b5874eb9d67469948cabd6ff161de4434871dfb58152a5f9a7861&=&format=webp&quality=lossless)
 
 #### ● Ultrasonografie (US)
 Vyšetření spádových uzlin a pooperačnímu sledování jizvy (zbytek viz výše) 
@@ -144,6 +147,7 @@ Vyšetření spádových uzlin a pooperačnímu sledování jizvy (zbytek viz v�
 Perkutánní odběr tkáně speciální 14G jehlou s bioptických dělem, ambulantní výkon lokální anestézie, incize kůže, odběr několika vzorků
 Indikace karcinomu , histologický typu karcinomu, imunohistochemické pochody k. 
 
+![ccb](https://media.discordapp.net/attachments/762807292172435456/1343915787210985572/image.png?ex=67bf029c&is=67bdb11c&hm=580a44c6e1365484271a97d0286dc6f8a3fefd5e145e42e1d551b9faff7039ac&=&format=webp&quality=lossless)
 
 #### ● Mamotomie – vakuová biopsie
 Speciální zařízení a jehla (11G) s rotačním nožem k perkutánnímu (procházejících kůží) odběru tkáně, větší objem odebrané tkáně – dražší metoda biopsie 
@@ -152,6 +156,7 @@ Indikace karcinomu, histologický typu karcinomu, imunohistochemické pochody k.
 
 #### ● Anatomie 
 
+![anatomiekoz](https://media.discordapp.net/attachments/762807292172435456/1343913343773184002/image.png?ex=67bf0055&is=67bdaed5&hm=2af5157d687f28951d219d1618d43e2594323997b39ead0b2b57aac5c7f4a805&=&format=webp&quality=lossless)
 
 ### ● Diagnostické zobrazovací metody v porodnictví
 Nutná gynekologická anamnéza – viz níže 
@@ -173,46 +178,51 @@ nekonjugovaného estriolu (uE).       (Riziko – celkové riziko během gravidi
 - Kombinace kombinovaného prvotrimestrálního screeningu a triple testu.
 
 #### Ultrazvuk 
-je zobrazovací metoda založená na detekci odražených UZ vln
-Ultrazvukové vyšetření v 6., 13., 20. a 32. týdnu gravidity
+je zobrazovací metoda založená na detekci odražených UZ vln<br>
+Ultrazvukové vyšetření v 6., 13., 20. a 32. týdnu gravidity<br>
 
-V 13.-14. týdnu kontrola náchylní translucence tj. šíjového projasnění 
-V 18.–20. týdnu se provádí změření velikosti plodu) a detekce vrozených somatických vad
-Potrat lze provést do 24. týdne
-Ve 30. týdnu se provádí změření velikosti a polohy plodu, vyloučí se placenta praevia.
+V 13.-14. týdnu kontrola náchylní translucence tj. šíjového projasnění <br>
+V 18.–20. týdnu se provádí změření velikosti plodu) a detekce vrozených somatických vad<br>
+Potrat lze provést do 24. týdne<br>
+Ve 30. týdnu se provádí změření velikosti a polohy plodu, vyloučí se placenta praevia.<br>
 
 
 #### Neinvazivní prenatální testování (NIPT, NIPS, cfDNA)
-Vyšetření volné DNA plodu z žilní krve matky.
-Lze provádět od 10. týdne gravidity. 
-Lze tak zjistit i pohlaví plodu 
-Lze určit řadu genetických onemocnění 
+Vyšetření volné DNA plodu z žilní krve matky.<br>
+Lze provádět od 10. týdne gravidity. <br>
+Lze tak zjistit i pohlaví plodu <br>
+Lze určit řadu genetických onemocnění <br>
 #### Další vyšetření: 
-33. týden – odběr krve – vyšetření krevního obrazu kvůli srážlivosti krve, jaterní testy a test na přítomnost bílkovin + testy na syfilis, HIV a žloutenku typu B.
+33. týden – odběr krve – vyšetření krevního obrazu kvůli srážlivosti krve, jaterní testy a test na přítomnost bílkovin + testy na syfilis, HIV a žloutenku typu B.<br>
 
 40. týden – CTG kardiografický záznam srdeční frekvence plodu
 ideální frekvence stahů 4–6/10 min.
 #### ● Invazivní prenatální diagnostika
 
 #### Amniocentéza
-Amniocentéza (AMC) je odběr vzorku plodové vody jehlou přes stěnu břišní pod kontrolou ultrazvukem.
-mezi 16. a 18. týdnem gravidity. 
-Slouží k vyšetření karyotypu (soubor všech chromozómů) Nutná 
+Amniocentéza (AMC) je odběr vzorku plodové vody jehlou přes stěnu břišní pod kontrolou ultrazvukem.<br>
+mezi 16. a 18. týdnem gravidity. <br>
+Slouží k vyšetření karyotypu (soubor všech chromozómů) Nutná <br>
+
+![Amniocentéza](https://media.discordapp.net/attachments/762807292172435456/1343913473570242601/1sSounqxioCoQy9YcLW0HB8tF1nFlORymvDxbhSFXEQkb5oPWjnSe_AULShxOlA.png?ex=67bf0074&is=67bdaef4&hm=015d22a7d67dc999c0a3f2e61ab0e9cd04dcc623126fe031eb4ecf419b1f763a&=&format=webp&quality=lossless)
 
 #### Kordocentéza
-Kordocentéza (CC) neboli punkce pupečníku je invazivní diagnostická metoda 
-od 18. gestačního týdne
-odběr fetální krve z pupečníkové vény se provádí speciální jehlou pod ultrazvukovou kontrolu.
-Slouží k vyšetření karyotypu (soubor všech chromozómů) plodu či pro molekulárně genetické vyšetření
+Kordocentéza (CC) neboli punkce pupečníku je invazivní diagnostická metoda <br>
+od 18. gestačního týdne<br>
+odběr fetální krve z pupečníkové vény se provádí speciální jehlou pod ultrazvukovou kontrolu.<br>
+Slouží k vyšetření karyotypu (soubor všech chromozómů) plodu či pro molekulárně genetické vyšetření<br>
+
+![Kordocentéza](https://cdn.discordapp.com/attachments/762807292172435456/1343913499591446559/1rsfsyIQUmnfgK4ELNGgCwZwgZ3wJ7vYyWI5bQG3s9hbrKvGoRDUaovuxoyKpu_o.png?ex=67bf007b&is=67bdaefb&hm=932116e74854a4483b450cc5748d0dc76886a09f7eb43982927bcf568b2ea9c9&)
+
 #### Fetoskopie
-Zavedení optického systému (fetoskopu) do amniové dutiny z malého řezu v břišní stěně. Slouží k vizualizaci plodu a odběru vzorku tkáně (kůže, svaly, játra) pro další vyšetření (podezření na dědičné choroby či vady). Provádí se nejčastěji v 18.–20. týdnu, Téměř se nepoužívá
+Zavedení optického systému (fetoskopu) do amniové dutiny z malého řezu v břišní stěně. Slouží k vizualizaci plodu a odběru vzorku tkáně (kůže, svaly, játra) pro další vyšetření (podezření na dědičné choroby či vady). Provádí se nejčastěji v 18.–20. týdnu, Téměř se nepoužívá <br>
 
-
+![Fetoskopie](https://media.discordapp.net/attachments/762807292172435456/1343913422819164261/19suztCq5r88X5giZDzVEUu51eoxMF8wMlojtdO2w5vXNrQq1NoKN8fR9QY-3xQ.png?ex=67bf0068&is=67bdaee8&hm=afdf298e73fd7954e1d59e13cdfe65d6727588560f1f3db7defbf7d2c6bd0e6b&=&format=webp&quality=lossless)
 
 ### ● Lidský karyotyp 
 
-= soubor všech chromozómů
-člověk má 46 chromozomů, z toho je 22 párů
+= soubor všech chromozómů<br>
+člověk má 46 chromozomů, z toho je 22 párů<br>
 
 
 ![dna](https://media.discordapp.net/attachments/762807292172435456/1343912122438127657/1v_LBj94cKWzu_ZzQHemI6qiZV88fFXANHqNwJ0OtqENrgQQlY3MP1DA3pVgVaRA.png?ex=67beff32&is=67bdadb2&hm=8a60e195b5ec0dd37cb2471447ab6592f17f06b703413bca85c25f79e1fdfe5a&=&format=webp&quality=lossless)
@@ -228,41 +238,41 @@ Zavedení optického systému (fetoskopu) do amniové dutiny z malého řezu v b
 
 ### ● Těhotenství / Gravidita 
 
-Doba trvání je stanovena na 280 dní = 40 ukončených týdnů
-(1. trimestr do 12+6, 2. trimestr do 27+6 a 3. trimestr do termínu porodu) 
-Při těhotenství Hodnoty hCG rostou – zjistitelné z moči a krve 
+Doba trvání je stanovena na 280 dní = 40 ukončených týdnů<br>
+(1. trimestr do 12+6, 2. trimestr do 27+6 a 3. trimestr do termínu porodu) <br>
+Při těhotenství Hodnoty hCG rostou – zjistitelné z moči a krve <br>
 
 #### Porod 
-- vypuzení nebo vyjmutí plodu z dělohy, který jeví alespoň jednu vitální známku 
-(pohyb, křik, tonus, pulzace pupečníku) 
+- vypuzení nebo vyjmutí plodu z dělohy, který jeví alespoň jednu vitální známku <br>
+(pohyb, křik, tonus, pulzace pupečníku) <br>
 
 
-Předčasný – do ukončeného 37. týdne,
-V termínu – 38.–42. týden,
-Opožděný – po 42. týdnu.
+Předčasný – do ukončeného 37. týdne,<br>
+V termínu – 38.–42. týden,<br>
+Opožděný – po 42. týdnu.<br>
 
-I. dobu porodní = otevírací – pravidelné stahy dělohy
-II. dobu porodní = vypuzovací;
-III. dobu porodní = porod placenty a plodových blan
-Podélná poloha plodu – osa plodu a dělohy jsou paralelní 
-(plod je dolů hlavičkou nebo koncem pánevním) 
-Normální průběh porodu je možný jen při podélné ose plodu.
-Příčná poloha plodu – osy svírají pravý úhel
-Šikmá poloha plodu – není stabilní, přechází v osu podélnou nebo příčnou.
+I. dobu porodní = otevírací – pravidelné stahy dělohy<br>
+II. dobu porodní = vypuzovací;<br>
+III. dobu porodní = porod placenty a plodových blan<br>
+Podélná poloha plodu – osa plodu a dělohy jsou paralelní <br>
+(plod je dolů hlavičkou nebo koncem pánevním) <br>
+Normální průběh porodu je možný jen při podélné ose plodu.<br>
+Příčná poloha plodu – osy svírají pravý úhel<br>
+Šikmá poloha plodu – není stabilní, přechází v osu podélnou nebo příčnou.<br>
 
 ![gravidita](https://media.discordapp.net/attachments/762807292172435456/1343911958138716160/1OoVgFKTRO0oZ1qwcqorgdyW5T7NhyFYp3rTYe5aMRVKXP9m0mxXPNipNq_1teQ.png?ex=67beff0b&is=67bdad8b&hm=ccfa0ed6585f3786b7a894691243a373e966f9f0a92ab1fff0278428dd62105a&=&format=webp&quality=lossless)
 
 #### Potrat 
-– ukončení těhotenství (vypuzení embrya či plodu) v případě kdy plod neprojevuje ani jednu ze známek života a těhotenství je kratší než 22 týdnů (Spontánní potrat x Interrupce – limit 12 týdnů na žádost matky) 
+– ukončení těhotenství (vypuzení embrya či plodu) v případě kdy plod neprojevuje ani jednu ze známek života a těhotenství je kratší než 22 týdnů (Spontánní potrat x Interrupce – limit 12 týdnů na žádost matky) <br>
 
 #### Císařský řez
 
-Příčná suprapubická laparotomie neboli Pfannenstielův řez Poloobloukovitý řez cca 2 cm nad symfýzou směřující k pupku.
-Nutná celková anestezie či epidurální anestezie.
+Příčná suprapubická laparotomie neboli Pfannenstielův řez Poloobloukovitý řez cca 2 cm nad symfýzou směřující k pupku.<br>
+Nutná celková anestezie či epidurální anestezie.<br>
 
-Řezem příčně protneme kůži a podkoží 
-Následně krátkým příčným řezem pronikneme myometriem (dělohou) Prsty rozšíříme řez směrem k děložním hranám (Nutno je neporušit) Protrhneme vak blan a vybavíme naléhající část plodu, poté pomalu celý plod vyjmeme. Podvážeme a přerušíme pupečník. 
-Následně manuálně vyjmeme placentu, a poté zapošijeme děložní dutinu a ránu.
+Řezem příčně protneme kůži a podkoží <br>
+Následně krátkým příčným řezem pronikneme myometriem (dělohou) Prsty rozšíříme řez směrem k děložním hranám (Nutno je neporušit) <br>Protrhneme vak blan a vybavíme naléhající část plodu, poté pomalu celý plod vyjmeme. Podvážeme a přerušíme pupečník. <br>
+Následně manuálně vyjmeme placentu, a poté zapošijeme děložní dutinu a ránu.<br>
 
 
 ![cisar](https://cdn.discordapp.com/attachments/762807292172435456/1343911808880087060/1HwhCouTX7z-FDDgD37EV5CS3IFWvIdqBfTzVTN-2QVIlrYtEgyUn5LtkzGWBTA.png?ex=67befee7&is=67bdad67&hm=101c000a71b367a7cd6331ed2505f1884a868c443394ca424e1091d04ec5ae6d&)
@@ -273,20 +283,21 @@ Následně manuálně vyjmeme placentu, a poté zapošijeme děložní dutinu a 
 
 #### Epidurální anestezie v porodnictví
 
-Nutno zajistit i.v. vstup kvůli riziku poklesu tlaku 
+Nutno zajistit i.v. vstup kvůli riziku poklesu tlaku <br>
 
-Lokálně umrtvíme kůži v oblasti obratlů L3-L4 nebo L2-L3 či L4-L5 
-(Xylokain, Lidokain)
+Lokálně umrtvíme kůži v oblasti obratlů L3-L4 nebo L2-L3 či L4-L5 <br>
+(Xylokain, Lidokain)<br>
 
-Na vpich je nutné posečkat do doby kdy žena nemá kontrakce.
-Poté vstoupíme jehlou do epidurálního prostoru a vedeme katetr s antibakteriálním filtrem 
-Podáme testovací dávku, 2,5 ml 0,5% Bupivakainu
-Následně aplikujeme farmaka (viz níže) 
+Na vpich je nutné posečkat do doby kdy žena nemá kontrakce.<br>
+Poté vstoupíme jehlou do epidurálního prostoru a vedeme katetr s antibakteriálním filtrem <br>
+Podáme testovací dávku, 2,5 ml 0,5% Bupivakainu<br>
+Následně aplikujeme farmaka (viz níže) <br>
 
-efedrin (3 mg) nebo katecholamin, pro případ velkého poklesu tlaku i.v.
-Farmaka:
-Bupivakain
-Ropivakain
+efedrin (3 mg) nebo katecholamin, pro případ velkého poklesu tlaku i.v.<br>
+
+**Farmaka:** <br>
+Bupivakain<br>
+Ropivakain<br>
 
 
 
