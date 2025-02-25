@@ -1,8 +1,15 @@
-UROLOGIE
+# Emergency Medical Services
+## Studijní materiály - Urologie
+
+![logo](https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
+
+
+## UROLOGIE
 Urologická ordinace v Pillbox Hill Medical Center poskytuje komplexní diagnostiku, léčbu i
 prevenci urologických onemocnění. Důraz klademe na vysokou odbornou úroveň péče,
 důvěru mezi lékařem a pacientem a citlivý přístup.
-Urologie – onemocnění/zákroky
+
+### Urologie – onemocnění/zákroky
 V rámci ženské urologie se věnujeme nejčastěji:
 - infekcím močových cest a obtížím s močením
 - inkontinenci (nechtěnému úniku moče)
@@ -17,29 +24,32 @@ měchýře a ledvin
 - provádění malých chirurgických výkonů (například vasektomii)
 - provádění plastických operací – úprava šourku (obřízka)
 - řešení bolesti varlat
-Typy léčby
+
+### Typy léčby
 Urologická onemocnění mohou být léčena farmakologicky (antibiotika, probiotika, různé
 výplachy atd.) nebo operativně. Močové kameny například lze také léčit konzervativně, a to
 rázovou vlnou. Do urologie řadí i plastické operace (např. úprava šourku).
-Diagnostika
+
+### Diagnostika
 Diagnostika se samozřejmě odvíjí od potíží, které pacient pociťuje, ale mezi nejčastější
 řadíme chemický a mikrobiologický rozbor moči, biochemické vyšetření krve a fyzikální
 vyšetření. K diagnostice můžeme využívat SONO (pro kontrolu ledvin a močového
 měchýře), dále může používat RTG (často s využitím kontrastních látek pro lepší zobrazení),
 CT či MRI.
-Metody operace
+
+### Metody operace
 Endoskopické metody využíváme především na operace kamenů a nádorů močových cest a
 na operace prostaty.
-buba_jouns#9090
-Upozorňuji Vás, že kopírování a rozšiřování tohoto textu nebo jejich částí je nezákonné a může být trestné.
-Vytvořeno pro TROR EMS.
+
+
 Laparoskopický přístup využíváme při operacích ledvin a nadledvin.
 S pomocí mikroskopu operujeme křečové žíly šourku a využíváme jej i při odběru spermií z
 nadvarlete pro potřebu umělého oplodnění.
 Tyto metody výrazně omezují operační a pooperační zátěž pacientů a současně zkracují i
 dobu jejich rekonvalescence.
-Rozbor jednotlivých onemocnění
-Zánět močových cest u žen (postihuje dolní močové cesty)
+
+### Rozbor jednotlivých onemocnění
+#### Zánět močových cest u žen (postihuje dolní močové cesty)
 Příznaky: časté močení; pálení, řezání a bolest při močení; bolest podbřišku; zvýšená teplota
 a bolest
 Příčina: bakterie z vnějšího okolí (Escherichia coli, Pseudomonas, Klebsiella), i sexuálně
@@ -50,7 +60,7 @@ Léčba: odpočinkový režim s dostatkem přísunu tekutin; předpis první dá
 chemoterapeutik; pokud léčba nezabere do 3 dnů, dle výsledků kultivace moči
 nasazení jinou a přesnější léčbu – zabírá do 7 dnů; při užívání antibiotik se obecně
 doporučuje užívat probiotika pro obnovu střevní mikroflóry.
-Zánět ledvin – pyelonefritida (postihuje horní močové cesty)
+#### Zánět ledvin – pyelonefritida (postihuje horní močové cesty)
 Příznaky: časté močení; ostrá bolest zad a břicha; tmavá a zapáchající moč; krev v moči;
 vysoký krevní tlak; snížená imunita
 Příčina: močové kameny v močových cestách bránící odtoku moči; neopatrnost při hygieně,
@@ -62,14 +72,13 @@ Léčba: dostatek přísunu tekutin; antibiotika; v těžších případech se p
 intravenózně, pokud zánět způsobily ledvinové kameny, které blokují vstup z
 močových cest do ledviny, je nutno uvolnit moči cestu; pokud se zánět nepodchytí
 včas, může dojít k transplantaci ledvin
-Odstranění ledvinových kamenů
+
+#### Odstranění ledvinových kamenů
 Nejdříve provedeme vyšetření – RTG, SONO či CT. Zjistíme množství ledvinových kamenů
 a podle toho volíme léčbu.
 Přírodní léčba – doporučuje se speciální čaj na ledvinové kameny; vhodný je například odvar
 z přesličky rolní nebo čaj z natě a listu kopřivy dvoudomé
-buba_jouns#9090
-Upozorňuji Vás, že kopírování a rozšiřování tohoto textu nebo jejich částí je nezákonné a může být trestné.
-Vytvořeno pro TROR EMS.
+
 Operativní léčba – provádíme ureteroskopii (endoskopická metoda) – v celkové narkóze.
 Provádí se pomocí speciální trubičky vložené do močové trubice, měchýře či močovodu.
 Kámen v ledvině může být přímo odstraněn, větší překážky je ovšem nutné nejprve rozdrtit
@@ -105,14 +114,13 @@ Infiltrující nádory
 U těchto nádorů je již samotná endoskopická operace nedostačující. Obvyklým postupem je
 operace řezem - tzv. radikální operace (odborně radikální cystektomie), při které je
 odstraněn celý močový měchýř včetně okolních lymfatických uzlin.
-buba_jouns#9090
-Upozorňuji Vás, že kopírování a rozšiřování tohoto textu nebo jejich částí je nezákonné a může být trestné.
-Vytvořeno pro TROR EMS.
+
 V některých případech operaci kombinujeme s podáním celkové chemoterapie (tentokrát
 podáváme cytostatikum ne do měchýře, ale celkově do žíly) - buď již před operací, nebo až
 po jejím provedení.
 Pokud se jedná již o nádor v pokročilém stádiu, lze odstranit močový měchýř úplně.
-Onemocnění prostaty u mužů
+
+#### Onemocnění prostaty u mužů
 Často souvisí i s poruchou erekce, bolestivé ejakulace či přítomnost krve v ejakulátu.
 Příznaky: časté močení, zejména v nočních hodinách; silné nucení na močení spojené s
 pocitem nedostatečného vyprázdnění; přerušované močení, obtížné spouštění
@@ -140,11 +148,9 @@ Příznaky záleží na stadiu, ve kterém se nádor nachází. Počáteční st
 bezpříznakové. Až při výskytu větších ložisek nádoru kolem močové trubice dochází k
 typickým obtížím při močení. V pozdějších stadiích nádor metastázuje zejména do kostí a do
 plic.
-buba_jouns#9090
-Upozorňuji Vás, že kopírování a rozšiřování tohoto textu nebo jejich částí je nezákonné a může být trestné.
-Vytvořeno pro TROR EMS.
-Bolesti varlat (různá související onemocnění)
-Torze varlat
+
+#### Bolesti varlat (různá související onemocnění)
+##### Torze varlat
 Bolest varlat a třísel může souviset s torzí varlat, což je o stav, kdy se jedno varle otočí kolem
 svých vyživujících cév, to způsobí nedokrvení tkání varlete až odumření těchto jemných
 struktur.
@@ -168,15 +174,13 @@ Jeví-li varle nebo jeho přídatné struktury známky odumření i po uvedení 
 je přistoupeno k jejich odstranění.
 Délka hospitalizace: 2-3 dny
 Rekonvalescence: 2-3 týdny
-Zánět nadvarle
+##### Zánět nadvarle
 Příznaky: člověku připadá, že má problém s varlaty, ale zánětem je postiženo nadvarle,
 bolestivost, provázená velkým otokem na postižené straně a zduření nadvarlete
 Příčina: přílišná sexuální aktivita při sexu i masturbaci i dlouhá sexuální abstinence
 Léčba: podání antibiotik, přesněji chemoterapeutik, jako je Biseptol či Nolicin
-buba_jouns#9090
-Upozorňuji Vás, že kopírování a rozšiřování tohoto textu nebo jejich částí je nezákonné a může být trestné.
-Vytvořeno pro TROR EMS.
-Nádor varlat
+
+##### Nádor varlat
 Příznaky: zduření varlete, silné bolesti v bedrech, kašel, dušnost
 Příčina: přílišná sexuální aktivita při sexu i masturbaci i dlouhá sexuální abstinence
 Léčba: chirurgická léčba, provádí se odstranění varlete, tzv. orchiektomie
@@ -194,7 +198,8 @@ K nezávažným komplikacím patří zejména krevní podlitina (hematom) v obla
 někdy sbíhá na šourek. Občas se vyvine i otok šourku, teploty, vzácně i absces v ráně.
 Délka hospitalizace: určena je především přesným stanovením diagnózy a nutností
 eventuelních dalších vyšetření či léčby
-Vasektomie
+
+#### Vasektomie
 Dobrovolný chirurgický zákrok, při kterém dochází k přerušení chámovodů muže za účelem
 jeho sterilizace (jedna z forem mužské antikoncepce). Nejdříve dojde ke schůzce s osobou a
 domluví se termín operace. Provedení vasektomie nemá vliv na kvalitu erekce a orgasmu.
@@ -204,20 +209,21 @@ anestetikum v malých kapénkách, které znecitliví kůži, podkoží a chámo
 Bezskalpelová vazektomie se provádí ze 2 vpichů na šourku velikosti cca 3 milimetrů. Po
 přerušení, zatavení a podvázání chámovodů na kůži šourku zůstává jen malá ranka, kterou
 není třeba šít.
-Problémy s erekcí u mužů
+
+#### Problémy s erekcí u mužů
 Pokud dochází pouze ke snížení citlivosti, tedy není problém s erekcí jako takovou, pouze
 trvá poněkud déle, než se jí dosáhnete, doporučují se potravinové doplňky – např. Vimax.
 Na závažnější problémy s erekcí můžeme předepsat léky, spolu s nimiž může muž docházet
 na psychoterapii.
-buba_jouns#9090
-Upozorňuji Vás, že kopírování a rozšiřování tohoto textu nebo jejich částí je nezákonné a může být trestné.
-Vytvořeno pro TROR EMS.
+
 Možné jsou i mechanické pomůcky, jako jsou penilní kroužky či vakuová pumpa. Méně
 častěji se používají injekce, které jsou určeny pro muže, kteří mají nízkou hladinu
 testosteronu. Ještě méně častá je pak operace neboli transplantace protéz do penisu. Jedná se
 o poslední možnost, kdy vše ostatní selže.
 Na erekci jsou též využívány různé léky: Clavin original nebo Arginmax forte.
-Cirkumcize (obřízka)
+
+
+#### Cirkumcize (obřízka)
 Příčina: důvodem k provedení této operace je tzv. fimóza, tedy stav, kdy není možno volně
 přetáhnout zúženou předkožku přes žalud, což znemožňuje hygienu penisu a
 komplikuje pohlavní život; zúžený prstenec předkožky někdy brání v jejím
@@ -232,7 +238,8 @@ jemnými stehy. Penis se následně očistí a zabandážuje, aby se předešlo 
 (modřiny).
 Rekonvalescence
 Jemné stehy, které používáme, se samy rozpustí a vypadnou do 10-14 dnů.
-Hemeroidy
+
+#### Hemeroidy
 Příznaky: krvácení při stolici (platí pro vnitřní hemeroidy), svědění konečníku a pocit vlhka,
 těžší vyprazdňování při stolici kvůli zúženému průchodu, tlak a bolest konečníku
 Příčina: dědičnost, sedavé zaměstnání, otřesy, nedostatek tekutin, strava s nedostatkem
