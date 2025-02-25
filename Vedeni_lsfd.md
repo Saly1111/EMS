@@ -3,14 +3,20 @@ Los Santos Fire Department **(LSFD)** je samostatnou podřízenou složkou Emerg
 
 
 ## Chief 
-**[Volačka] - Jméno Příjmení** <br>
+**[Yenkee 1] - Jméno Příjmení** <br>
 *📧 Email:*
 
 ## Assistant Chief 
-**[Volačka] - Jméno Příjmení** <br>
+**[Yenkee 2] - Jméno Příjmení** <br>
 *📧 Email:* 
 
 ## Deputy Chief 
-**[Volačka] - Jméno Příjmení** <br>
+**[Yenkee 3] - Jméno Příjmení** <br>
 *📧 Email:*
 
+## Battalion Chief 
+**[Foxtrot 1] - Jméno Příjmení** <br>
+*📧 Email:*
+
+**[Foxtrot 2] - Jméno Příjmení** <br>
+*📧 Email:*
