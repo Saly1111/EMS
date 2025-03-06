@@ -1,7 +1,7 @@
 # Emergency Medical Services
 ## Studijní materiály 
 
-![logo](https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
+![logo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
 
 ## Úvod
 Vítejte v úvodu ke studijním materiálům pro zaměstnance Emergency Medical Service v oboru medicíny. Tyto materiály jsou určené pro všechny, kteří se chtějí lépe seznámit s tím, jak pracovat jako zdravotnický pracovník ve zdejších zdravotnických střediscích.. Materiály vám poskytnou potřebné znalosti a dovednosti, které budete potřebovat k poskytování zdravotnické péče, resuscitace a správnému používání medicínského vybavení. Materiály jsou strukturovány tak, aby vám poskytli základní informace o anatomii a fyziologii těla, důležitých lékařských postupech a zásadách komunikace s pacienty. Doufáme, že vás tyto materiály osloví a pomohou vám být úspěšnými zdravotnickými pracovníky.
@@ -17,19 +17,19 @@ Věda, která se zabývá fungováním těla a jeho jednotlivých systémů. Stu
 ## Opěrný systém - kostra
 Kostra člověka je složena z více než 200 kostí, které tvoří základní kostru těla. Kosti poskytují tělu pevnost a ochranu, a umožňují pohyb a podporu vnitřních orgánů.
 
-![kostra](https://media.discordapp.net/attachments/762807292172435456/1343624423575650365/unnamed_1.png?ex=67bdf341&is=67bca1c1&hm=9baf2a87029663cd04dd3384adbb6c28925ddc33e82a988e837a1b46ea27fea7&=&format=webp&quality=lossless)
+![kostra](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343624423575650365/unnamed_1.png?ex=67bdf341&is=67bca1c1&hm=9baf2a87029663cd04dd3384adbb6c28925ddc33e82a988e837a1b46ea27fea7&=&format=webp&quality=lossless)
 
 ## Svaly 
 Svaly jsou tvořeny svalovou tkání a jsou klíčové pro pohyb těla. Jsou propojeny s kosterním systémem a pomáhají nám pohybovat se, udržovat rovnováhu a vykonávat různé činnosti. 
 Svaly mohou být rozděleny do tří kategorií: hladké, srdcové a kosterní.
 
-![svaly](https://media.discordapp.net/attachments/762807292172435456/1343625052771455100/1PeYXimZq326r7ZpZlVlDJEFGJ0B-dJoOWGSobMIePmdcP4-6ZCtksW5E83kweCA.png?ex=67bdf3d7&is=67bca257&hm=38a02e03b42c07fa9e9c7d2fc9026c70e3b6273f54a32994bf27fc5c15ba7c37&=&format=webp&quality=lossless)
+![svaly](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343625052771455100/1PeYXimZq326r7ZpZlVlDJEFGJ0B-dJoOWGSobMIePmdcP4-6ZCtksW5E83kweCA.png?ex=67bdf3d7&is=67bca257&hm=38a02e03b42c07fa9e9c7d2fc9026c70e3b6273f54a32994bf27fc5c15ba7c37&=&format=webp&quality=lossless)
 
 ## Dýchací soustava
 Dýchací soustava je soustava orgánů, která umožňuje přívod kyslíku do organismu a odvod oxidu uhličitého z těla. Hlavními orgány dýchací soustavy jsou nos, hltan, průdušnice, průdušky a plíce
 
 Problémy s dýchací soustavou mohou být způsobeny různými faktory, jako jsou infekce, alergie, nádory nebo poškození plicní tkáně.
-![dychame](https://media.discordapp.net/attachments/762807292172435456/1343627040049463388/1ScmuDdz30Wus_Q8vSlxxggpqX-4O0y4YtKJvKDwgq5EbuGkalARPwqCBdk6Voas.png?ex=67bdf5b1&is=67bca431&hm=532f5064db09369b535cd5824c4837240824e7ecc68b57fbaa9b19cabff6e54c&=&format=webp&quality=lossless)
+![dychame](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343627040049463388/1ScmuDdz30Wus_Q8vSlxxggpqX-4O0y4YtKJvKDwgq5EbuGkalARPwqCBdk6Voas.png?ex=67bdf5b1&is=67bca431&hm=532f5064db09369b535cd5824c4837240824e7ecc68b57fbaa9b19cabff6e54c&=&format=webp&quality=lossless)
 
 ## Trávicí a vylučovací soustava
 Trávicí a vylučovací soustava jsou dvě úzce propojené soustavy lidského těla, které společně zajišťují zpracování potravy, odstranění odpadních látek a udržení rovnováhy tekutin v těle.
@@ -37,14 +37,14 @@ Trávicí soustava se skládá z ústní dutiny, jícnu, žaludku, tenkého a tl
 
 Vylučovací soustava se skládá z ledvin, močových cest a močového měchýře. 
 
-![travime](https://media.discordapp.net/attachments/762807292172435456/1343627020378177566/1cYghOOp7nxZoHW7nfdBBU3alcMY0gw9R9OztyyoN96rBwywUbUd8UX0_dboPdA.png?ex=67bdf5ad&is=67bca42d&hm=339d69b729adf7ca4589068846dd9c05a9edc1c0178904b1f72276baebcf30bc&=&format=webp&quality=lossless&width=523&height=640)
+![travime](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343627020378177566/1cYghOOp7nxZoHW7nfdBBU3alcMY0gw9R9OztyyoN96rBwywUbUd8UX0_dboPdA.png?ex=67bdf5ad&is=67bca42d&hm=339d69b729adf7ca4589068846dd9c05a9edc1c0178904b1f72276baebcf30bc&=&format=webp&quality=lossless&width=523&height=640)
 ## Oběhový systém
 Systém tvořený srdcem, cévami a krví, který zajišťuje transport živin, kyslíku a metabolických odpadů do a z tkání těla. Dodávat kyslík a živiny do tkání a odvádět metabolické produkty a odpadní látky zpět do krevního řečiště, které je následně vylučováno z těla.  
 
 Srdce funguje jako čerpadlo, které pumpuje krev do cév a zpět. Krevní cévy jsou rozděleny do tří základních typů: tepen, žil a kapilár. Tepny odvádějí krev od srdce do tkání těla, žíly odvádějí krev zpět do srdce a kapiláry slouží k výměně živin a kyslíku mezi krví a tkáněmi. 
 
-![obeh](https://media.discordapp.net/attachments/762807292172435456/1343627005559574589/1Kk7CNh5gKRzAkqG5tEkbo9Kj6FDhsw7QnKuuDVNUsBFpk-ouovhLADcrT580PgI.png?ex=67bdf5a9&is=67bca429&hm=31d31708d192be4d3b082fd03fc18e1a4e95f04b8e851f5915dab3b89b829831&=&format=webp&quality=lossless&width=320&height=640)
-![srdce](https://media.discordapp.net/attachments/762807292172435456/1343626987998281812/1Ymd0V8TtCcOpRuCXSKir763GWJv4pLJXUWDVMdLvrDhlsivXgDIvdFVwf2jcIPE.png?ex=67bdf5a5&is=67bca425&hm=6257b67cec37dacf74b3253793f485b054d80b6d685a195f7a9cfdb3320bdf15&=&format=webp&quality=lossless)
+![obeh](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343627005559574589/1Kk7CNh5gKRzAkqG5tEkbo9Kj6FDhsw7QnKuuDVNUsBFpk-ouovhLADcrT580PgI.png?ex=67bdf5a9&is=67bca429&hm=31d31708d192be4d3b082fd03fc18e1a4e95f04b8e851f5915dab3b89b829831&=&format=webp&quality=lossless&width=320&height=640)
+![srdce](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343626987998281812/1Ymd0V8TtCcOpRuCXSKir763GWJv4pLJXUWDVMdLvrDhlsivXgDIvdFVwf2jcIPE.png?ex=67bdf5a5&is=67bca425&hm=6257b67cec37dacf74b3253793f485b054d80b6d685a195f7a9cfdb3320bdf15&=&format=webp&quality=lossless)
 
 
 ## Nervová soustava 
@@ -52,7 +52,7 @@ Nervová soustava je soustava těla, která řídí a koordinuje všechny fyziol
 
 Zahrnuje centrální nervovou soustavu, která zahrnuje mozek a míchu, a periferní nervovou soustavu, která zahrnuje nervy a nervová vlákna
 
-![mozek](https://media.discordapp.net/attachments/762807292172435456/1343626975134089376/19IHlqGJichbd2UIMku5riWzuTxz5oPa6t6fE2wkTe7izLJ5Q7ijp-wBGvJ8NZrU.png?ex=67bdf5a2&is=67bca422&hm=2c75b0d0248792283f3463196f429a6031eaa3424b8d3ec6caa395966ac4704b&=&format=webp&quality=lossless)
+![mozek](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343626975134089376/19IHlqGJichbd2UIMku5riWzuTxz5oPa6t6fE2wkTe7izLJ5Q7ijp-wBGvJ8NZrU.png?ex=67bdf5a2&is=67bca422&hm=2c75b0d0248792283f3463196f429a6031eaa3424b8d3ec6caa395966ac4704b&=&format=webp&quality=lossless)
 
 ## Slovníček
 **Fraktura**  - zlomenina kosti <br>
@@ -150,7 +150,7 @@ Zvýšená teplota. nad 37,5 - Hypertermie
 
 Jedná se o roztok, který se využívá jako nosná látka pro různé medikamenty, které je nutné podávat při operacích, či doléčení. Pro případ doplnění většího množství tekutin je potřeba použít tzv. balancový roztok, např. Hartmannův roztok. K podání výživy se používá infuze, která pak slouží jak pro parenterální výživu, tak i jako náhrada krevní plazmy.
 
-![fyzak](https://media.discordapp.net/attachments/762807292172435456/1343658275341733980/1ztWrX2VVGaOtDcNILBUUNEftrXu-Tdoruv-roSVuShvmF2rL5cP4m60nn2bHsQs.png?ex=67be12c8&is=67bcc148&hm=ef511b475b8e9292341c2259f36aa80dd1b30c8ebdfb713355b50eb42592b4aa&=&format=webp&quality=lossless)
+![fyzak](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658275341733980/1ztWrX2VVGaOtDcNILBUUNEftrXu-Tdoruv-roSVuShvmF2rL5cP4m60nn2bHsQs.png?ex=67be12c8&is=67bcc148&hm=ef511b475b8e9292341c2259f36aa80dd1b30c8ebdfb713355b50eb42592b4aa&=&format=webp&quality=lossless)
 
 ## Výjezdy - pravidla a postupy
 
@@ -224,7 +224,7 @@ Při průběhu RTG jde lékař do vedlejší místnosti
 RTG je jeden z nejpoužívanějších přístrojů u EMS vůbec. K tomuto přístroji asi není pořádně co říkat, všichni ho znají, všichni ví, k čemu se používá. Ale i přes to, něco si k němu řekneme.
 RTG se používá k pozorování kostních struktur, případně k nalezení cizích tělísek vyšší hustoty v těle. Pokud tedy potřebujete vědět, jestli má pacient např. zlomenou nohu, použijete RTG. Stejně tak jej použijete pro zjištění projektilu v těle či jiného materiálu. Ovšem nezjistíte stav tkání ani stav chrupavek. Dále na RTG neuvidíte dřevěné předměty, nebo třeba sklo. Taktéž jím nejde zjistit vnitřní krvácení.
 
- ![rtg2](https://cdn.discordapp.com/attachments/762807292172435456/1343658816801214494/1KfVMfkjE9mW6Q2cCbmhhtxw3_xDfJ98AwtWDxSYuMAVZ0pnBJ4C9CD4ASGhjIA.png?ex=67be1349&is=67bcc1c9&hm=5523ebb0b907452525c06bfd28a224a06b1cb4b0b839c105877f03770f36dd3b&)
+ ![rtg2](https://cdn.tror.eu/proxy/https://cdn.discordapp.com/attachments/762807292172435456/1343658816801214494/1KfVMfkjE9mW6Q2cCbmhhtxw3_xDfJ98AwtWDxSYuMAVZ0pnBJ4C9CD4ASGhjIA.png?ex=67be1349&is=67bcc1c9&hm=5523ebb0b907452525c06bfd28a224a06b1cb4b0b839c105877f03770f36dd3b&)
  
 ### CT - Computed tomography
 Funguje na podobný princip jako RTG, zobrazuje 3D snímek orgánů.
@@ -245,7 +245,7 @@ k prohlížení orgánů a jejich zranění
 k zjišťování vnitřního krvácení
 k prohlížení složitějších fraktur, zvláště v oblasti kloubů
 
-![ct2](https://media.discordapp.net/attachments/762807292172435456/1343658845859348600/1S2CsY6zPMq4BFzZEyCG88XizVXOFl1qUSM3KGxJDtJW_Zk341ubefY8XHA7ZOQ.png?ex=67be1350&is=67bcc1d0&hm=f7acb91fe97db5a8c7e38e521bfb92eef3be5fc1787670c1944cae54c976b91e&=&format=webp&quality=lossless)
+![ct2](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658845859348600/1S2CsY6zPMq4BFzZEyCG88XizVXOFl1qUSM3KGxJDtJW_Zk341ubefY8XHA7ZOQ.png?ex=67be1350&is=67bcc1d0&hm=f7acb91fe97db5a8c7e38e521bfb92eef3be5fc1787670c1944cae54c976b91e&=&format=webp&quality=lossless)
 
 ### MRI - Magnetická rezonance
 Má podobné využití jako CT, při častějším využívání je ale bezpečnější než CT. Vyšetření delší dobu.
@@ -267,7 +267,7 @@ vysoká hlučnost a časová naročnost
 nemožnost využití při přítomnosti kovových tělíscích v těle
 nemožnost využití při větším množství tattoo na těle
 
-![mr1](https://media.discordapp.net/attachments/762807292172435456/1343658860342153228/1a047eww1Pn1mmxlCdyUq9qpWvWU5HCSQLHQiFyYAbjZ8mF-WzSiyaY2gp6K45w.png?ex=67be1354&is=67bcc1d4&hm=9678a953e8caa47da8b87fa8a28a3cf604a8469fe4c92d7c181bf065b04b813c&=&format=webp&quality=lossless)
+![mr1](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658860342153228/1a047eww1Pn1mmxlCdyUq9qpWvWU5HCSQLHQiFyYAbjZ8mF-WzSiyaY2gp6K45w.png?ex=67be1354&is=67bcc1d4&hm=9678a953e8caa47da8b87fa8a28a3cf604a8469fe4c92d7c181bf065b04b813c&=&format=webp&quality=lossless)
 
 
 ### Sonografie
@@ -281,7 +281,7 @@ Přenosné sono je k dispozici i v EMS helikoptéře.<br>
 Sonografie je vyšetření pomocí ultrazvuku. Nejčastěji je používáno v gynekologii pro vyšetření a zobrazení plodu. Ultrazvuk je schopný v reálném čase vykreslit měkké tkáně a odhalit tak vnitřní krvácení.
 Pro správné fungování sona je potřeba pokrýt čidlo sondy krémem, který zajistí dobrý průchod vlnění do kůže.<br>
 
-![sono](https://media.discordapp.net/attachments/762807292172435456/1343658886682509382/1GmhyS4_iVuZv6NF4x9loB0hiHOlNdJyOaKBKCqrDDxbuY_b50mHADevihuGO_JM.png?ex=67be135a&is=67bcc1da&hm=d8c613152ca758d124ff4a3fbce9038a3bd3230fe5273561ca0d423a54ad910b&=&format=webp&quality=lossless) 
+![sono](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658886682509382/1GmhyS4_iVuZv6NF4x9loB0hiHOlNdJyOaKBKCqrDDxbuY_b50mHADevihuGO_JM.png?ex=67be135a&is=67bcc1da&hm=d8c613152ca758d124ff4a3fbce9038a3bd3230fe5273561ca0d423a54ad910b&=&format=webp&quality=lossless) 
  
  
 ### EKG - Elektrokardiogram
@@ -291,7 +291,7 @@ Umístění svodů 12svodového EKG:<br>
 Sinusový rytmus = pravidelný rytmus<br>
 Využívá se v nemocnici i při výjezdech (je v sanitkách i v EMS helikoptérách).<br>
  
-![ekg](https://media.discordapp.net/attachments/762807292172435456/1343658899500437546/1JbqtkJd27NdX5QNKYoIn-KRQfWLpyDwbekKWWCg9fVQ4USA21I1QnKmIDP-W.png?ex=67be135d&is=67bcc1dd&hm=7627d3a08d274d166e9da73a027dbb164bfe47dc60d87c12e1c8ff5f3cb95795&=&format=webp&quality=lossless)
+![ekg](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658899500437546/1JbqtkJd27NdX5QNKYoIn-KRQfWLpyDwbekKWWCg9fVQ4USA21I1QnKmIDP-W.png?ex=67be135d&is=67bcc1dd&hm=7627d3a08d274d166e9da73a027dbb164bfe47dc60d87c12e1c8ff5f3cb95795&=&format=webp&quality=lossless)
  
 ### Glukometr
 
@@ -299,12 +299,12 @@ Pro měření obsahu glukózy v krvi.<br>
 Norma - 3,9 - 5,9 mmol/l<br>
 Používá se v jak v nemocnici, tak při výjezdech (dostupný v medibagu)<br>
 
-![glkm](https://media.discordapp.net/attachments/762807292172435456/1343658911151951955/10jLgEu-rfYcMFVRZ6a3WJoVFR-7l11QzhCh9d1-NDcuD-4B3LBXigYQEtdV15pA.png?ex=67be1360&is=67bcc1e0&hm=e50021fcea7e180474daa1ea5bd1bd5fa3762246ffbf767f9ca38d1ab733ffd9&=&format=webp&quality=lossless)
+![glkm](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658911151951955/10jLgEu-rfYcMFVRZ6a3WJoVFR-7l11QzhCh9d1-NDcuD-4B3LBXigYQEtdV15pA.png?ex=67be1360&is=67bcc1e0&hm=e50021fcea7e180474daa1ea5bd1bd5fa3762246ffbf767f9ca38d1ab733ffd9&=&format=webp&quality=lossless)
  
 ### Elektroencefalografie - EEG
 Slouží k neinvazivnímu vyšetření elektrické aktivity centrálního nervového systému (mozek), nebo-li ke zjištění, jestli mozek a nervová soustava pacienta správně funguje. Nejčastěji se využije hlavně při operacích, k zajištění přehledu o aktivitě mozku pacienta. Na výjezdu pak ke zjištění, jestli pacient neupadl do komatu, či je jeho mozek vůbec aktivní.
 
-![eeg](https://media.discordapp.net/attachments/762807292172435456/1343658930257006783/1wJ8uKYyPEZ04xC6r-L3e84JK5IsOYS1_3ZzJ5pCG8ARC7ZA22f-sOhUoi4_M3VY.png?ex=67be1364&is=67bcc1e4&hm=fd37f9ebb24b33dca23c3fbdc7bdc0ec812471e80c9c0b2ed52c4e05d9d2128b&=&format=webp&quality=lossless)
+![eeg](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658930257006783/1wJ8uKYyPEZ04xC6r-L3e84JK5IsOYS1_3ZzJ5pCG8ARC7ZA22f-sOhUoi4_M3VY.png?ex=67be1364&is=67bcc1e4&hm=fd37f9ebb24b33dca23c3fbdc7bdc0ec812471e80c9c0b2ed52c4e05d9d2128b&=&format=webp&quality=lossless)
  
 ### Pulsní oxymetr
 Oxymetr připnete pacientovi na ukazováček.
@@ -313,7 +313,7 @@ Ukáže vám 2 hodnoty:
 - puls - norma 60 - 90
  Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu).
 
-![po](https://media.discordapp.net/attachments/762807292172435456/1343658945243516988/1lV66HLEoIvNquU5Gq5CsXqNXFCwtMoPPdByxuGfeE-bncPxGItYGysCmDdeUM4M.png?ex=67be1368&is=67bcc1e8&hm=e4963235408e445507cc5eca057d1c6e36b39a0e1eb294336ef965c60f191604&=&format=webp&quality=lossless)
+![po](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658945243516988/1lV66HLEoIvNquU5Gq5CsXqNXFCwtMoPPdByxuGfeE-bncPxGItYGysCmDdeUM4M.png?ex=67be1368&is=67bcc1e8&hm=e4963235408e445507cc5eca057d1c6e36b39a0e1eb294336ef965c60f191604&=&format=webp&quality=lossless)
  
 ### Tonometr
 K měření krevního tlaku.
@@ -330,7 +330,7 @@ Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
 - pean na sevření cévy (cévní svorky)
 - pean na roušky
 
-![pean](https://media.discordapp.net/attachments/762807292172435456/1343658957495078952/1FPVYmP3d9O3GAT03o9c-m5tN4WYDph2sqTNZxoUjJ2_boPHQEbucYyfPis5WP7o.png?ex=67be136b&is=67bcc1eb&hm=da8985124aedf6b0a7e08cf43a474401c0dd73f57a35cd1beec51676b1fe3d9d&=&format=webp&quality=lossless)
+![pean](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658957495078952/1FPVYmP3d9O3GAT03o9c-m5tN4WYDph2sqTNZxoUjJ2_boPHQEbucYyfPis5WP7o.png?ex=67be136b&is=67bcc1eb&hm=da8985124aedf6b0a7e08cf43a474401c0dd73f57a35cd1beec51676b1fe3d9d&=&format=webp&quality=lossless)
 
 ### Kanyla
 - na zavádění nebo odstraňování tekutin z těla
@@ -339,22 +339,22 @@ Využívá se jak v nemocnici, tak při výjezdech (k dispozici v medibagu)
 - existuje několik typů kanyl
 - jsou k dispozici v medibagu a samozřejmě se využívají i v nemocnici
 
-![kanyla](https://media.discordapp.net/attachments/762807292172435456/1343658969620549663/12UvgRV-T9uWCJFEWLw2BVqoWyjJlBSHeN7yUH8Yvb6IqXbXG_tnxfsGKZvrR8Q.png?ex=67be136e&is=67bcc1ee&hm=a15a16f8dd508b674b53c9cb1819cb86d53b6794419e7918acc56c2fde6dae8b&=&format=webp&quality=lossless)
+![kanyla](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658969620549663/12UvgRV-T9uWCJFEWLw2BVqoWyjJlBSHeN7yUH8Yvb6IqXbXG_tnxfsGKZvrR8Q.png?ex=67be136e&is=67bcc1ee&hm=a15a16f8dd508b674b53c9cb1819cb86d53b6794419e7918acc56c2fde6dae8b&=&format=webp&quality=lossless)
 
 ### Ambuvak
 - využívá se zejména při resuscitaci, kdy je pacientovi nutné podat umělé dýchání
 - přiložíte pacientovi vak na ústa a přes nos a budete jej stlačovat tolikrát, kolik bude potřeba, tzn. po každých 30 stlačení hrudníku
  
-![ambuvak](https://media.discordapp.net/attachments/762807292172435456/1343658980475404328/1dpYRqC509fqzHAS6zsCc5V2DdJfBT55nrSnTEp_XfQe_I1t7E0-s_l0YC0_hcw.png?ex=67be1370&is=67bcc1f0&hm=5c8ef3a402c7c00714c376376affd6d52a2dc25dd0e073841aa1395a54693f87&=&format=webp&quality=lossless)
+![ambuvak](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658980475404328/1dpYRqC509fqzHAS6zsCc5V2DdJfBT55nrSnTEp_XfQe_I1t7E0-s_l0YC0_hcw.png?ex=67be1370&is=67bcc1f0&hm=5c8ef3a402c7c00714c376376affd6d52a2dc25dd0e073841aa1395a54693f87&=&format=webp&quality=lossless)
 
 ### Vakuová matrace
 - stabilizace a fixace celého těla pacienta
 - tepelně izoluje
 
-![vm](https://media.discordapp.net/attachments/762807292172435456/1343658995289686247/1dVlOcUEgX98LNdHhsfDAJeQ7ZUl1_AJAxBCvIbBHogfUlElkiVM-8xZyA01Ixg.png?ex=67be1374&is=67bcc1f4&hm=a352ee92b3338ca2bbf23507195ca087ca4129c77d8153485a1813bb4813f2b7&=&format=webp&quality=lossless)
+![vm](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658995289686247/1dVlOcUEgX98LNdHhsfDAJeQ7ZUl1_AJAxBCvIbBHogfUlElkiVM-8xZyA01Ixg.png?ex=67be1374&is=67bcc1f4&hm=a352ee92b3338ca2bbf23507195ca087ca4129c77d8153485a1813bb4813f2b7&=&format=webp&quality=lossless)
 
 ### Stetoskop
-![stetoskop](https://media.discordapp.net/attachments/762807292172435456/1343659019528573059/1pOYCqsxy1wvEFU-Qtw2eWacHxbLtY4QBLwFzCvNN0ks3j5dseamKdm8bob_A.png?ex=67be137a&is=67bcc1fa&hm=3e2d70c46cc28f4fa18cdb96bdf9cfe96b3367baca39b0f06d65d28074c6736c&=&format=webp&quality=lossless)
+![stetoskop](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659019528573059/1pOYCqsxy1wvEFU-Qtw2eWacHxbLtY4QBLwFzCvNN0ks3j5dseamKdm8bob_A.png?ex=67be137a&is=67bcc1fa&hm=3e2d70c46cc28f4fa18cdb96bdf9cfe96b3367baca39b0f06d65d28074c6736c&=&format=webp&quality=lossless)
 
 
  
@@ -510,7 +510,7 @@ Obecné postupy terapie otrav<br>
 3) Eliminace xenobiotika z organismu (navození zvracení či výplach žaludku, hemodyalýza)<br>
 4) Detoxikace xenobiotik – Antidota (Živočišné uhlí)<br> 
 
-![antidota](https://media.discordapp.net/attachments/762807292172435456/1292498893883445320/image.png?ex=67be8125&is=67bd2fa5&hm=16607aa24e294618d22b1dbbc5de65b2a63da5db8d31d2892a93cab65d6cc9f2&=&format=webp&quality=lossless)
+![antidota](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1292498893883445320/image.png?ex=67be8125&is=67bd2fa5&hm=16607aa24e294618d22b1dbbc5de65b2a63da5db8d31d2892a93cab65d6cc9f2&=&format=webp&quality=lossless)
 
 ### Myorelaxancia: 
 Látky uvolňující spazmy (tzn. svalové křeče) a vedou k jejich relaxaci: 
@@ -549,7 +549,7 @@ Použití:
 
 - Fyziologický roztok (FR, fýzák):  Jedná se o roztok chloridu sodného. Slouží k rehydrataci a k ředění léků podávaných skrze I.V. (intravenózní vstup, nitrožilně). Standardně se využívá 200/500/1 000ml
  
-![fyzak](https://media.discordapp.net/attachments/762807292172435456/1343658275341733980/1ztWrX2VVGaOtDcNILBUUNEftrXu-Tdoruv-roSVuShvmF2rL5cP4m60nn2bHsQs.png?ex=67be12c8&is=67bcc148&hm=ef511b475b8e9292341c2259f36aa80dd1b30c8ebdfb713355b50eb42592b4aa&=&format=webp&quality=lossless)
+![fyzak](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343658275341733980/1ztWrX2VVGaOtDcNILBUUNEftrXu-Tdoruv-roSVuShvmF2rL5cP4m60nn2bHsQs.png?ex=67be12c8&is=67bcc148&hm=ef511b475b8e9292341c2259f36aa80dd1b30c8ebdfb713355b50eb42592b4aa&=&format=webp&quality=lossless)
 
 #### Plasmalyte roztok
 Použití:
@@ -583,7 +583,7 @@ Venózní krev - krev získaná z vény (žíly) - možná místa vpichu: v loke
 - krevní skupina se dá zjistit pomocí krevních odběrů
 - níže vidíte, kterou krev pacient s jakou krevní skupinou může přijmout v případě, že ji potřebuje (např. ztratí hodně krve)
 
-![krev](https://media.discordapp.net/attachments/762807292172435456/1343659058787516588/1fFJEIr-Q1dA8iPOZ02xw8PP7UU1ojW_0O8ql9IOUC4Eynkf_9WNHe0rX5NsTSw.png?ex=67be1383&is=67bcc203&hm=29fcbaa2a07cec5073325d88ec99e4273c8fc0c01b340cdd2b244e438bc3a065&=&format=webp&quality=lossless&width=641&height=640)
+![krev](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659058787516588/1fFJEIr-Q1dA8iPOZ02xw8PP7UU1ojW_0O8ql9IOUC4Eynkf_9WNHe0rX5NsTSw.png?ex=67be1383&is=67bcc203&hm=29fcbaa2a07cec5073325d88ec99e4273c8fc0c01b340cdd2b244e438bc3a065&=&format=webp&quality=lossless&width=641&height=640)
 
 
 ## ABCDE označuje anglická slova:
@@ -603,7 +603,7 @@ Získat čas na stanovení definitivní diagnózy!<br>
 
 Je více než vhodné, aby jste se při kontaktu s pacientem drželi systematicky tohoto postupu. Tím bude zajištěno, že ty nejzávažnější stavy budou odhaleny včas a v pořadí, v němž kriticky nemocného pacienta ohrožují na životě. V každém hlavním bodě abecedy je několik dalších výkonů, které s konkrétní problematikou souvisí.
 
-![abcde](https://media.discordapp.net/attachments/1299439903616012309/1299439957164822548/unknown.png?ex=67be0c44&is=67bcbac4&hm=982f6d21b7365d94c84c89a64c7e76e450290931ce4340e142006de722e5680d&=&format=webp&quality=lossless&width=477&height=640)
+![abcde](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1299439957164822548/unknown.png?ex=67be0c44&is=67bcbac4&hm=982f6d21b7365d94c84c89a64c7e76e450290931ce4340e142006de722e5680d&=&format=webp&quality=lossless&width=477&height=640)
 
 ## SUTURA - šití
  
@@ -1033,7 +1033,7 @@ Tenzní pneumotorax je třeba ošetřit okamžitě – nejprve snížíme intrap
 **Poučit pacienta:** nepotlačovat kašel - hlen musí ven – přitlačte si polštář k hrudníku během kašle spaní na zádech v polosedu, ne na břiše! nepijte alkohol a nekuřte rehabilitace – dechová gymnastika – hluboký nádech a zadržet na 2-3 vteřiny, pravidelný dech a pohyb ramen nahoru a dolů, procházky na čerstvém vzduchu <br>
 
 
-![pneumo](https://media.discordapp.net/attachments/762807292172435456/1343663752402440212/image.png?ex=67be17e2&is=67bcc662&hm=d02efd5f8941e6fa6d850140871a706dda41e0c3dc6073525c4e1257f8b72bf8&=&format=webp&quality=lossless)
+![pneumo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343663752402440212/image.png?ex=67be17e2&is=67bcc662&hm=d02efd5f8941e6fa6d850140871a706dda41e0c3dc6073525c4e1257f8b72bf8&=&format=webp&quality=lossless)
 
 
 ## Akutní mozková poranění
@@ -1195,7 +1195,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 
 - KPR se provádí pravidelným stlačováním středu hrudní kosti o 4 – 5 cm směrem k páteři Je velmi důležité po každém stlačení zcela uvolnit tlak na hrudní kost, aby se mohlo srdce a plíce znovu naplnit krví. Zápěstí horní ruky se položí přes spodní a hrudní kost se stlačuje dolů. Je možné si proplést prsty. Masáž provádíme frekvencí 100 za minutu, to je téměř dvě stlačení za sekundu
 
-![kpr](https://media.discordapp.net/attachments/762807292172435456/1343663532423516282/image.png?ex=67be17ae&is=67bcc62e&hm=841bbfa9201a9f1eea89e2ef283e932a26f0b1ce314bc4dc013ea84ed3b1c111&=&format=webp&quality=lossless)
+![kpr](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343663532423516282/image.png?ex=67be17ae&is=67bcc62e&hm=841bbfa9201a9f1eea89e2ef283e932a26f0b1ce314bc4dc013ea84ed3b1c111&=&format=webp&quality=lossless)
 
 
 
@@ -1209,7 +1209,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 ### Stabilizovaná poloha
 - zajištuje průchodnost dýchacích cest, umožnuje volné dýchání, vyčištění horníchdýchacích cest a zamezuje případnému vdechnutí zvratků.
 
-![stabpol](https://media.discordapp.net/attachments/1299439903616012309/1299441003769630763/image.png?ex=67bd647d&is=67bc12fd&hm=56d5c549df62c5c1131298ef25552a1da6354b2f8f2a5851baf97c9d86f43c05&=&format=webp&quality=lossless)
+![stabpol](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1299441003769630763/image.png?ex=67bd647d&is=67bc12fd&hm=56d5c549df62c5c1131298ef25552a1da6354b2f8f2a5851baf97c9d86f43c05&=&format=webp&quality=lossless)
 
 ## Šok 
 
@@ -1244,7 +1244,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 
 - operační tým používá i sterilní empíry, operační čepice, ústenky, obuv a sterilní operační rukavice.  
 
-![tym](https://media.discordapp.net/attachments/762807292172435456/1343665734282252369/image.png?ex=67be19bb&is=67bcc83b&hm=4e4de29e2042ea4661f02219a834ced0e6644e1217dc5acc61fc2d4062fe0aa2&=&format=webp&quality=lossless)
+![tym](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343665734282252369/image.png?ex=67be19bb&is=67bcc83b&hm=4e4de29e2042ea4661f02219a834ced0e6644e1217dc5acc61fc2d4062fe0aa2&=&format=webp&quality=lossless)
 
 
 
@@ -1352,7 +1352,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 - starají se o materiál a nástroje potřebné k operaci a také mohou asistovat chirurgovi 
 - sálové sestry se specializují v různých chirurgických oborech
 
-![sal](https://media.discordapp.net/attachments/762807292172435456/1343659047160643624/11mGOZVLRDhPwhx6P8x0ZEsyIc0Pkhz4FvSQq-2Os7ZDXtw092g3x4Z04NeC-VA.png?ex=67be1380&is=67bcc200&hm=e3cca72624f2c891f4f990b1edda88663dd53c549aff87d9e8f4817390a77147&=&format=webp&quality=lossless) 
+![sal](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659047160643624/11mGOZVLRDhPwhx6P8x0ZEsyIc0Pkhz4FvSQq-2Os7ZDXtw092g3x4Z04NeC-VA.png?ex=67be1380&is=67bcc200&hm=e3cca72624f2c891f4f990b1edda88663dd53c549aff87d9e8f4817390a77147&=&format=webp&quality=lossless) 
 
 ## Operační sál
 
@@ -1396,7 +1396,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 ##### Dýhy 
  - k posílení jiných druhů obvazů
 
-![prevaz](https://media.discordapp.net/attachments/762807292172435456/1343666465147977768/image.png?ex=67be1a69&is=67bcc8e9&hm=72508df0ac954756fa447fca42104a66cbd4c25f7fc071964cd640d1644a0db3&=&format=webp&quality=lossless)
+![prevaz](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343666465147977768/image.png?ex=67be1a69&is=67bcc8e9&hm=72508df0ac954756fa447fca42104a66cbd4c25f7fc071964cd640d1644a0db3&=&format=webp&quality=lossless)
 
 
 ## Šicí materiály
@@ -1434,7 +1434,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 - monofilamentní steh, který se vstřebává velmi pomalu
 
 
-![atraumsiti](https://media.discordapp.net/attachments/762807292172435456/1343659127561392180/1Wj83grXm3XGG72yC1JafJ3I-XL-66XwzLI7HowhQ2H_05NsVXir5EH-JIx3YaQ.png?ex=67be1393&is=67bcc213&hm=dff921d15592d801e8c7a4996aeb3c92bf767322dae4959ad53cc95a660436f7&=&format=webp&quality=lossless)
+![atraumsiti](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659127561392180/1Wj83grXm3XGG72yC1JafJ3I-XL-66XwzLI7HowhQ2H_05NsVXir5EH-JIx3YaQ.png?ex=67be1393&is=67bcc213&hm=dff921d15592d801e8c7a4996aeb3c92bf767322dae4959ad53cc95a660436f7&=&format=webp&quality=lossless)
 
 
 
@@ -1466,7 +1466,7 @@ Difuzní axonální poranění: poškození nervových vláken, spojujících je
 - v plastické a oční chirurgii. 
 
 
-![siti jehla](https://media.discordapp.net/attachments/762807292172435456/1343659139565355111/1B6Kou3nAKbNHGtY9t7fmNvR2ZL47_fPZt-u3_t8_Sg-veLP5Tb--Jms_F0EFrQ8.png?ex=67be1396&is=67bcc216&hm=520d8dd41b83c970668a3e4a901476a8619a0bbc37b456cddc200e486c2d9d35&=&format=webp&quality=lossless)
+![siti jehla](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659139565355111/1B6Kou3nAKbNHGtY9t7fmNvR2ZL47_fPZt-u3_t8_Sg-veLP5Tb--Jms_F0EFrQ8.png?ex=67be1396&is=67bcc216&hm=520d8dd41b83c970668a3e4a901476a8619a0bbc37b456cddc200e486c2d9d35&=&format=webp&quality=lossless)
 
 
 
@@ -1484,7 +1484,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 ### Jehelce
 - nástroje sloužící k držení jehly při šití, nejčastěji v podobě klíštěk s nůžkovitými nebo klešťovými rukojeťmi a krátkými tupými čelistmi, opatřenými křížovým vroubkováním. 
 
-![jehelce](https://media.discordapp.net/attachments/762807292172435456/1343659153989701685/1yMSZE44lpHvL_1WmV4dGIQN7QSaa9HOoTNm95o-tWwBmeoB1T0Tw2COu6Y0VTw.png?ex=67be139a&is=67bcc21a&hm=b2b4b01fa51f8ef4c64a9276eb980c473fab64416673801b7a4f9ed4124d942f&=&format=webp&quality=lossless)
+![jehelce](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659153989701685/1yMSZE44lpHvL_1WmV4dGIQN7QSaa9HOoTNm95o-tWwBmeoB1T0Tw2COu6Y0VTw.png?ex=67be139a&is=67bcc21a&hm=b2b4b01fa51f8ef4c64a9276eb980c473fab64416673801b7a4f9ed4124d942f&=&format=webp&quality=lossless)
 
 ### Svorky
 - klíšťky většinou s nůžkovitými rukojeťmi, užívají se na stisknutí cév nebo držení tkáně. 
@@ -1499,7 +1499,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 #### Backhaus
 - drobné svorky určené k držení operačních roušek, vzácněji k držení tkáně. 
 
-![svorky](https://media.discordapp.net/attachments/762807292172435456/1343659175473057852/1Tjbbz6MCAar-FnlLnfAPaeML-mDAvHqpsmVd-9bwOmak-rQGOt7UgafJwnUqqw.png?ex=67be139f&is=67bcc21f&hm=c69e88d084bb5229f62200e45eff884ac989001209d577ab852d1ad000e8c8da&=&format=webp&quality=lossless)
+![svorky](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659175473057852/1Tjbbz6MCAar-FnlLnfAPaeML-mDAvHqpsmVd-9bwOmak-rQGOt7UgafJwnUqqw.png?ex=67be139f&is=67bcc21f&hm=c69e88d084bb5229f62200e45eff884ac989001209d577ab852d1ad000e8c8da&=&format=webp&quality=lossless)
 
 
 
@@ -1514,7 +1514,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - chirurgické (má tři zoubky, slouží k uchopení hrubších tuhých struktur, jako kůže, sliznice)
 - oční (krátká se špičatými branžemi, k úchopu velmi jemných struktur oka)
 
-![pinzety](https://media.discordapp.net/attachments/762807292172435456/1343659206955241522/1j2ydwXMsdVW6ihwLCI8MJx0MoKyyRWSg6IsR1d9GpywMaziR1pTy9Yf1WM0XRso.png?ex=67be13a6&is=67bcc226&hm=011af335302ea67986e43266b9cbf860ba89e59532bb3458b5f547ed9db2ae9a&=&format=webp&quality=lossless)
+![pinzety](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659206955241522/1j2ydwXMsdVW6ihwLCI8MJx0MoKyyRWSg6IsR1d9GpywMaziR1pTy9Yf1WM0XRso.png?ex=67be13a6&is=67bcc226&hm=011af335302ea67986e43266b9cbf860ba89e59532bb3458b5f547ed9db2ae9a&=&format=webp&quality=lossless)
 
 
 
@@ -1537,7 +1537,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - amputační nůž (silný, dvoubřitý, užívaný při protínání měkkých tkání při amputaci)
 - transplantační nože (pro odběr kožního štěpu) 
 
-![řežu](https://media.discordapp.net/attachments/762807292172435456/1343659190010384384/1np-0O_YAQ6r2kPnfoxuFQbGMHe3YJpD0KfaXkMoLD06Mn1uLbN0evm20Zu1R.png?ex=67be13a2&is=67bcc222&hm=57a91997d20137457320d2b5f94c27e618f55c76f3e732b8a86cd6a34a1510ef&=&format=webp&quality=lossless)
+![řežu](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659190010384384/1np-0O_YAQ6r2kPnfoxuFQbGMHe3YJpD0KfaXkMoLD06Mn1uLbN0evm20Zu1R.png?ex=67be13a2&is=67bcc222&hm=57a91997d20137457320d2b5f94c27e618f55c76f3e732b8a86cd6a34a1510ef&=&format=webp&quality=lossless)
 
 
 ### Sondy
@@ -1547,7 +1547,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 ### Háky
 - nástroje na přidržení nebo odtažení tkáně 
 
-![hak](https://media.discordapp.net/attachments/762807292172435456/1343659165889073254/1mZ379DodDSHFVIcyb87-Fs54A7Lef1HG1jEXTQnfP5_413rYacSAFjzDHAmM.png?ex=67be139d&is=67bcc21d&hm=bdf3d4b5be2f23a6d0882f34fc4d253027a2398c29661cf9fa541ad4c57c25f3&=&format=webp&quality=lossless)
+![hak](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659165889073254/1mZ379DodDSHFVIcyb87-Fs54A7Lef1HG1jEXTQnfP5_413rYacSAFjzDHAmM.png?ex=67be139d&is=67bcc21d&hm=bdf3d4b5be2f23a6d0882f34fc4d253027a2398c29661cf9fa541ad4c57c25f3&=&format=webp&quality=lossless)
 
 
 ## Vybavení operačního sálu
@@ -1561,7 +1561,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - přístroj, který přes katétr dodává intravenózně
 - kontinuálně dodává stanovené dávky farmak a tekutin (infúze, krev, plazmu). 
 
-![infpmp](https://media.discordapp.net/attachments/762807292172435456/1343659223225073675/1uy9xiZFpK5zt7t7tw0EYExww1CENSp32_TvQkEH-ooqHQDQwsqiB6pvO2fXH0A.png?ex=67be13aa&is=67bcc22a&hm=72868a0d88f5dbb4aa9cb2a7e95ab426d5a6df90a4772ffb3711b2c14883931a&=&format=webp&quality=lossless)
+![infpmp](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659223225073675/1uy9xiZFpK5zt7t7tw0EYExww1CENSp32_TvQkEH-ooqHQDQwsqiB6pvO2fXH0A.png?ex=67be13aa&is=67bcc22a&hm=72868a0d88f5dbb4aa9cb2a7e95ab426d5a6df90a4772ffb3711b2c14883931a&=&format=webp&quality=lossless)
 
 
 
@@ -1597,13 +1597,13 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - pumpa používá balónek, který je umístěn v pacientově aortě. Balónek je na konci katétru, který je připojen k pumpě, která ukazuje  frekvenci, tlak a monitoruje EKG
 - EKG monitorace se používá k načasování nafouknutí a vyfouknutí balónku
 
-![pumpa](https://media.discordapp.net/attachments/762807292172435456/1343659232112939008/1lfLUiVyNLUbwim6FWSSUsuTmR_fwmSAdd7u9hujBwsGPdkD7_CyTjKAcyont.png?ex=67be13ac&is=67bcc22c&hm=063e4c6f65acbeb95798a90f4233b60912197486d818f46a04b69241094e6055&=&format=webp&quality=lossless&width=333&height=350)
+![pumpa](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659232112939008/1lfLUiVyNLUbwim6FWSSUsuTmR_fwmSAdd7u9hujBwsGPdkD7_CyTjKAcyont.png?ex=67be13ac&is=67bcc22c&hm=063e4c6f65acbeb95798a90f4233b60912197486d818f46a04b69241094e6055&=&format=webp&quality=lossless&width=333&height=350)
 
 ### Monitor intrakraniálního tlaku 
 - měří tlak tekutiny v mozku pacienta po úrazech hlavy nebo při jiných afekcí mozku 
 - monitoraci intrakraniálního tlaku provádějí senzory, které jsou zavedeny do mozku přes kanylu nebo otvor v lebce
 
-![tlaklebka](https://media.discordapp.net/attachments/762807292172435456/1343659267000893540/1p3DSes1eGVnoM3D0O9Bv5qtDPuX2ZTo0jFr_RFzMScjItcgo46Ipp0OhmxUOZg.png?ex=67be13b5&is=67bcc235&hm=f640a0f1df5fdb6dcf7f3cb6ecb564329a135f1bea85ead474054e2b9de833da&=&format=webp&quality=lossless)
+![tlaklebka](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659267000893540/1p3DSes1eGVnoM3D0O9Bv5qtDPuX2ZTo0jFr_RFzMScjItcgo46Ipp0OhmxUOZg.png?ex=67be13b5&is=67bcc235&hm=f640a0f1df5fdb6dcf7f3cb6ecb564329a135f1bea85ead474054e2b9de833da&=&format=webp&quality=lossless)
 
 
 ## Mikroskop a mikrochirurgie
@@ -1619,14 +1619,14 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - lze dosáhnout prostorového vidění 
 - ideální pro chirurgii, ale má nižší rozlišení
 
-![mikroskop](https://media.discordapp.net/attachments/762807292172435456/1343659256372527126/1SDfRQP3IY63YcHYkOYaHxYBcDU37O4TM1WsoqOEOswsNgzpd79TEVRK8Ho256Cc.png?ex=67be13b2&is=67bcc232&hm=849c6971d2413f590c76ab30ac34427d3827d3e836ba1218d65ef0b1910c7ad2&=&format=webp&quality=lossless)
+![mikroskop](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659256372527126/1SDfRQP3IY63YcHYkOYaHxYBcDU37O4TM1WsoqOEOswsNgzpd79TEVRK8Ho256Cc.png?ex=67be13b2&is=67bcc232&hm=849c6971d2413f590c76ab30ac34427d3827d3e836ba1218d65ef0b1910c7ad2&=&format=webp&quality=lossless)
 
 
 #### Lupové brýle 
 - existují 2 typy brýlí v závislosti na typu čoček – Keplerův a Galileův typ. 
 - mohou být vybaveny CCD kamerou a operační pole lze zobrazit na monitoru. 
 
-![bryle](https://media.discordapp.net/attachments/762807292172435456/1343659289469911196/1PIAVCUM3_nGvK_0M_kSxu4qB01tpJoRo3yUEF_AQndPgd0eC60yPE1His9b9eA.png?ex=67be13ba&is=67bcc23a&hm=bbc670b0787e7790bf63b2e7c8ef9ad4eca4cbc13cbd889c932a4382f6c83a49&=&format=webp&quality=lossless)
+![bryle](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659289469911196/1PIAVCUM3_nGvK_0M_kSxu4qB01tpJoRo3yUEF_AQndPgd0eC60yPE1His9b9eA.png?ex=67be13ba&is=67bcc23a&hm=bbc670b0787e7790bf63b2e7c8ef9ad4eca4cbc13cbd889c932a4382f6c83a49&=&format=webp&quality=lossless)
 
 
 
@@ -1659,7 +1659,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - systém čoček 
 - umožňuje odebírání biopsií a odstraňování cizích těles
 
-![endo](https://media.discordapp.net/attachments/762807292172435456/1343659277197246635/1g8roHboZ17m2BAJw9pe2Th1inFIq0NZJ14vfPIQSckIwxRB9yJYCDYbnQ6uUlQ.png?ex=67be13b7&is=67bcc237&hm=a661d395dd19ae9c8e2aa246ac161c4896b58e81884530cf06a467c6714b61cc&=&format=webp&quality=lossless)
+![endo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659277197246635/1g8roHboZ17m2BAJw9pe2Th1inFIq0NZJ14vfPIQSckIwxRB9yJYCDYbnQ6uUlQ.png?ex=67be13b7&is=67bcc237&hm=a661d395dd19ae9c8e2aa246ac161c4896b58e81884530cf06a467c6714b61cc&=&format=webp&quality=lossless)
  
 #### Rigidní endoskopie 
 
@@ -1680,7 +1680,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - Po stranách břišní dutiny vedeme dva řezy skalpelem o šířce 0,5 - 1,5 cm, každý na jedné straně. Do jedné zavedeme insuflační kanylu, na kterou se poté napojí insuflační pumpa. Pomocí pumpy se břišní dutina naplní plynem CO2 (plyn se musí předem ohřát, aby nedošlo u pacienta k následnému podchlazení!). Tento stav se nazývá Pneumoperitonea, při kterém plyn nadzdvihne břicho a vytvoří tak místo pro snazší manipulaci a pohyb nástrojů. Druhým z naříznutých otvorů pak zavedeme do těla trokar, který vzduchotěsně uzavře řez pro zavedení chirurgických nástrojů vybavených kamerkou a zdrojem světla (optická vlákna). Obraz z kamerky se pak převádí na monitor. S pomocí monitoru najdeme místo, ve kterém je orgán poškozen a ránu vypálíme. Po zákroku je nutno na JIPce dát pacientovi dýchací přístroj, kvůli zůstatku zbytkového plynu v břišní dutině, který může působit dočasné potíže s dýcháním, plyn se po čase vstřebá.
 
 
-![laparoskop](https://media.discordapp.net/attachments/762807292172435456/1343659349662371942/1hcEmV5_bZ4XId3w2Q1sMvTwksVbescNJbHKxd19tWf5ajb1DCLZ7MLewxEeSzQ.png?ex=67be13c8&is=67bcc248&hm=d87a4d32e08099890bccd154319fb0c741c0c4f6a977cfa48781c30891f128ea&=&format=webp&quality=lossless)
+![laparoskop](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659349662371942/1hcEmV5_bZ4XId3w2Q1sMvTwksVbescNJbHKxd19tWf5ajb1DCLZ7MLewxEeSzQ.png?ex=67be13c8&is=67bcc248&hm=d87a4d32e08099890bccd154319fb0c741c0c4f6a977cfa48781c30891f128ea&=&format=webp&quality=lossless)
 
 
 
@@ -1718,7 +1718,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 #### Argonový laser 
 - proniká pouze povrchově a používá se proto v oční chirurgii a k povrchové léčbě kůže
 
-![laser](https://media.discordapp.net/attachments/762807292172435456/1343659310533574808/1taO_MHfyhcaSQRpRasLrzra3SWB3OVzoyzGwiIFWnyvM5GiCZzXd1399xYuI9NY.png?ex=67be13bf&is=67bcc23f&hm=a88c423fb062a86dab1294d81ef702b5e04878aa70607e2cc443b2470cb54638&=&format=webp&quality=lossless)
+![laser](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659310533574808/1taO_MHfyhcaSQRpRasLrzra3SWB3OVzoyzGwiIFWnyvM5GiCZzXd1399xYuI9NY.png?ex=67be13bf&is=67bcc23f&hm=a88c423fb062a86dab1294d81ef702b5e04878aa70607e2cc443b2470cb54638&=&format=webp&quality=lossless)
 
 
 ### Robotická chirurgie 
@@ -1727,7 +1727,7 @@ Sutura je jiný název pro stah, či šití, což je vlastně zakončení celéh
 - umožnuje zobrazit  obraz s vysokým rozlišením a odstraněním rušivých struktur v pozadí  
 - na jeho rameni je umístěn endoskop 
 
-![robot](https://media.discordapp.net/attachments/762807292172435456/1343659320994435122/1Qx2PsOZQoT25g6mLNWsnXmzSKK_yaBt-FpTieZ0qXgGA3IaSp_xDPbz758Yk6Q.png?ex=67be13c2&is=67bcc242&hm=b0bbb02fdac5fbd9b7531453e970daf95fa31198ea478e683b6e065120644ed2&=&format=webp&quality=lossless)
+![robot](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659320994435122/1Qx2PsOZQoT25g6mLNWsnXmzSKK_yaBt-FpTieZ0qXgGA3IaSp_xDPbz758Yk6Q.png?ex=67be13c2&is=67bcc242&hm=b0bbb02fdac5fbd9b7531453e970daf95fa31198ea478e683b6e065120644ed2&=&format=webp&quality=lossless)
 
 ### Krvácení
 - krvácení neboli haemorhagie je ztráta krve z cirkulace
@@ -1761,7 +1761,7 @@ Příznaky: Krev vytékající z otevřené rány, hematom, modřiny, šok, bled
 .- malé cévy se podvazují vstřebatelným šicím materiálem
 - větší žíly a tepny se může použít dvojitý podvaz nebo tzv. Z–podvaz (cross–stitch) z nevstřebatelného materiálu.
 
-![elektrotermokolagulace](https://media.discordapp.net/attachments/762807292172435456/1343659338308521994/1ARx35usQeFfAFqGCvnxzk2d8hmY_wlMDVVbRpDKtRPTEZEdlgfDhQpL6Eiusa9M.png?ex=67be13c6&is=67bcc246&hm=e7ffe2fd9ded77ce90d64c35d98ff0e1fff81c8354054e026f890af207df2f1e&=&format=webp&quality=lossless)
+![elektrotermokolagulace](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343659338308521994/1ARx35usQeFfAFqGCvnxzk2d8hmY_wlMDVVbRpDKtRPTEZEdlgfDhQpL6Eiusa9M.png?ex=67be13c6&is=67bcc246&hm=e7ffe2fd9ded77ce90d64c35d98ff0e1fff81c8354054e026f890af207df2f1e&=&format=webp&quality=lossless)
 
 
 
@@ -2169,7 +2169,7 @@ opioidy
 - následně provedeme přímou laryngoskopii která spočívá v zavedení laryngoskopu 
 - poté zavedeme tracheální rourku a utěsníme manžetu a zafixujeme tr. rourku 
 
-![intubace](https://media.discordapp.net/attachments/762807292172435456/1343668616972861520/1fa66fjbnevLhRW60yVUrqXNa2wxeU9PZLjJ3an1NWjsHI2GK7WNBEhOn9rYIYw.png?ex=67be1c6a&is=67bccaea&hm=edd783888a66afc7295d4a096b46858ea92098f456ff34162d20b14a37c5bc8a&=&format=webp&quality=lossless)
+![intubace](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343668616972861520/1fa66fjbnevLhRW60yVUrqXNa2wxeU9PZLjJ3an1NWjsHI2GK7WNBEhOn9rYIYw.png?ex=67be1c6a&is=67bccaea&hm=edd783888a66afc7295d4a096b46858ea92098f456ff34162d20b14a37c5bc8a&=&format=webp&quality=lossless)
 
 
 
@@ -2185,7 +2185,7 @@ opioidy
 - riziko traumatizace horních cest dýchacích 
 - zavádí se naslepo
 
-![tubus](https://media.discordapp.net/attachments/762807292172435456/1343668468582580224/image.png?ex=67be1c47&is=67bccac7&hm=cb3c09396d3c455ec6d304d4d84cf899c4a6f98f4723e8b5ff4a60a158d541db&=&format=webp&quality=lossless)
+![tubus](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343668468582580224/image.png?ex=67be1c47&is=67bccac7&hm=cb3c09396d3c455ec6d304d4d84cf899c4a6f98f4723e8b5ff4a60a158d541db&=&format=webp&quality=lossless)
 
 
 
@@ -2226,7 +2226,7 @@ Ujistěte se, že katétr je správně umístěn a není v kontaktu s okolními 
 Katétr pevně zafixujte obvazem a ujistěte se, že je na místě. 
 Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
-![kanylace](https://media.discordapp.net/attachments/1299439903616012309/1299440701662036080/image.png?ex=67bd6435&is=67bc12b5&hm=30697b4e3a87828cc6228fb74cbf86a015a2a9757f5ccace7dcf9a0bccaa3672&=&format=webp&quality=lossless)
+![kanylace](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1299440701662036080/image.png?ex=67bd6435&is=67bc12b5&hm=30697b4e3a87828cc6228fb74cbf86a015a2a9757f5ccace7dcf9a0bccaa3672&=&format=webp&quality=lossless)
 
 #### Kanylace periferní žíly 
 - základní postup
@@ -2271,7 +2271,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 - způsobuje pokles krevního tlaku hypotenze
 - riziko postpunkční bolesti hlavy
 
-![anestezieepsub](https://media.discordapp.net/attachments/762807292172435456/1343668573289189407/1Jk-zFx0snfla8vG8HofBvNBSRhdLio0iPgFA_CJi4NGjWCEa4uUoFK816h0jPA.png?ex=67be1c60&is=67bccae0&hm=42553cce55ecae4f7e29fe965a14b77404b016bd3d641be486eba7bcb7454ae2&=&format=webp&quality=lossless)
+![anestezieepsub](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343668573289189407/1Jk-zFx0snfla8vG8HofBvNBSRhdLio0iPgFA_CJi4NGjWCEa4uUoFK816h0jPA.png?ex=67be1c60&is=67bccae0&hm=42553cce55ecae4f7e29fe965a14b77404b016bd3d641be486eba7bcb7454ae2&=&format=webp&quality=lossless)
 
 
 
@@ -2287,7 +2287,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 ## Kapnografie a kapnometrie 
 - trvale sleduje koncentraci oxidu uhličitého ve vydechované dýchací směsi při ventilaci
 
-![anepristr](https://media.discordapp.net/attachments/762807292172435456/1343668560836296817/1Rxga5JqWNdbm3DA838lPmqnOaLUWvY6nWJ-gK6gCcDlQUx-QtP359PwCzaILMEI.png?ex=67be1c5d&is=67bccadd&hm=9d55cb4adfabae58dadeb18ada617870563f3e0893ea60a96e17658fb36486c0&=&format=webp&quality=lossless)
+![anepristr](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343668560836296817/1Rxga5JqWNdbm3DA838lPmqnOaLUWvY6nWJ-gK6gCcDlQUx-QtP359PwCzaILMEI.png?ex=67be1c5d&is=67bccadd&hm=9d55cb4adfabae58dadeb18ada617870563f3e0893ea60a96e17658fb36486c0&=&format=webp&quality=lossless)
 
 
 
