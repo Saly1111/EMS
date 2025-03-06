@@ -1,12 +1,12 @@
 # Emergency Medical Services
 ## Studijní materiály - Veterina
 
-![logo](https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
+![logo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
 
 
 ## Veterina 
 
-![vet](https://media.discordapp.net/attachments/762807292172435456/1343879309659738163/1YSJUh433qkPzyhsEWW-8ckUX9Xn_9-Yji3tYz3wa6EhvO4ye4RgwlvxykV6uIOo.png?ex=67bee0a3&is=67bd8f23&hm=961b689b0d35d0779198b0a92f88a3f8960acc87d410c0cb38750799c2d324ef&=&format=webp&quality=lossless)
+![vet](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343879309659738163/1YSJUh433qkPzyhsEWW-8ckUX9Xn_9-Yji3tYz3wa6EhvO4ye4RgwlvxykV6uIOo.png?ex=67bee0a3&is=67bd8f23&hm=961b689b0d35d0779198b0a92f88a3f8960acc87d410c0cb38750799c2d324ef&=&format=webp&quality=lossless)
 
 ## Očkovaní a farmaka:
 

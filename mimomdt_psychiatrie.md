@@ -1,7 +1,7 @@
 # Emergency Medical Services
 ## Studijní materiály - Psychiatrie
 
-![logo](https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
+![logo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
 
 
 ## Psychiatrie
@@ -22,7 +22,7 @@ modifikace PEG, vzduch se insufluje přes trepanační otvor do postranních kom
 
 Pomocí elektrod umístěných na různá místa na hlavě lze stimulovat určitá jádra a oblasti mozku. -> . Přístroj poté měří dobu latence mezi stimulací a odezvou
 
-![eeg](https://media.discordapp.net/attachments/762807292172435456/1343916810088742984/image.png?ex=67bf0390&is=67bdb210&hm=846b7c55c776f2db65c99f690c1b9a5a23370f4bdcb3f7f0450449054a5a7e57&=&format=webp&quality=lossless)
+![eeg](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343916810088742984/image.png?ex=67bf0390&is=67bdb210&hm=846b7c55c776f2db65c99f690c1b9a5a23370f4bdcb3f7f0450449054a5a7e57&=&format=webp&quality=lossless)
 
 ### ●Scintigrafie  
 (gamagrafie) je diagnostická metoda umožňující celotělově dvourozměrně zobrazit distribuci radionuklidu (radiofarmaka), emitujícího gama záření, případně sledovat jeho časovou distribuci v určitém orgánu. 
@@ -280,7 +280,7 @@ nálada je dlouhodobé emoční vyladění jedince, patická nálada vzniká z c
 
 ### ● Mozek – Základní schéma 
 
-![mzs](https://media.discordapp.net/attachments/762807292172435456/1343918464703660083/1eAHeBsrFNKvxAnzfg5hTEht3N8rC9kI6x-X7IkOLtaHtYBoOoDWuND0xtaCeG70.png?ex=67bf051a&is=67bdb39a&hm=7d60f63154143c0d20dae13aaf228b7e7827c0827f7e84f022c3c0df56e9ac7c&=&format=webp&quality=lossless)
+![mzs](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343918464703660083/1eAHeBsrFNKvxAnzfg5hTEht3N8rC9kI6x-X7IkOLtaHtYBoOoDWuND0xtaCeG70.png?ex=67bf051a&is=67bdb39a&hm=7d60f63154143c0d20dae13aaf228b7e7827c0827f7e84f022c3c0df56e9ac7c&=&format=webp&quality=lossless)
 
 
 
@@ -290,7 +290,7 @@ nálada je dlouhodobé emoční vyladění jedince, patická nálada vzniká z c
 
 ### ● Mozková kůra 
 
-![mk](https://media.discordapp.net/attachments/762807292172435456/1343918479790575667/1CVR6-QjmoBz3WnT9uVrv3AVnnxa_DZrOt_ew-LUy0EhFo2F0euTVw21yeOQV.png?ex=67bf051e&is=67bdb39e&hm=2ca176156b664c303a5e7ddb516c719be3c3d031edd362c12c45c2389fa5fc81&=&format=webp&quality=lossless)
+![mk](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343918479790575667/1CVR6-QjmoBz3WnT9uVrv3AVnnxa_DZrOt_ew-LUy0EhFo2F0euTVw21yeOQV.png?ex=67bf051e&is=67bdb39e&hm=2ca176156b664c303a5e7ddb516c719be3c3d031edd362c12c45c2389fa5fc81&=&format=webp&quality=lossless)
 
 
 

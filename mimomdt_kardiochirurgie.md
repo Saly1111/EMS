@@ -1,7 +1,7 @@
 # Emergency Medical Services
 ## Studijní materiály - Kardiochirurgie
 
-![logo](https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
+![logo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
 
 
 
@@ -15,7 +15,7 @@
 ### Topografie srdce
 Srdce je uloženo v  perikardu (vakovitý obal srdce) , za hrudní kostí v rozsahu 3. až 5. žebra
 
-![topsrdce](https://media.discordapp.net/attachments/762807292172435456/1343921509130833961/1wgJZBPQOH7_Zio103UmBsc1tK4LO0wbyfvV3ITVM87jKiHEzPacsVhYieOCOVa8.png?ex=67bf07f0&is=67bdb670&hm=0708c0e0d53d7a3132facccaf39182c79ac6223700ede789804608d06d63aeb6&=&format=webp&quality=lossless&width=593&height=676)
+![topsrdce](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921509130833961/1wgJZBPQOH7_Zio103UmBsc1tK4LO0wbyfvV3ITVM87jKiHEzPacsVhYieOCOVa8.png?ex=67bf07f0&is=67bdb670&hm=0708c0e0d53d7a3132facccaf39182c79ac6223700ede789804608d06d63aeb6&=&format=webp&quality=lossless&width=593&height=676)
 
 A - chlopeň aortální <br>
 M – ch. mitrální<br>
@@ -26,7 +26,7 @@ T – ch. trikuspidální <br>
 
 ### Srdeční oddíly a chlopně
 
-![dilsrdce](https://media.discordapp.net/attachments/762807292172435456/1343921521445568532/1w-uNunfS_7ByJHgVJ6lJYqMl_JsAHqF2-lhj-kBvPG1ea59ShibPhRT-tqOQuoU.png?ex=67bf07f3&is=67bdb673&hm=8e689af4a30a0429edb0ee9a533614848dd5bb3a96aebf1e5b271a1aa711aa4b&=&format=webp&quality=lossless)
+![dilsrdce](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921521445568532/1w-uNunfS_7ByJHgVJ6lJYqMl_JsAHqF2-lhj-kBvPG1ea59ShibPhRT-tqOQuoU.png?ex=67bf07f3&is=67bdb673&hm=8e689af4a30a0429edb0ee9a533614848dd5bb3a96aebf1e5b271a1aa711aa4b&=&format=webp&quality=lossless)
 
 ### Pravá síň
 Pravá síň se sestává ze tří částí: ouška, vestibula (vlastní pravé síně) a venózní komponenty (ústí dutých žil).
@@ -85,11 +85,11 @@ fáze izovolumické relaxace a všechny fáze plnění komor<br>
 
 ## Vyšetřovací metody v kardiologii
 
-![vmk](https://media.discordapp.net/attachments/762807292172435456/1343921439941595249/14CMd848YvyvcaWsUwtwMfTEiVLcAUmD2tAPvykrQynuK2GHef1c5CGJX4msXi7U.png?ex=67bf07e0&is=67bdb660&hm=cb5cd06f45f32b2a5829f41311e8a34050f2d0dc8f249f29e61ffb801a3e178a&=&format=webp&quality=lossless)
+![vmk](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921439941595249/14CMd848YvyvcaWsUwtwMfTEiVLcAUmD2tAPvykrQynuK2GHef1c5CGJX4msXi7U.png?ex=67bf07e0&is=67bdb660&hm=cb5cd06f45f32b2a5829f41311e8a34050f2d0dc8f249f29e61ffb801a3e178a&=&format=webp&quality=lossless)
 
 ### Zátěžový EKG
 ### CT
-![ct](https://media.discordapp.net/attachments/762807292172435456/1343921425035038730/1CBKAFYIaAW22rh6pEXsZwL3aS5eqxA1cwihw1y0GSEeW3GyFO_8e9AJB_Br25g.png?ex=67bf07dc&is=67bdb65c&hm=e9d66303a0db3f817743bef82f94eda7ae4e59629903223541701f9a9ca3f892&=&format=webp&quality=lossless&width=268&height=325)
+![ct](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921425035038730/1CBKAFYIaAW22rh6pEXsZwL3aS5eqxA1cwihw1y0GSEeW3GyFO_8e9AJB_Br25g.png?ex=67bf07dc&is=67bdb65c&hm=e9d66303a0db3f817743bef82f94eda7ae4e59629903223541701f9a9ca3f892&=&format=webp&quality=lossless&width=268&height=325)
 
 
 ## Stabilní ischemická choroba srdeční
@@ -123,7 +123,7 @@ Roztažení cévy pomocí balónkového katetru a stentu
 #### Aortokoronární bypass
 Přemostění stenotického nebo uzavřeného úseku cévním štěpem.
 
-![bypass](https://media.discordapp.net/attachments/762807292172435456/1343921403292024872/1g6nbtxIuxJ-aVjclBiTHBVdi52HiQeeg4YjXR_OBtVlDxa_w21DsEeWWD4kC3ds.png?ex=67bf07d7&is=67bdb657&hm=f72efe30ea87d50659f84013964b5c1f6865f25af1c67cc0ecfe10816ce9b169&=&format=webp&quality=lossless)
+![bypass](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921403292024872/1g6nbtxIuxJ-aVjclBiTHBVdi52HiQeeg4YjXR_OBtVlDxa_w21DsEeWWD4kC3ds.png?ex=67bf07d7&is=67bdb657&hm=f72efe30ea87d50659f84013964b5c1f6865f25af1c67cc0ecfe10816ce9b169&=&format=webp&quality=lossless)
 
 
 
@@ -152,7 +152,7 @@ Léčba  - antirytmika , kardiostimulátor <br>
 ### Typická konfigurace implantovaného ICD-systému
 Generátor zavedený do podkoží levého podklíčku, defibrilační elektroda implantovaná cestou  do hrotu pravé komory (prochází mezi volnými okraji trikuspidální chlopně do dutiny pravé komory)
 
-![icd](https://media.discordapp.net/attachments/762807292172435456/1343921385516433438/1tGDDR40Ktyw0mheuL6slWq9X6RmqnP6FEDTtNxNXSFguePNNVVD1W9N2d2e3AA.png?ex=67bf07d3&is=67bdb653&hm=c8de6884e43fd59d5b77879ec3fb5d50289ccd0380b0c66660bd1e3c2e6b9a31&=&format=webp&quality=lossless&width=356&height=325) 
+![icd](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921385516433438/1tGDDR40Ktyw0mheuL6slWq9X6RmqnP6FEDTtNxNXSFguePNNVVD1W9N2d2e3AA.png?ex=67bf07d3&is=67bdb653&hm=c8de6884e43fd59d5b77879ec3fb5d50289ccd0380b0c66660bd1e3c2e6b9a31&=&format=webp&quality=lossless&width=356&height=325) 
 
 
 ### Extrakorporální membránová oxygenace
@@ -171,7 +171,7 @@ Syndrom, při kterém mají nemocní typické symptomy a známky, které jsou d�
 Diagnostika - MRI, koronarografie<br>
 Léčba - farmaka ACE-inhibitory, betablokátory <br>
 
-![ss](https://media.discordapp.net/attachments/762807292172435456/1343921173016350822/image.png?ex=67bf07a0&is=67bdb620&hm=88b7e4fc327ee96f26b7a01043d971519d9a4d9011a4dd02c0b736cff11069e5&=&format=webp&quality=lossless&width=487&height=325) 
+![ss](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921173016350822/image.png?ex=67bf07a0&is=67bdb620&hm=88b7e4fc327ee96f26b7a01043d971519d9a4d9011a4dd02c0b736cff11069e5&=&format=webp&quality=lossless&width=487&height=325) 
 
 
 
@@ -189,14 +189,14 @@ adrenalin<br>
 ## Mimotělní oběh a mechanické podpůrné systémy
 Většina operací srdce se v  současnosti provádí za pomoci mimotělního oběhu krve. Ten umožňuje operovat na zastaveném srdci po otevření některé ze srdečních dutin a přístup k chlopním
 
-![mmo](https://media.discordapp.net/attachments/762807292172435456/1343921121849905182/image.png?ex=67bf0794&is=67bdb614&hm=0b85f20097f8e1720aeeb8f931ecc7569b8e802ff0b2827103bb43d9b41ee021&=&format=webp&quality=lossless)
+![mmo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921121849905182/image.png?ex=67bf0794&is=67bdb614&hm=0b85f20097f8e1720aeeb8f931ecc7569b8e802ff0b2827103bb43d9b41ee021&=&format=webp&quality=lossless)
 
 
 ### Schematické znázornění zapojení V-A
-![mmova](https://media.discordapp.net/attachments/762807292172435456/1343921367245914144/1QeVw_JrKcPLYRcmI_PlBOfpB8DdwgNQPdDGLZz2KedIemb1QiqTdQZ0Vlw.png?ex=67bf07ce&is=67bdb64e&hm=6db4e45dd14bee1d74fe71f757c404fe235b306c53591b74a0641dd83712b585&=&format=webp&quality=lossless&width=384&height=325)
+![mmova](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921367245914144/1QeVw_JrKcPLYRcmI_PlBOfpB8DdwgNQPdDGLZz2KedIemb1QiqTdQZ0Vlw.png?ex=67bf07ce&is=67bdb64e&hm=6db4e45dd14bee1d74fe71f757c404fe235b306c53591b74a0641dd83712b585&=&format=webp&quality=lossless&width=384&height=325)
 
 ### Schematické znázornění zapojení V-V 
-![mmovv](https://media.discordapp.net/attachments/762807292172435456/1343921334115373096/105tXB7KgyYf4pU1bZGduMck0tyDeErwjjte1eJ87T3gA3rK2Yphi9IdunmEAank.png?ex=67bf07c6&is=67bdb646&hm=f69754ec03d3d00a498be3247b63c1e17b38e84ff85b82a378e4d7fb8d7321be&=&format=webp&quality=lossless&width=394&height=325)
+![mmovv](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343921334115373096/105tXB7KgyYf4pU1bZGduMck0tyDeErwjjte1eJ87T3gA3rK2Yphi9IdunmEAank.png?ex=67bf07c6&is=67bdb646&hm=f69754ec03d3d00a498be3247b63c1e17b38e84ff85b82a378e4d7fb8d7321be&=&format=webp&quality=lossless&width=394&height=325)
 
 ## Operační přístupy v kardiochirurgii
 ### Střední sternotomie 

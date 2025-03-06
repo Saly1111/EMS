@@ -1,7 +1,7 @@
 # Emergency Medical Services
 ## Studijní materiály - Hematologie
 
-![logo](https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
+![logo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
 
 ## POSTUP PŘI ODBĚRECH
 
@@ -17,7 +17,7 @@
 
 ## Krevní skupiny - Kompatibilita
 
-![krev](https://media.discordapp.net/attachments/1074336557747666984/1216412033881215026/lekar.png?ex=67be8ebc&is=67bd3d3c&hm=95bfa3119f0c22a198021d39af26c9b75c66c0ee22ef874eed12b93627997e45&=&format=webp&quality=lossless)
+![krev](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1074336557747666984/1216412033881215026/lekar.png?ex=67be8ebc&is=67bd3d3c&hm=95bfa3119f0c22a198021d39af26c9b75c66c0ee22ef874eed12b93627997e45&=&format=webp&quality=lossless)
 
 ## KREVNÍ OBRAZ (KO) - co je součástí
 #### Leukocyty (bílé krvinky)

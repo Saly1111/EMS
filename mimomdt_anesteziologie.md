@@ -1,7 +1,7 @@
 # Emergency Medical Services
 ## Studijní materiály - Anesteziologie 
 
-![logo](https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
+![logo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
 
 
 ## Anesteziologie 
@@ -406,7 +406,7 @@ opioidy
 - následně provedeme přímou laryngoskopii která spočívá v zavedení laryngoskopu 
 - poté zavedeme tracheální rourku a utěsníme manžetu a zafixujeme tr. rourku 
 
-![intubace](https://media.discordapp.net/attachments/762807292172435456/1343668616972861520/1fa66fjbnevLhRW60yVUrqXNa2wxeU9PZLjJ3an1NWjsHI2GK7WNBEhOn9rYIYw.png?ex=67be1c6a&is=67bccaea&hm=edd783888a66afc7295d4a096b46858ea92098f456ff34162d20b14a37c5bc8a&=&format=webp&quality=lossless)
+![intubace](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343668616972861520/1fa66fjbnevLhRW60yVUrqXNa2wxeU9PZLjJ3an1NWjsHI2GK7WNBEhOn9rYIYw.png?ex=67be1c6a&is=67bccaea&hm=edd783888a66afc7295d4a096b46858ea92098f456ff34162d20b14a37c5bc8a&=&format=webp&quality=lossless)
 
 
 
@@ -422,7 +422,7 @@ opioidy
 - riziko traumatizace horních cest dýchacích 
 - zavádí se naslepo
 
-![tubus](https://media.discordapp.net/attachments/762807292172435456/1343668468582580224/image.png?ex=67be1c47&is=67bccac7&hm=cb3c09396d3c455ec6d304d4d84cf899c4a6f98f4723e8b5ff4a60a158d541db&=&format=webp&quality=lossless)
+![tubus](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343668468582580224/image.png?ex=67be1c47&is=67bccac7&hm=cb3c09396d3c455ec6d304d4d84cf899c4a6f98f4723e8b5ff4a60a158d541db&=&format=webp&quality=lossless)
 
 
 
@@ -463,7 +463,7 @@ Ujistěte se, že katétr je správně umístěn a není v kontaktu s okolními 
 Katétr pevně zafixujte obvazem a ujistěte se, že je na místě. 
 Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
-![kanylace](https://media.discordapp.net/attachments/1299439903616012309/1299440701662036080/image.png?ex=67bd6435&is=67bc12b5&hm=30697b4e3a87828cc6228fb74cbf86a015a2a9757f5ccace7dcf9a0bccaa3672&=&format=webp&quality=lossless)
+![kanylace](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1299440701662036080/image.png?ex=67bd6435&is=67bc12b5&hm=30697b4e3a87828cc6228fb74cbf86a015a2a9757f5ccace7dcf9a0bccaa3672&=&format=webp&quality=lossless)
 
 #### Kanylace periferní žíly 
 - základní postup
@@ -508,7 +508,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 - způsobuje pokles krevního tlaku hypotenze
 - riziko postpunkční bolesti hlavy
 
-![anestezieepsub](https://media.discordapp.net/attachments/762807292172435456/1343668573289189407/1Jk-zFx0snfla8vG8HofBvNBSRhdLio0iPgFA_CJi4NGjWCEa4uUoFK816h0jPA.png?ex=67be1c60&is=67bccae0&hm=42553cce55ecae4f7e29fe965a14b77404b016bd3d641be486eba7bcb7454ae2&=&format=webp&quality=lossless)
+![anestezieepsub](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343668573289189407/1Jk-zFx0snfla8vG8HofBvNBSRhdLio0iPgFA_CJi4NGjWCEa4uUoFK816h0jPA.png?ex=67be1c60&is=67bccae0&hm=42553cce55ecae4f7e29fe965a14b77404b016bd3d641be486eba7bcb7454ae2&=&format=webp&quality=lossless)
 
 
 
@@ -524,7 +524,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 ## Kapnografie a kapnometrie 
 - trvale sleduje koncentraci oxidu uhličitého ve vydechované dýchací směsi při ventilaci
 
-![anepristr](https://media.discordapp.net/attachments/762807292172435456/1343668560836296817/1Rxga5JqWNdbm3DA838lPmqnOaLUWvY6nWJ-gK6gCcDlQUx-QtP359PwCzaILMEI.png?ex=67be1c5d&is=67bccadd&hm=9d55cb4adfabae58dadeb18ada617870563f3e0893ea60a96e17658fb36486c0&=&format=webp&quality=lossless)
+![anepristr](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343668560836296817/1Rxga5JqWNdbm3DA838lPmqnOaLUWvY6nWJ-gK6gCcDlQUx-QtP359PwCzaILMEI.png?ex=67be1c5d&is=67bccadd&hm=9d55cb4adfabae58dadeb18ada617870563f3e0893ea60a96e17658fb36486c0&=&format=webp&quality=lossless)
 
 
 

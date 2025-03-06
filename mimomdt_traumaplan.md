@@ -72,7 +72,7 @@ LSFD se spojí s velitelem traumaplánu a dle události usoudí, jestli budou po
 
 Třídící stanoviště, slouží k lepší orientaci mezi zraněnými a rychlejšímu počtu zraněných, také slouží, jako bezpečné místo pro ošetření zraněných osob (Budou se zde ošetřovat osoby, NE na místě zásahu). Natáhneme 20 metrů od místa zásahu tři plachty a ohraničí me je kuželemi, každá plachta má 10x10 metrů (viz. schéma). Na zelenou plachtu budeme dávat lehce zraněné osoby, na oranžovou středně těžce zraněné a na červenou plachtu budeme dávat těžce zraněné osoby. Poté o kousek dál rozložíme i černou plachtu, na kterou se budou odnášet mrtvé osoby. Na třídícím stanovišti vždy bude alespoň jeden lékař a dva zdravotnický záchranáři, které se budou starat o zraněné, dle priority podle triáže.
 
-![tridime](https://media.discordapp.net/attachments/762807292172435456/1343875296130109473/1j3gwmFAPnNZoi7rHn2p6z7nma6JC7koADSOAwPziMYQnpXJsV6Dy5Oko3Bt9FTw.png?ex=67bedce6&is=67bd8b66&hm=25ab25af413efed6a9995c800e68f8503bb05ee9ce20794ed582baa11307a6f7&=&format=webp&quality=lossless)
+![tridime](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343875296130109473/1j3gwmFAPnNZoi7rHn2p6z7nma6JC7koADSOAwPziMYQnpXJsV6Dy5Oko3Bt9FTw.png?ex=67bedce6&is=67bd8b66&hm=25ab25af413efed6a9995c800e68f8503bb05ee9ce20794ed582baa11307a6f7&=&format=webp&quality=lossless)
 
 ## Jak postupovat v případě velkého počtu zraněných na jednom místě?
 
@@ -91,7 +91,7 @@ Jedna sanitka vždy převeze tolik pacientů, kolik se do ní vejde.<br>
 
 ### Schéma triážní metody START
 
-![start](https://media.discordapp.net/attachments/762807292172435456/1343875325037252673/1UPuTvflkbjCzHyKxE5jtATxsOjlnSs8Ylk6cW0XZLu3KIWkpbZOUruTU0KcNRyM.png?ex=67bedced&is=67bd8b6d&hm=fffb42789951a8653ecf5b1cf0afb39b5b7ccf22ddf343291fc5af524d8ddb79&=&format=webp&quality=lossless&width=450&height=675)
+![start](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343875325037252673/1UPuTvflkbjCzHyKxE5jtATxsOjlnSs8Ylk6cW0XZLu3KIWkpbZOUruTU0KcNRyM.png?ex=67bedced&is=67bd8b6d&hm=fffb42789951a8653ecf5b1cf0afb39b5b7ccf22ddf343291fc5af524d8ddb79&=&format=webp&quality=lossless&width=450&height=675)
 
 ### Rozdělení jednotek na místě
 
