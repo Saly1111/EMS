@@ -61,7 +61,7 @@ Končetina – naštípnutí - 500 $<br>
 Končetina - uzavřená fraktura - 650 $<br>
 Končetina - otevřená fraktura - 850$<br>
 Žebra – naštípnutí - 850$<br>
-Žebra – fraktura - 850 $<br>
+Žebra – fraktura - 950 $<br>
 Klíční kost – naštípnutí - 500$<br>
 Klíční kost – fraktura - 750$<br>
 Fraktura nosu - 800$<br>
