@@ -178,19 +178,19 @@ K prodeji zdravotnického materiálu slouží primárné nemocniční lékárna
 
 Bandáž - 500$ (pro státní složky 1 bandáž 100$)
 
-Autolékárnička - 5000$
-Náplast - 350$
-Akutol sprej - 450$
-Hojivý Gel - 950$
-Škrtidlo - 850$
+Autolékárnička - 5000$ <br>
+Náplast - 350$ <br>
+Akutol sprej - 450$ <br>
+Hojivý Gel - 950$ <br>
+Škrtidlo - 850$ <br>
 
-Ibuprofen - 200 $
-Paralen - 200 $
-Gelaspon - 120 $
-Zodac - 100 $
-Živočišné uhlí - 250 $
-Samaritan 150 $
-Kyselina listová - 100 $
-Viagra - 375 $
-Hroznový cukr - 15 $
-Plyšák - 250 $
+Ibuprofen - 200 $ <br>
+Paralen - 200 $ <br>
+Gelaspon - 120 $ <br>
+Zodac - 100 $ <br>
+Živočišné uhlí - 250 $ <br>
+Samaritan 150 $ <br>
+Kyselina listová - 100 $ <br>
+Viagra - 375 $ <br>
+Hroznový cukr - 15 $ <br>
+Plyšák - 250 $ <br>
