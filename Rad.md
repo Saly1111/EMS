@@ -46,7 +46,7 @@ Eclipse Medical Tower - EMT <br>*
 ### 1.7 V prostorách nemocnice je zakázáno kouření (zákaz zahrnuje i elektronické cigarety) a užívání návykových látek.
 ### 1.8 Návštěvníci jsou povinni řídit se uvedenými nařízeními.
 #### 1.8.1 Porušení pravidel může mít za následek vyvedení.
-#### 1.8.2 Porušení řádu se trestá fakturou od 10.000 - 100.000$.
+#### 1.8.2 Porušení řádu se trestá fakturou od 1.000 - 50.000$.
 
 ## 2. Příjem pacienta
 Při přijetí do nemocnice (hospitalizace/ambulantní péče) je pacient povinen na žádost zaměstnance, prokázat svou totožnost formou ID či jiného dokladu totožnosti. 
