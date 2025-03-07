@@ -8,7 +8,7 @@
 ## Služby
 
 Výjezd sanity - 500$ <br>
-Vzlet vrtulníku - 2500$ <br> 
+Vzlet vrtulníku - 2000$ <br> 
 Pooperační péče na JIP - 750$ <br>
 Pooperační péče na VIP - JIP - 2500$ <br>
 Falešný či neopodstatněný výjezd záchranářů se trestá pokutou ve výši 5000$ <br>
@@ -58,8 +58,7 @@ Trup - 1000$ <br>
 
 ## Fraktury
 Končetina – naštípnutí - 500 $<br>
-Končetina - uzavřená fraktura - 
-650 $<br>
+Končetina - uzavřená fraktura - 650 $<br>
 Končetina - otevřená fraktura - 850$<br>
 Žebra – naštípnutí - 850$<br>
 Žebra – fraktura - 850 $<br>
@@ -207,3 +206,90 @@ Hroznový cukr - 15 $ <br>
 Plyšák - 250 $ <br>
 
 
+# CENÍK -  ZDRAVOTNÍ  POJIŠTĚNÍ
+
+**ZÁKLADNÍ**
+- Základní ošetření ( odřeniny, jednoduché šití atd. ), kontroly
+- Operace dle ceny, většinou polovina ceny zaplatí pojišťovna a druhou doplatíte vy.
+
+**ROZŠÍŘENÉ**
+- Jakékoliv ošetření placené pojišťovnou
+- Většina operací placena pojišťovnou v plné výši
+- Chirurgické zákroky placené pojišťovnou
+
+PLASTICKÁ OPERACE NESPADÁ DO ZDRAVOTNÍHO POJIŠTĚNÍ!
+
+FAKTURU ZA POJIŠTĚNÍ NUTNO UHRADIT NA MÍSTĚ.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+PRO JEDNOTLIVCE
+
+**ZÁKLADNÍ**
+
+> Na 1 týden = $ 4,500 <br>
+> Na 1 měsíc = $ 14,000 <br>
+> Na půl roku ( 6 měsíců ) = $ 65,000 <br>
+
+**ROZŠÍŘENÉ**
+
+> Na 1 týden = $ 10,000 <br>
+> Na 1 měsíc = $ 35,000 <br>
+> Na půl roku ( 6 měsíců ) = $ 175,000 <br> 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+KLUBY & RESTAURACE
+
+**ZÁKLADNÍ**
+
+> Na 1 týden = 20000 <br>
+> Na 1 měsíc = 60000 <br>
+
+
+**ROZŠÍŘENÉ**
+
+> Na 1 týden = $ 35,000 <br>
+> Na 1 měsíc = $ 105,000 <br>
+
+PŘI TOMTO POJIŠTĚNÍ JE POJIŠTĚN KAŽDÝ ZAMĚSTNANEC
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+MECHANICKÉ DÍLNY
+
+**ZÁKLADNÍ**
+
+> Na 1 týden = $ 50,000 <br>
+> Na 1 měsíc = $ 150,000 <br>
+
+
+**ROZŠÍŘENÉ**
+
+> Na 1 týden = $ 75,000 <br>
+> Na 1 měsíc = $ 205,000 <br>
+
+PŘI TOMTO POJIŠTĚNÍ JE POJIŠTĚN KAŽDÝ ZAMĚSTNANEC
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VELKÉ VÝROBNÍ FIRMY
+
+**ZÁKLADNÍ**
+
+> Na 1 týden = $ 75,000 <br>
+> Na 1 měsíc = $ 170,000 <br>
+
+
+**ROZŠÍŘENÉ**
+
+> Na 1 týden = $ 75,000 <br>
+> Na 1 měsíc = $ 15,000 <br>
+
+PŘI TOMTO POJIŠTĚNÍ JE POJIŠTĚN KAŽDÝ ZAMĚSTNANEC
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
