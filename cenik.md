@@ -288,7 +288,7 @@ VELKÉ VÝROBNÍ FIRMY
 **ROZŠÍŘENÉ**
 
 > Na 1 týden = $ 75,000 <br>
-> Na 1 měsíc = $ 15,000 <br>
+> Na 1 měsíc = $ 215,000 <br>
 
 PŘI TOMTO POJIŠTĚNÍ JE POJIŠTĚN KAŽDÝ ZAMĚSTNANEC
 
