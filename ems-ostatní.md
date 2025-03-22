@@ -507,9 +507,9 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 > **Resekce** - odstranění části orgánu<br>
 > **Amputace** - odstranění ruky, nohy, prsu apod. = odstranění nějaké vnější části těla<br>
 > **Sutura** - steh nebo šití<br>
-> **Polytrauma **- postižení nejméně dvou orgánových systémů, z nichž alespoň jeden ohrožuje pacienta na životě<br>
+> **Polytrauma**- postižení nejméně dvou orgánových systémů, z nichž alespoň jeden ohrožuje pacienta na životě<br>
 > **Obstrukce** - neprůchodnost (např. dýchacích cest)<br>
-> **Arytmie **- nepravidelná srdeční frekvence<br>
+> **Arytmie**- nepravidelná srdeční frekvence<br>
 > **Diabetes** - cukrovka<br>
 
 > **Diagnóza** - stanovení onemocnění<br>
