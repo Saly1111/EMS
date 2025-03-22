@@ -1,23 +1,12 @@
-Emergency Medical Services
+# Emergency Medical Services
+
+## Studijní materiály - Ostatní 
+
+![logo](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1343623738624839680/unnamed.png?ex=67bdf29e&is=67bca11e&hm=394fb7efc6a5a1fd9a4a025023855d8d00b88d331eab00cf43367c494cca366c&=&format=webp&quality=lossless)
 
 
 
-
-Studijní materiály
-Ostatní 
-
-
-
-
-
-
-
-
-
-
-Vypracoval 
-Saly
-**# DIAGNOSTIKA -  POMŮCKA ABCDE**
+# DIAGNOSTIKA -  POMŮCKA ABCDE
 
 **ABCDE** označuje anglická slova:
         - airway (dýchací cesty)
@@ -67,10 +56,10 @@ sundání oblečení pro usnadnění přístupu k pacientovi (podle typu poraně
 
 
 
-**# MEDIKAMENTY**
+## MEDIKAMENTY
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Analgetika:**
+### Analgetika:
 
 > **Fentanyl:**
 > Fentanyl je syntetický opioid, který je asi 100krát silnější než morfin. Používá se při závažných chirurgických zákrocích a jako součást celkové anestezie kvůli rychlému nástupu účinku. Jeho trvání je krátké, a proto se často používá v kombinaci s jinými léky pro dlouhodobější analgezii.
@@ -93,7 +82,7 @@ sundání oblečení pro usnadnění přístupu k pacientovi (podle typu poraně
 > Apaurin je injekční roztok s koncentrací 10 mg/2 ml. Používá se k tlumení úzkosti a zklidnění pacientů, často při akutních stavech nebo před zákroky.
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Antipyretika:**
+###  Antipyretika:
 
 Antipyretika jsou léky, které slouží ke snížení tělesné teploty při horečce. Některá z těchto léků mají i analgetické účinky (tlumení bolesti) a některá také protizánětlivé vlastnosti. Používají se hlavně při infekcích, horečnatých stavech a bolestivých syndromech.
 
@@ -132,7 +121,7 @@ Antipyretika jsou léky, které slouží ke snížení tělesné teploty při ho
 > Poznámka: Riziko nežádoucích účinků na žaludek (vředy) nebo ledviny při dlouhodobém užívání.
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Hemostatika:**
+###  Hemostatika:
 Léky na zastavení krvácení – používají se k rychlému zastavení krvácení, a to buď lokálně nebo systémově.
 
 **Dicynone (Etamsylát)**
@@ -154,7 +143,7 @@ Léky na zastavení krvácení – používají se k rychlému zastavení krvác
 
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Antikoagulancia:**
+###  Antikoagulancia:
 Léky na snížení srážlivosti krve – předchází vzniku krevních sraženin.
 
 **Warfarin**
@@ -170,7 +159,7 @@ Léky na snížení srážlivosti krve – předchází vzniku krevních sražen
 
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Antiastmatika:**
+###  Antiastmatika:
 Léky pro léčbu astmatu – rozšiřují průdušky a zlepšují dýchání.
 
 **Euphyllin (Aminofylin)**
@@ -178,7 +167,7 @@ Léky pro léčbu astmatu – rozšiřují průdušky a zlepšují dýchání.
 > Použití: Akutní astmatické záchvaty, bronchitida, chronická obstrukční plicní nemoc (CHOPN).
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Hypnotika:**
+###  Hypnotika:
 Léky navozující spánek – používají se při nespavosti nebo pro přípravu na chirurgické zákroky.
 
 **Dormicum (Midazolam)**
@@ -202,7 +191,7 @@ Léky na zklidnění – působí proti úzkosti a napětí, aniž by navozovaly
 
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Anestetika:**
+###  Anestetika:
 Anestetika se dělí na celková a lokální. Celková anestetika se používají při vážnějších zraněních a operacích, zatímco lokální anestetika se využívají u lehčích zranění a drobných zákroků.
 
 **Celková anestetika:**
@@ -228,7 +217,7 @@ Používají se při ošetřování škrábanců a lehkých řezných ran.
 Nejčastěji se používají při ošetřování střelných ran nebo větších tržných zranění. Anestetikum se vstřikuje přímo do okolí rány, obvykle subkutánně.
 > **Prokain: **Zavádí se injekčně, obvykle do podkoží nebo svalstva. Nástup je okamžitý, trvání závisí na dávce, většinou do 1 hodiny.
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Antidota:**
+###  Antidota:
 Působí proti intoxikaci, zejména při předávkování opioidy.
 
 **Narcan (Naloxon):**
@@ -255,7 +244,7 @@ Působí proti intoxikaci, zejména při předávkování opioidy.
 
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Myorelaxancia:**
+###  Myorelaxancia:
 Myorelaxancia jsou látky, které uvolňují svalové křeče a vedou k jejich relaxaci. Jsou užitečné při zvládání bolestivých svalových spazmů a napětí.
 
 **Diazepam:**
@@ -273,7 +262,7 @@ Myorelaxancia jsou látky, které uvolňují svalové křeče a vedou k jejich r
 
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Beta-blokátory:**
+###  Beta-blokátory:
 Beta-blokátory jsou léky, které zpomalují srdeční frekvenci a snižují krevní tlak. Jsou často využívány při léčbě srdečních arytmií a hypertenze.
 
 > Mechanismus účinku: Zpomalují srdeční frekvenci, snižují krevní tlak a pomáhají při srdeční arytmii.
@@ -286,14 +275,14 @@ Beta-blokátory jsou léky, které zpomalují srdeční frekvenci a snižují kr
 
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Parasympatolytika:**
+###  Parasympatolytika:
 Parasympatolytika se používají k léčbě bradykardie (nízkého srdečního tepu).
 
 **Atropin:**
 > Dávkování: 0,25 - 1 mg.
 > Zvyšuje srdeční frekvenci a zlepšuje vedení vzruchů v srdci.
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Kardiotonika:**
+###  Kardiotonika:
 Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 
 **Adrenalin:**
@@ -309,7 +298,7 @@ Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 > Dávka u dospělého člověka: 0,5 - 1 mcg za minutu, opět závisí na hodnotách krevního tlaku.
 
 
-**# Postupy - základ**
+## Postupy - základ**
 
 **Informace** 
 - nejdříve zjistíme, co se děje. Vždy je dobré vědět k čemu jedeme. Ať už informace o pacientovi (zranění, jak se to stalo apod.), tak i informace o situaci na místě, zvláště u přestřelky.
@@ -326,7 +315,7 @@ Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 **# Postupy**
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Šok**
+## Šok
 
 > Šok je primárně porucha krevního oběhu, která vede k akutnímu nepoměru mezi potřebou a dodávkou okysličené krve tkáním.
 
@@ -337,7 +326,7 @@ Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 > - Přivolejte odbornou pomoc či zajistěte transport.
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Bezvědomí**
+## Bezvědomí
 
 > Ztráta vědomí, která může být způsobena různými faktory, včetně úrazů nebo intoxikace.
 
@@ -353,7 +342,7 @@ Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 > - Přivolejte odbornou pomoc či zajistěte transport.
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Krvácení / krvácivé stavy**
+##  Krvácení / krvácivé stavy
 
 > Ztráta krve, která může být externí nebo interní.
 
@@ -370,7 +359,7 @@ vlásečnicové -mírné, obvykle nepříliš vážné, po chvíli samo ustane (
 tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud nedojde k zastavení je možné vykrvácení
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Cizí těleso v těle**
+## Cizí těleso v těle
 
 > Objekt uvnitř těla, který může blokovat dýchací cesty nebo způsobit zranění.
 
@@ -379,8 +368,8 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 > - Monitorujte vitální funkce.
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Střelné rány**
+**-------------------------------------------------------------------------------------------------------------------------------------------------------------**
+## Střelné rány
 
 > Rány způsobené střelnou zbraní, které mohou být vážné a způsobit interní zranění.
 
@@ -392,7 +381,7 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 > - v případě průstřelu jsou rány primárně infikované, protože projektil zanáší mikroorganismy hluboko skrz tkáň
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Popáleniny**
+## Popáleniny
 
 > Poškození tkání způsobené teplem, chemikáliemi nebo elektrickým proudem.
 
@@ -414,7 +403,7 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 > • pouze chladit
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Zlomeniny**
+## Zlomeniny
 
 > Poškození kostí, které může způsobit bolest a deformace.
 > **Otevřené x Uzavřené **
@@ -425,7 +414,7 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Resuscitace**
+## Resuscitace
 
 > základní postup sloužící k rychlému a neprodlenému obnovení příjmu okysličené krve do mozku a dalších periferií lidského těla
 
@@ -444,7 +433,7 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
-**VYBAVENÍ SANITKY**
+## VYBAVENÍ SANITKY
 
 **Medibag**
 -       krční límec
@@ -488,7 +477,7 @@ Reflektor pro vyhledávání osob v terénu**
 
 
 
-**Intravenózní vstup**
+## Intravenózní vstup
 I.V. - intravenózně = zavedení léčiv, roztoků, krve přímo do žíly, nitrožilně
 
 
@@ -518,7 +507,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 
 
-**# Pojmy - Slovníček**
+## Pojmy - Slovníček**
 
 > **Fraktura**  - zlomenina kosti
 > **F.R.** - fyziologický roztok 
@@ -576,7 +565,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 
 
-**# Neodkladná první pomoc - základ**
+## Neodkladná první pomoc - základ**
 
 
 
@@ -602,7 +591,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 
 
-**# Studijní materiály - Základ pro EMT / Paramedics a vyšší pozice**
+## Studijní materiály - Základ pro EMT / Paramedics a vyšší pozice**
 
 **Analgosedace**
 Analgosedace je metoda, která se využívá za účelem úlevy od bolesti a pohodlnějšího provádění různých lékařských výkonů. Tato metoda je zvláště užitečná při intenzivní péči, kdy může být potřeba provádět nepříjemné zákroky, umělou plicní ventilaci nebo jiné invazivní postupy.
@@ -678,7 +667,7 @@ Nazogastrická sonda je hadička zavedená nosem do žaludku. Je určena k odvá
 https://media.discordapp.net/attachments/762807292172435456/1292563350961520711/image.png?ex=670430ed&is=6702df6d&hm=20c9460f2ddddcb969fdbfe06c8ab653cb126439449d372f8433fac2c8ad0bc3&=&format=webp&quality=lossless
 
 
-**# Studijní materialy - Základ pro doktory a vyšší pozice**
+## Studijní materialy - Základ pro doktory a vyšší pozice**
 **Celková anestezie**
 Celková anestezie je postup, který má za cíl vyřadit vědomí pacienta během chirurgických zákroků.
 
