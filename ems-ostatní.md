@@ -443,7 +443,7 @@ Odsávačka<br>
 Polohovatelná nosítka<br>
 Fixační deska<br>
 Transportní plachta<br>
-Přikrývka **<br>
+Přikrývka**<br>
 
 **2 tlakové lahve s kyslíkem o obsahu + masky<br>
 Fixační dlahy pro horní a dolní končetiny<br>
