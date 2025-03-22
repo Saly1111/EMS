@@ -58,16 +58,15 @@ sundání oblečení pro usnadnění přístupu k pacientovi (podle typu poraně
 
 ## MEDIKAMENTY
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### Analgetika:
 
-> **Fentanyl:**
+**Fentanyl:**
 > Fentanyl je syntetický opioid, který je asi 100krát silnější než morfin. Používá se při závažných chirurgických zákrocích a jako součást celkové anestezie kvůli rychlému nástupu účinku. Jeho trvání je krátké, a proto se často používá v kombinaci s jinými léky pro dlouhodobější analgezii.
 
-> **Sufentanil:**
+**Sufentanil:**
 > Sufentanil je vysoce účinný analgetikum, které je přibližně 5-7krát silnější než fentanyl. Používá se především v intenzivní péči a při chirurgických zákrocích (i.v. podání) pro rychlé a účinné tlumení bolesti.
 
-> **Morphin:**
+**Morphin:**
 > Morfin má široké spektrum účinků, včetně:
 > Analgetický účinek: Účinné tlumení bolesti.
 > Antinocicepční účinek: Tlumení nepříjemných vjemů.
@@ -75,13 +74,13 @@ sundání oblečení pro usnadnění přístupu k pacientovi (podle typu poraně
 > Anxiolytický účinek: Tlumení úzkosti.
 > Psychotropní účinek: Může zlepšit nebo zhoršit náladu, podle stavu pacienta.
 
-> **Tramadol / Vicodin:**
+**Tramadol / Vicodin:**
 > Tramadol je mírně účinný opioid, podobný kodeinu, ale asi 10krát slabší než orálně podaný morfin. Tramadol se obvykle podává ve formě tablet nebo kapek a jeho účinek trvá přibližně 6 hodin. Nedoporučuje se pro děti, starší osoby nebo při selhání jater či ledvin. Je vhodný pro léčbu pooperační bolesti.
 
-> **Apaurin (Diazepam):**
+**Apaurin (Diazepam):**
 > Apaurin je injekční roztok s koncentrací 10 mg/2 ml. Používá se k tlumení úzkosti a zklidnění pacientů, často při akutních stavech nebo před zákroky.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ###  Antipyretika:
 
 Antipyretika jsou léky, které slouží ke snížení tělesné teploty při horečce. Některá z těchto léků mají i analgetické účinky (tlumení bolesti) a některá také protizánětlivé vlastnosti. Používají se hlavně při infekcích, horečnatých stavech a bolestivých syndromech.
@@ -120,7 +119,7 @@ Antipyretika jsou léky, které slouží ke snížení tělesné teploty při ho
 > Dávkování: Obvykle 1 tableta každých 6 hodin, maximálně 4 tablety denně.
 > Poznámka: Riziko nežádoucích účinků na žaludek (vředy) nebo ledviny při dlouhodobém užívání.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ###  Hemostatika:
 Léky na zastavení krvácení – používají se k rychlému zastavení krvácení, a to buď lokálně nebo systémově.
 
@@ -141,8 +140,6 @@ Léky na zastavení krvácení – používají se k rychlému zastavení krvác
 
 
 
-
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ###  Antikoagulancia:
 Léky na snížení srážlivosti krve – předchází vzniku krevních sraženin.
 
@@ -158,7 +155,6 @@ Léky na snížení srážlivosti krve – předchází vzniku krevních sražen
 > Použití: Prevence a léčba žilní trombózy, embolií, často se používá při chirurgických zákrocích
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ###  Antiastmatika:
 Léky pro léčbu astmatu – rozšiřují průdušky a zlepšují dýchání.
 
@@ -166,7 +162,7 @@ Léky pro léčbu astmatu – rozšiřují průdušky a zlepšují dýchání.
 > Účinky: Relaxuje hladké svalstvo průdušek a zlepšuje proudění vzduchu. Zvyšuje srdeční výkon a zlepšuje dýchání.
 > Použití: Akutní astmatické záchvaty, bronchitida, chronická obstrukční plicní nemoc (CHOPN).
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ###  Hypnotika:
 Léky navozující spánek – používají se při nespavosti nebo pro přípravu na chirurgické zákroky.
 
@@ -179,8 +175,8 @@ Léky navozující spánek – používají se při nespavosti nebo pro přípra
 
 > Účinky: Silné hypnotikum, které navozuje spánek a zklidnění, má i mírné sedativní účinky.
 > Použití: Krátkodobá léčba těžké nespavosti. Užívá se jen v případech, kdy méně silné léky nefungují.
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**# Sedativa:**
+
+### Sedativa:
 Léky na zklidnění – působí proti úzkosti a napětí, aniž by navozovaly spánek.
 
 **Bellaspon**
@@ -190,7 +186,7 @@ Léky na zklidnění – působí proti úzkosti a napětí, aniž by navozovaly
 
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ###  Anestetika:
 Anestetika se dělí na celková a lokální. Celková anestetika se používají při vážnějších zraněních a operacích, zatímco lokální anestetika se využívají u lehčích zranění a drobných zákroků.
 
@@ -216,7 +212,7 @@ Používají se při ošetřování škrábanců a lehkých řezných ran.
 **Intravenózní anestetika:**
 Nejčastěji se používají při ošetřování střelných ran nebo větších tržných zranění. Anestetikum se vstřikuje přímo do okolí rány, obvykle subkutánně.
 > **Prokain: **Zavádí se injekčně, obvykle do podkoží nebo svalstva. Nástup je okamžitý, trvání závisí na dávce, většinou do 1 hodiny.
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ###  Antidota:
 Působí proti intoxikaci, zejména při předávkování opioidy.
 
@@ -234,16 +230,6 @@ Působí proti intoxikaci, zejména při předávkování opioidy.
 
 
 
-
-
-
-
-
-
-
-
-
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ###  Myorelaxancia:
 Myorelaxancia jsou látky, které uvolňují svalové křeče a vedou k jejich relaxaci. Jsou užitečné při zvládání bolestivých svalových spazmů a napětí.
 
@@ -260,8 +246,6 @@ Myorelaxancia jsou látky, které uvolňují svalové křeče a vedou k jejich r
 > Relaxace nastupuje postupně, nejprve v oblasti očí, prstů a jazyka, následně v končetinách, krku a svalech hrtanu.
 
 
-
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ###  Beta-blokátory:
 Beta-blokátory jsou léky, které zpomalují srdeční frekvenci a snižují krevní tlak. Jsou často využívány při léčbě srdečních arytmií a hypertenze.
 
@@ -274,14 +258,13 @@ Beta-blokátory jsou léky, které zpomalují srdeční frekvenci a snižují kr
 > Také se podávají opatrně pacientům se sníženou funkcí štítné žlázy.
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ###  Parasympatolytika:
 Parasympatolytika se používají k léčbě bradykardie (nízkého srdečního tepu).
 
 **Atropin:**
 > Dávkování: 0,25 - 1 mg.
 > Zvyšuje srdeční frekvenci a zlepšuje vedení vzruchů v srdci.
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ###  Kardiotonika:
 Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 
@@ -314,7 +297,7 @@ Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 - zatímco se řidič věnuje jízdě, jeho kolega komunikuje s přítomnými a snaží se zjistit co nejvíce jde. Kolik je zraněných, jaký typ zranění. Kde přesně se místo nachází. Je to důležité pro to, abychom ihned po příjezdu začali se záchranou a nezdržovali se hledáním a zjišťováním.
 **# Postupy**
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ## Šok
 
 > Šok je primárně porucha krevního oběhu, která vede k akutnímu nepoměru mezi potřebou a dodávkou okysličené krve tkáním.
@@ -325,7 +308,7 @@ Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 > - Podávejte IV tekutiny a léky podle potřeby.
 > - Přivolejte odbornou pomoc či zajistěte transport.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ## Bezvědomí
 
 > Ztráta vědomí, která může být způsobena různými faktory, včetně úrazů nebo intoxikace.
@@ -341,7 +324,7 @@ Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 > - Nepokoušejte se o kontrolu krvácení, pokud to není nezbytné; neodstraňujte žádná cizí tělesa.
 > - Přivolejte odbornou pomoc či zajistěte transport.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ##  Krvácení / krvácivé stavy
 
 > Ztráta krve, která může být externí nebo interní.
@@ -358,7 +341,7 @@ vlásečnicové -mírné, obvykle nepříliš vážné, po chvíli samo ustane (
 žilní - krev volně vytéká z rány, nutné ošetřit
 tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud nedojde k zastavení je možné vykrvácení
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ## Cizí těleso v těle
 
 > Objekt uvnitř těla, který může blokovat dýchací cesty nebo způsobit zranění.
@@ -368,7 +351,7 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 > - Monitorujte vitální funkce.
 
 
-**-------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ## Střelné rány
 
 > Rány způsobené střelnou zbraní, které mohou být vážné a způsobit interní zranění.
@@ -380,27 +363,27 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 > - rozeznává se u nich vstřel a prustřel 
 > - v případě průstřelu jsou rány primárně infikované, protože projektil zanáší mikroorganismy hluboko skrz tkáň
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ## Popáleniny
 
 > Poškození tkání způsobené teplem, chemikáliemi nebo elektrickým proudem.
 
 
-> **STUPNĚ** 
-> I | Zarudnutí 
-> IIa | Povrchové, tvoří se puchýře 
-> IIb | Hluboké, kůže je červená a bělává 
-> III. | Odumření tkáně, bílé či šedobílé zbarvení 
-> IV. | Zuhelnatění
+> **STUPNĚ** <br>
+> I | Zarudnutí <br>
+> IIa | Povrchové, tvoří se puchýře <br>
+> IIb | Hluboké, kůže je červená a bělává <br>
+> III. | Odumření tkáně, bílé či šedobílé zbarvení <br>
+> IV. | Zuhelnatění<br>
 
-> **I a II stupeň** není třeba lékařského zásahu kromě anestezie ve formě lidokain gelu, a aplikování chladících polštářků či mastí
-> **III stupeň** je nutné aplikovat chladící polštářky či antibakteriální obklady 
-> IV stupeň je nutné chirurgicky ošetřit 
-> **III & IV** - je třeba ošetření lékařem vždy a během ošetřování takto vážných zranění přistupujeme s maximální opatrností. 
-
-> • nikdy nedezinfikovat popáleniny 
-> • nikdy neobvazovat 
-> • pouze chladit
+> **I a II stupeň** není třeba lékařského zásahu kromě anestezie ve formě lidokain gelu, a aplikování chladících polštářků či mastí<br>
+> **III stupeň** je nutné aplikovat chladící polštářky či antibakteriální obklady <br>
+> IV stupeň je nutné chirurgicky ošetřit <br>
+> **III & IV** - je třeba ošetření lékařem vždy a během ošetřování takto vážných zranění přistupujeme s maximální opatrností. <br>
+<br>
+> • nikdy nedezinfikovat popáleniny <br>
+> • nikdy neobvazovat <br>
+> • pouze chladit<br>
 
 **--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ## Zlomeniny
@@ -436,43 +419,43 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 ## VYBAVENÍ SANITKY
 
 **Medibag**
--       krční límec
--       pulsní oxymetr
--       termoizolační fólie
--       jednorázové chirurgické rukavice
--       intubační sada (laryngoskop, endotracheální kanyly, Magillovy kleště, zavaděč do endotracheální kanyly, supraglotické pomůcky)
--       ambuvak
--       injekce
--       kanyly
--       stetoskop
--       glukometr
--       teploměr
--       dezinfekce
--       obvazový materiál
--       nůžky
--       skalpel
--       medikamenty
+-  krční límec<br>
+- pulsní oxymetr <br>
+-  termoizolační fólie<br>
+-  jednorázové chirurgické rukavice<br>
+- intubační sada (laryngoskop, endotracheální kanyly, Magillovy kleště, zavaděč do endotracheální kanyly, supraglotické pomůcky)<br>
+- ambuvak<br>
+- injekce<br>
+-  kanyly<br>
+-  stetoskop<br>
+-  glukometr<br>
+-  teploměr<br>
+-  dezinfekce<br>
+-  obvazový materiál<br>
+-  nůžky<br>
+- skalpel<br>
+- medikamenty <br>
 
-**Defibrilátor
-EKG
-Ventilátor pro plicní ventilaci
-Odsávačka
-Polohovatelná nosítka
-Fixační deska
-Transportní plachta
-Přikrývka**
+**Defibrilátor<br>
+EKG<br>
+Ventilátor pro plicní ventilaci<br>
+Odsávačka<br>
+Polohovatelná nosítka<br>
+Fixační deska<br>
+Transportní plachta<br>
+Přikrývka **<br>
 
-**2 tlakové lahve s kyslíkem o obsahu + masky
-Fixační dlahy pro horní a dolní končetiny
-Pohotovostní porodní souprava
-Vakuová matrace
-Fólie nebo vak pro zemřelé
-Zařízení pro ohřev infuzí
-Vrtačka pro intraoseální vstup
-Souprava pro hrudní punkci
-Jednorázové emitní misky
-Ochranný oblek proti infekci
-Reflektor pro vyhledávání osob v terénu**
+**2 tlakové lahve s kyslíkem o obsahu + masky<br>
+Fixační dlahy pro horní a dolní končetiny<br>
+Pohotovostní porodní souprava<br>
+Vakuová matrace<br>
+Fólie nebo vak pro zemřelé<br>
+Zařízení pro ohřev infuzí<br>
+Vrtačka pro intraoseální vstup<br>
+Souprava pro hrudní punkci<br>
+Jednorázové emitní misky<br>
+Ochranný oblek proti infekci<br>
+Reflektor pro vyhledávání osob v terénu**<br>
 
 
 
@@ -482,25 +465,25 @@ I.V. - intravenózně = zavedení léčiv, roztoků, krve přímo do žíly, nit
 
 
 
-**Zavedení intravenózního (IV) vstupu: **
+**Zavedení intravenózního (IV) vstupu:**
 
-**Příprava: **
+**Příprava:**
 Umyjte si ruce a oblečte si sterilní rukavice. 
 Připravte si potřebné vybavení: IV katétr, antiseptický prostředek, sterilní obvazy a bandáže, a infuzní roztok. 
 
-**Výběr místa: **
+**Výběr místa:**
 Vyberte vhodnou žílu (nejčastěji v oblasti paže nebo ruky). Zkontrolujte, zda je žíla dobře prohmatatelná a vizuálně viditelná, v případě že žíla není vizualně dobře viditelná je možno užít kupříkladu latexového škrtidla.  
 
-**Dezinfekce: **
+**Dezinfekce:**
 Dezinfikujte místo vpichu antiseptickým prostředkem a nechte zaschnout. 
 
-**Zavedení katétru: **
+**Zavedení katétru:**
 Uchopte jehlu katétru a jemně ji zaveďte do žíly pod úhlem přibližně 15-30 stupňů. Jakmile pocítíte „píchnutí“ a uvidíte návrat krve do katétru, opatrně posuňte katétr dál a jehlu vyjměte. 
 
-**Kontrola: **
+**Kontrola:**
 Ujistěte se, že katétr je správně umístěn a není v kontaktu s okolními tkáněmi. Připojte infuzní roztok a nastavte rychlost infuze podle potřeby. 
 
-**Fixace **
+**Fixace**
 Katétr pevně zafixujte obvazem a ujistěte se, že je na místě. 
 Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
@@ -509,59 +492,46 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 ## Pojmy - Slovníček**
 
-> **Fraktura**  - zlomenina kosti
-> **F.R.** - fyziologický roztok 
-> **Rouškování **- zakrytí okolí zranění, přičemž zůstane odhalené pouze zranění samotné
-> **Tracheostomie**  - je stav, kdy je průdušnice uměle vyvedena na povrch těla - většinou proříznutím krku v místě, kde přechází v trup (zákrok je nazýván tracheostomie)
-> **Pneumotorax** (PNO) - nahromadění vzduchu, či jiného plynu v dutině obklopující plíce, většinou způsobuje zhroucení plíce - odstraňuje se odsátím vzduchu punkční jehlou v oblasti 2. mezižebří
-> **Hemothorax** - přítomnost krve v pleurální dutině - dutině obklopující plíce, načež provedeme drenáž.
-> **Kanyla** - jehla s hadičkou, používá se při zavádění i.v. či i.o. vstupu, podávají se skrz ni roztoky, krev, či léky
+> **Fraktura**  - zlomenina kosti<br>
+> **F.R.** - fyziologický roztok <br>
+> **Rouškování **- zakrytí okolí zranění, přičemž zůstane odhalené pouze zranění samotné<br>
+> **Tracheostomie**  - je stav, kdy je průdušnice uměle vyvedena na povrch těla - většinou proříznutím krku v místě, kde přechází v trup (zákrok je nazýván tracheostomie)<br>
+> **Pneumotorax** (PNO) - nahromadění vzduchu, či jiného plynu v dutině obklopující plíce, většinou způsobuje zhroucení plíce - odstraňuje se odsátím vzduchu punkční jehlou v oblasti 2. mezižebří<br>
+> **Hemothorax** - přítomnost krve v pleurální dutině - dutině obklopující plíce, načež provedeme drenáž.<br>
+> **Kanyla** - jehla s hadičkou, používá se při zavádění i.v. či i.o. vstupu, podávají se skrz ni roztoky, krev, či léky<br>
 > 
-> **Celková anestetika** - reverzibilní stav (Pacient není při vědomí, užití během operací)
-> **Lokální anestetika** - lokálně umrtvíte část těla (můžete ošetřovat, užití během menších úkonů)
+> **Celková anestetika** - reverzibilní stav (Pacient není při vědomí, užití během operací)<br>
+> **Lokální anestetika** - lokálně umrtvíte část těla (můžete ošetřovat, užití během menších úkonů)<br>
 
 
-> **Resekce** - odstranění části orgánu
-> **Amputace** - odstranění ruky, nohy, prsu apod. = odstranění nějaké vnější části těla
-> **Sutura** - steh nebo šití
-> **Polytrauma **- postižení nejméně dvou orgánových systémů, z nichž alespoň jeden ohrožuje pacienta na životě
-> **Obstrukce** - neprůchodnost (např. dýchacích cest)
-> **Arytmie **- nepravidelná srdeční frekvence
-> **Diabetes** - cukrovka
+> **Resekce** - odstranění části orgánu<br>
+> **Amputace** - odstranění ruky, nohy, prsu apod. = odstranění nějaké vnější části těla<br>
+> **Sutura** - steh nebo šití<br>
+> **Polytrauma **- postižení nejméně dvou orgánových systémů, z nichž alespoň jeden ohrožuje pacienta na životě<br>
+> **Obstrukce** - neprůchodnost (např. dýchacích cest)<br>
+> **Arytmie **- nepravidelná srdeční frekvence<br>
+> **Diabetes** - cukrovka<br>
 
-> **Diagnóza** - stanovení onemocnění
-> **Hypertenze** - vysoký krevní tlak - 160/90
-> **Hypotenze** -  nízký krevní tlak - 100/60 
-> **Tachykardie** - vysoký tep -  nad 90  
-> **Bradykardie** - nízký tep - pod 40
-
-
-**Anamnézy**
--       Nynější onemocnění - NO
--      Osobní anamnéza - OA
--       Rodinná anamnéza - RA
--       Farmakologická anamnéza - FA
--       Toxikologická anamnéza - TA
--       Alergická anamnéza - AA
--       Gynekologická anamnéza - GA
--       Pracovní anamnéza - PA
--       Sociální anamnéza - SA
-
+> **Diagnóza** - stanovení onemocnění<br>
+> **Hypertenze** - vysoký krevní tlak - 160/90<br>
+> **Hypotenze** -  nízký krevní tlak - 100/60 <br>
+> **Tachykardie** - vysoký tep -  nad 90  <br>
+> **Bradykardie** - nízký tep - pod 40<br>
 
 
 
 **Vstupy**
 
-> **I.V.** - intravenózně = zavedení léčiv, roztoků, krve přímo do žíly, nitrožilně
-> **I.O.** - intraoseálně = zavedení léčiv, roztoků, krve navrtáním kosti - omezená doba používání vstupu je 6 - 12 hodin, zavádí se pomocí vrtačky (většinou do ramene), rychlejší nástup účinku léků
-> **I.M.** - intramuskulárně - zavedení léčiv do svalu
-> **I.D. **- intradermálně -  do kůže - použití např. při lokální anestezii
+> **I.V.** - intravenózně = zavedení léčiv, roztoků, krve přímo do žíly, nitrožilně<br>
+> **I.O.** - intraoseálně = zavedení léčiv, roztoků, krve navrtáním kosti - omezená doba používání vstupu je 6 - 12 hodin, zavádí se pomocí vrtačky (většinou do ramene), rychlejší nástup účinku léků<br>
+> **I.M.** - intramuskulárně - zavedení léčiv do svalu<br>
+> **I.D. **- intradermálně -  do kůže - použití např. při lokální anestezii<br>
 
-> **Diagnóza** - stanovení onemocnění
-> **Hypertenze** - vysoký krevní tlak - 160/90
-> **Hypotenze** -  nízký krevní tlak - 100/60 
-> **Tachykardie** - vysoký tep -  nad 90  
-> **Bradykardie** - nízký tep - pod 40
+> **Diagnóza** - stanovení onemocnění<br>
+> **Hypertenze** - vysoký krevní tlak - 160/90<br>
+> **Hypotenze** -  nízký krevní tlak - 100/60 <br>
+> **Tachykardie** - vysoký tep -  nad 90  <br>
+> **Bradykardie** - nízký tep - pod 40<br>
 
 
 
@@ -601,7 +571,7 @@ Analgosedace je metoda, která se využívá za účelem úlevy od bolesti a poh
 **Postup:**
 > Podávání analgetik (léky proti bolesti) a sedativ (léky na uklidnění) ke zajištění pohodlí pacienta.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 **Umělá plicní ventilace**
 Umělá plicní ventilace je proces, při kterém se pacientovi zajišťuje dostatečný přívod kyslíku pomocí dýchacího přístroje, známého jako ventilátor. Tato metoda se používá u pacientů, kteří mají problémy s dýcháním nebo potřebují podporu dýchání během chirurgických zákroků.
 
@@ -610,7 +580,7 @@ Umělá plicní ventilace je proces, při kterém se pacientovi zajišťuje dost
 > Udržení adekvátní hladiny kyslíku v krvi.
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 
 **Intubace**
 Intubace je procedura, při které se zavádí trubice (rourka) přes ústa do průdušnice pacienta. Tento zákrok se provádí za účelem zajištění umělé plicní ventilace a pomáhá udržet dýchací cesty otevřené.
@@ -624,7 +594,7 @@ Během tohoto úkonu jest záhodno podat vhodné medikamenty:
 > Pacient s intubovanou trubicí nemůže mluvit.
 > Zajišťuje potřebnou ventilaci během zákroků nebo v kritických stavech.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 **Extubace**
 Extubace je proces vytažení trubice z průdušnice. Tento úkon se provádí, když je pacient plně při vědomí a schopen samostatně dýchat a efektivně vykašlávat.
 
@@ -632,7 +602,7 @@ Extubace je proces vytažení trubice z průdušnice. Tento úkon se provádí, 
 > Pacient je stabilní a jeho životní funkce jsou adekvátní.
 > Schopnost samostatného dýchání.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 **Tracheostomie**
 Tracheostomie je chirurgický zákrok, při kterém je do průdušnice zavedena trubice přes malý otvor na krku. Tento zákrok se provádí, když je potřeba dlouhodobé zajištění dýchacích cest.
 
@@ -641,7 +611,7 @@ Tracheostomie je chirurgický zákrok, při kterém je do průdušnice zavedena 
 > Po odstranění trubice se většinou otvor sám zahojí.
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 **Monitor / Lifepack**
 Monitor je přístroj určený k neustálému sledování životních funkcí pacienta, jako jsou krevní tlak, srdeční tep, kvalita dýchání a další důležité parametry.
 
@@ -649,14 +619,14 @@ Monitor je přístroj určený k neustálému sledování životních funkcí pa
 > Poskytování okamžitého přehledu o zdravotním stavu pacienta.
 > Umožňuje lékařům a zdravotnickému personálu rychle reagovat na změny v pacientově stavu
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 **Centrální žilní katetr**
 Centrální žilní katetr je hadička , která je zavedena do velké žíly (např. na krku, pod klíčkem nebo v třísle). Slouží k podávání infuzí, léků pacientům.
 
 **Využití:**
 > Zajištění dlouhodobého přístupu k žilnímu systému pro léčbu.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 **Nazogastrická sonda**
 Nazogastrická sonda je hadička zavedená nosem do žaludku. Je určena k odvádění sekretů ze žaludku a podávání výživy, zejména u pacientů, kteří nejsou schopni se stravovat normálně.
 
@@ -671,7 +641,7 @@ https://media.discordapp.net/attachments/762807292172435456/1292563350961520711/
 **Celková anestezie**
 Celková anestezie je postup, který má za cíl vyřadit vědomí pacienta během chirurgických zákroků.
 
-**Postup:**
+### Postup:
 > Kanylace periferní žíly - zavedení kanyly do žíly.
 > Navodění bezvědomí - aplikace anestetik intravenózně (i.v.) pro vyvolání bezvědomí.
 > Zajištění dýchacích cest - provedení intubace pro zajištění správné ventilace.
@@ -680,7 +650,7 @@ Celková anestezie je postup, který má za cíl vyřadit vědomí pacienta běh
 > Ukončení anestezie - vyvedení pacienta z bezvědomí přerušením přívodu anestetik.
 
 
-**Druhy anestetik:**
+### Druhy anestetik:**
 > - Barbiturátové (např. thiopental, methohexital) – krátkodobý účinek.
 > - Nebarbiturátové (např. propofol, midazolam, etomidát, ketamin).
 > - Inhalační (např. oxid dusný, isofluran, sevofluran, halothan, xenon).
@@ -691,8 +661,8 @@ Celková anestezie je postup, který má za cíl vyřadit vědomí pacienta běh
 > Poškození zubů a bolest v krku.
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Otřes mozku**
+
+### Otřes mozku
 Otřes mozku, neboli komoce, je krátkodobá úrazová porucha centrální nervové soustavy (CNS).
 
 **Anamnéza:**
@@ -711,10 +681,10 @@ Otřes mozku, neboli komoce, je krátkodobá úrazová porucha centrální nervo
 > Pracovní neschopnost 7-14 dní, případně až 3 týdny.
 
 
-**Postkomoční syndrom:**
+### Postkomoční syndrom:
 > Pozdní následky, jako jsou bolest hlavy, poruchy spánku a pozornosti.
 
-**Zlomeniny horních a dolních končetin**
+### Zlomeniny horních a dolních končetin
 Zlomeniny se nejčastěji vyskytují při úrazech a autonehodách.
 
 **Anamnéza:**
@@ -733,7 +703,7 @@ Zlomeniny se nejčastěji vyskytují při úrazech a autonehodách.
 > Sádrová fixace nebo operační léčba při komplikovaných zlomeninách
 
 
-**Zlomenina klíční kosti**
+### Zlomenina klíční kosti
 Zlomenina klíční kosti je často způsobena pádem na rameno.
 
 **Anamnéza:**
@@ -745,9 +715,9 @@ Zlomenina klíční kosti je často způsobena pádem na rameno.
 **Léčba:**
 > Konzervativní přístup (obvazování) nebo operativní (K-drát, šroub).
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
-**Luxace ramenního kloubu**
+
+### Luxace ramenního kloubu**
 Luxace ramenního kloubu vzniká nejčastěji nepřímým násilím.
 
 **Anamnéza:**
@@ -762,9 +732,9 @@ Luxace ramenního kloubu vzniká nejčastěji nepřímým násilím.
 **Léčba:**
 > Konzervativní repoziční manévry nebo operační řešení.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
-**Zlomeniny nosu**
+
+### Zlomeniny nosu
 Zlomeniny nosu jsou způsobeny mechanickou silou, např. při rvačkách.
 
 **Anamnéza:**
@@ -776,8 +746,8 @@ Zlomeniny nosu jsou způsobeny mechanickou silou, např. při rvačkách.
 **Léčba:**
 > Nezávažné zlomeniny se sledují, vážnější vyžadují manuální repozici nebo chirurgické řešení.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
-**Zlomeniny žeber**
+
+### Zlomeniny žeber
 > Zlomeniny žeber vznikají při úrazech nebo pádech.
 
 **Anamnéza:**
@@ -795,9 +765,9 @@ Zlomeniny nosu jsou způsobeny mechanickou silou, např. při rvačkách.
 **Léčba:**
 > Konzervativní (bandáž) nebo operační u nestabilních zlomenin.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
-**Hemothorax**
+
+### Hemothorax
 Hemothorax vzniká při úrazech hrudníku a může způsobit dechovou nedostatečnost.
 
 **Anamnéza:**
@@ -813,9 +783,9 @@ Hemothorax vzniká při úrazech hrudníku a může způsobit dechovou nedostate
 **Léčba:**
 > Punkce a drenáž, v případě velkých ztrát torakotomie - chirurgické otevření hrudní dutiny, oxygenterapie
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
-**Pneumothorax**
+
+### Pneumothorax
 Pneumothorax je stav, kdy dojde k proniknutí vzduchu do pleurální dutiny, což způsobuje kolaps plic.
 
 **Anamnéza:**
@@ -828,7 +798,8 @@ Pneumothorax je stav, kdy dojde k proniknutí vzduchu do pleurální dutiny, co�
 > Punkce a drenáž v případě velkého pneumothoraxu, oxygenterapie, chestseal v případě otevřeného pneumothoraxu.
 
 
+
 Vypracoval Oliver Morningstar M.D. & George Salywen M.D.
-©Copyright 2022-2025, Všechna práva rezervována. Žádná část této publikace nesmí být bez předchozího písemného souhlasu vydavatele reprodukována, šířena nebo přenášena v jakékoli formě nebo jakékoliv prostředky, včetně kopírování, nahrávání nebo jiných elektronických nebo mechanických metod. By: Saly#2008 / Saly1111
+©Copyright 2022-2025, Všechna práva rezervována. Žádná část této publikace nesmí být bez předchozího písemného souhlasu vydavatele reprodukována, šířena nebo přenášena v jakékoli formě nebo jakékoliv prostředky, včetně kopírování, nahrávání nebo jiných elektronických nebo mechanických metod. By: 
 
 
