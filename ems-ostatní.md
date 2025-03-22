@@ -281,7 +281,7 @@ Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 > Dávka u dospělého člověka: 0,5 - 1 mcg za minutu, opět závisí na hodnotách krevního tlaku.
 
 
-## Postupy - základ**
+## Postupy - základ
 
 **Informace** 
 - nejdříve zjistíme, co se děje. Vždy je dobré vědět k čemu jedeme. Ať už informace o pacientovi (zranění, jak se to stalo apod.), tak i informace o situaci na místě, zvláště u přestřelky.
@@ -385,7 +385,7 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 > • nikdy neobvazovat <br>
 > • pouze chladit<br>
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ## Zlomeniny
 
 > Poškození kostí, které může způsobit bolest a deformace.
@@ -396,7 +396,7 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 > - Přivolejte lékařskou pomoc či zajistěte transport.
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 ## Resuscitace
 
 > základní postup sloužící k rychlému a neprodlenému obnovení příjmu okysličené krve do mozku a dalších periferií lidského těla
@@ -414,7 +414,7 @@ tepenné - jasně červená krev vystřikující z rány v rytmu tepu, pokud ned
 
 
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 
 ## VYBAVENÍ SANITKY
 
@@ -490,7 +490,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 
 
-## Pojmy - Slovníček**
+## Pojmy - Slovníček
 
 > **Fraktura**  - zlomenina kosti<br>
 > **F.R.** - fyziologický roztok <br>
@@ -535,7 +535,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 
 
-## Neodkladná první pomoc - základ**
+## Neodkladná první pomoc - základ
 
 
 
@@ -561,7 +561,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 
 
-## Studijní materiály - Základ pro EMT / Paramedics a vyšší pozice**
+## Studijní materiály - Základ pro EMT / Paramedics a vyšší pozice
 
 **Analgosedace**
 Analgosedace je metoda, která se využívá za účelem úlevy od bolesti a pohodlnějšího provádění různých lékařských výkonů. Tato metoda je zvláště užitečná při intenzivní péči, kdy může být potřeba provádět nepříjemné zákroky, umělou plicní ventilaci nebo jiné invazivní postupy.
@@ -637,7 +637,7 @@ Nazogastrická sonda je hadička zavedená nosem do žaludku. Je určena k odvá
 https://media.discordapp.net/attachments/762807292172435456/1292563350961520711/image.png?ex=670430ed&is=6702df6d&hm=20c9460f2ddddcb969fdbfe06c8ab653cb126439449d372f8433fac2c8ad0bc3&=&format=webp&quality=lossless
 
 
-## Studijní materialy - Základ pro doktory a vyšší pozice**
+## Studijní materialy - Základ pro doktory a vyšší pozice
 **Celková anestezie**
 Celková anestezie je postup, který má za cíl vyřadit vědomí pacienta během chirurgických zákroků.
 
