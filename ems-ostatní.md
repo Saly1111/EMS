@@ -586,9 +586,9 @@ Umělá plicní ventilace je proces, při kterém se pacientovi zajišťuje dost
 Intubace je procedura, při které se zavádí trubice (rourka) přes ústa do průdušnice pacienta. Tento zákrok se provádí za účelem zajištění umělé plicní ventilace a pomáhá udržet dýchací cesty otevřené.
 
 Během tohoto úkonu jest záhodno podat vhodné medikamenty:
-> **Rocuronium **| rokuronium-bromid | 1 mg/kg | M 80 kg - 80 mg (cca 1,5 ampule)
-> **Apaurin** (aka [Apač]) | diazepam | 0,4 mg/kg | M 80 kg - 30 mg (2-3 ampule)
-> **Calypsol** | ketamin | 4 mg/kg | M 80 kg - 320 mg (cca 3/5 lahvicky)
+> **Rocuronium**| rokuronium-bromid | 1 mg/kg | M 80 kg - 80 mg (cca 1,5 ampule)<br>
+> **Apaurin** (aka [Apač]) | diazepam | 0,4 mg/kg | M 80 kg - 30 mg (2-3 ampule)<br>
+> **Calypsol** | ketamin | 4 mg/kg | M 80 kg - 320 mg (cca 3/5 lahvicky)<br>
 
 **Důsledky:**
 > Pacient s intubovanou trubicí nemůže mluvit.
