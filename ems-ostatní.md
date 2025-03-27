@@ -650,7 +650,7 @@ Celková anestezie je postup, který má za cíl vyřadit vědomí pacienta běh
 > Ukončení anestezie - vyvedení pacienta z bezvědomí přerušením přívodu anestetik.
 
 
-### Druhy anestetik:**
+### Druhy anestetik:
 > - Barbiturátové (např. thiopental, methohexital) – krátkodobý účinek.
 > - Nebarbiturátové (např. propofol, midazolam, etomidát, ketamin).
 > - Inhalační (např. oxid dusný, isofluran, sevofluran, halothan, xenon).
@@ -791,7 +791,7 @@ Pneumothorax je stav, kdy dojde k proniknutí vzduchu do pleurální dutiny, co�
 **Anamnéza:**
 > Bolest na hrudi, dušnost, kašel. kolaps plíce, Laterální (jednostranné) dýchaní,  deviace tracheji.
 
-**Diagnóza**:
+**Diagnóza:**
 > RTG hrudníku, Oxymetr.
 
 **Léčba:**
@@ -799,7 +799,6 @@ Pneumothorax je stav, kdy dojde k proniknutí vzduchu do pleurální dutiny, co�
 
 
 
-Vypracoval Oliver Morningstar M.D. & George Salywen M.D.
 ©Copyright 2022-2025, Všechna práva rezervována. Žádná část této publikace nesmí být bez předchozího písemného souhlasu vydavatele reprodukována, šířena nebo přenášena v jakékoli formě nebo jakékoliv prostředky, včetně kopírování, nahrávání nebo jiných elektronických nebo mechanických metod. By: 
 
 
