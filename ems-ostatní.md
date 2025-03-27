@@ -228,7 +228,7 @@ Působí proti intoxikaci, zejména při předávkování opioidy.
 3) Eliminace xenobiotika z organismu (navození zvracení či výplach žaludku, hemodyalýza)
 4) Detoxikace xenobiotik – Antidota (Živočišné uhlí)
 
-
+![antidota](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1292498893883445320/image.png?ex=67e6b6e5&is=67e56565&hm=638eacaa680f7066ff87716940548b0cb104f33bfe1f256f039b8c03aa54b278&=&format=webp&quality=lossless)
 
 ###  Myorelaxancia:
 Myorelaxancia jsou látky, které uvolňují svalové křeče a vedou k jejich relaxaci. Jsou užitečné při zvládání bolestivých svalových spazmů a napětí.
@@ -288,7 +288,7 @@ Kardiotonika podporují srdeční svalovinu a zvyšují jeho výkonnost.
 
 **Výběr správného vozu** 
 - Výjezdový vůz vždy používáme pouze ten který nám byl přidělen s volacím znakem. 
-- Jiné vozy lze využít na základě oprávnění v #:pushpin:│samostatné-zaučení
+- Jiné vozy lze využít na základě oprávnění 
 
 **Bezpečná jízda** 
 - jedeme rychle, ale bezpečně. A vždy se zapnutými majáky - Kód 2 či Kód 3 - sirény a majáky.
@@ -537,12 +537,12 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 ## Neodkladná první pomoc - základ
 
-
+![npp](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1299440856100634636/image.png?ex=67e642da&is=67e4f15a&hm=6d848ba9d38cdf754446461462fae3b83af49237a9c0280d5a9eff60fb94ec6d&=&format=webp&quality=lossless)
 
 **Stabilizovaná poloha**
 > zajištuje průchodnost dýchacích cest, umožnuje volné dýchání, vyčištění horníchdýchacích cest a zamezuje případnému vdechnutí zvratků.
 
-
+![stp](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1299441003769630763/image.png?ex=67e642fd&is=67e4f17d&hm=dd87217f3db80a0d94cace4a53f8741dc80f9ba557c74e59b3154b676ee286c2&=&format=webp&quality=lossless)
 
 
 
@@ -555,9 +555,13 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 > Každých **30 stlačení** provádíme **2 vdechy** za použití **ambuvaku** jenž nasadíme na ústa.
 
+![jpr](https://cdn.tror.eu/proxy/https://cdn.discordapp.com/attachments/1299439903616012309/1299441053815935058/image.png?ex=67e64309&is=67e4f189&hm=3c7b1ecaa8c536abc1700bca937432b9c35fae712244c9acb8fedda17b30a6c1&format=webp&quality=lossless)
+
 **Šok a pravidlo 5T**
 
 Šok je primárně porucha krevního oběhu, která vede k akutnímu nepoměru mezi potřebou a dodávkou okysličené krve tkáním.
+
+![5t](https://cdn.tror.eu/proxy/https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1299441250474262679/image.png?ex=67e64338&is=67e4f1b8&hm=6a191cd262e0e766adf7651224df17bc3e1eb584728f151e7a949ddf28497135&=&format=webp&quality=lossless)
 
 
 
@@ -634,7 +638,7 @@ Nazogastrická sonda je hadička zavedená nosem do žaludku. Je určena k odvá
 > Umožňuje dodávat výživu přímo do žaludku.
 > Pomáhá s odvodněním žaludku a snižuje riziko aspirace.
 
-https://media.discordapp.net/attachments/762807292172435456/1292563350961520711/image.png?ex=670430ed&is=6702df6d&hm=20c9460f2ddddcb969fdbfe06c8ab653cb126439449d372f8433fac2c8ad0bc3&=&format=webp&quality=lossless
+![vasos](https://cdn.tror.eu/proxy/[https://media.discordapp.net/attachments/762807292172435456/1292563350961520711/image.png?ex=670430ed&is=6702df6d&hm=20c9460f2ddddcb969fdbfe06c8ab653cb126439449d372f8433fac2c8ad0bc3&=&format=webp&quality=lossless](https://media.discordapp.net/attachments/762807292172435456/1292563350961520711/image.png?ex=67e64a2d&is=67e4f8ad&hm=fb7254becd5f2913c87124758e37e5d28595bb589a4e6059ef6ccf58b505b856&=&format=webp&quality=lossless))
 
 
 ## Studijní materialy - Základ pro doktory a vyšší pozice
@@ -765,6 +769,8 @@ Zlomeniny nosu jsou způsobeny mechanickou silou, např. při rvačkách.
 **Léčba:**
 > Konzervativní (bandáž) nebo operační u nestabilních zlomenin.
 
+![zebro](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1292507260517486653/image.png?ex=67e6beb0&is=67e56d30&hm=31b82dd06e447a0a43794e6de5062278ecfc78a62d87adf2bf9c23b65124a523&=&format=webp&quality=lossless)
+
 
 
 ### Hemothorax
@@ -796,6 +802,8 @@ Pneumothorax je stav, kdy dojde k proniknutí vzduchu do pleurální dutiny, co�
 
 **Léčba:**
 > Punkce a drenáž v případě velkého pneumothoraxu, oxygenterapie, chestseal v případě otevřeného pneumothoraxu.
+
+![pneumo](https://cdn.tror.eu/proxy/https://cdn.discordapp.com/attachments/1299439903616012309/1299441953129365656/image.png?ex=67e643e0&is=67e4f260&hm=0cca4b8fd25a5b30353d6b0f732f40418c2f4e6f9801951d93df0daedb979075&format=webp&quality=lossless)
 
 
 
