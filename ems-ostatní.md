@@ -561,7 +561,7 @@ Pravidelně kontrolujte místo vpichu a průchodnost katétru.
 
 Šok je primárně porucha krevního oběhu, která vede k akutnímu nepoměru mezi potřebou a dodávkou okysličené krve tkáním.
 
-![5t](https://cdn.tror.eu/proxy/https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1299441250474262679/image.png?ex=67e64338&is=67e4f1b8&hm=6a191cd262e0e766adf7651224df17bc3e1eb584728f151e7a949ddf28497135&=&format=webp&quality=lossless)
+![5t](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1354872755954389002/image.png?ex=67e6df15&is=67e58d95&hm=0b0c5b24ca052da2057c217d8c407b809fa6333a7a17791e46ba8d4fa58b4227&=&format=webp&quality=lossless)
 
 
 
@@ -638,7 +638,7 @@ Nazogastrická sonda je hadička zavedená nosem do žaludku. Je určena k odvá
 > Umožňuje dodávat výživu přímo do žaludku.
 > Pomáhá s odvodněním žaludku a snižuje riziko aspirace.
 
-![vasos](https://cdn.tror.eu/proxy/[https://media.discordapp.net/attachments/762807292172435456/1292563350961520711/image.png?ex=670430ed&is=6702df6d&hm=20c9460f2ddddcb969fdbfe06c8ab653cb126439449d372f8433fac2c8ad0bc3&=&format=webp&quality=lossless](https://media.discordapp.net/attachments/762807292172435456/1292563350961520711/image.png?ex=67e64a2d&is=67e4f8ad&hm=fb7254becd5f2913c87124758e37e5d28595bb589a4e6059ef6ccf58b505b856&=&format=webp&quality=lossless))
+![vasos](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/1299439903616012309/1354872123276918805/image.png?ex=67e6de7e&is=67e58cfe&hm=d5ae118f4918d319465f91b534758553fe1a416a09d7facd9e4c55ae4b395b26&=&format=webp&quality=lossless)
 
 
 ## Studijní materialy - Základ pro doktory a vyšší pozice
@@ -764,12 +764,9 @@ Zlomeniny nosu jsou způsobeny mechanickou silou, např. při rvačkách.
 > Segmentované, sériové nebo dvířkové zlomeniny.
 
 **První pomoc:**
-> Opioidní analgetika a Fowlerova poloha. https://media.discordapp.net/attachments/762807292172435456/1292507260517486653/image.png?ex=6703fcb0&is=6702ab30&hm=e26c2a9af0cce153eaa494e11073bb55fc60f6a48fc0722145c7d87696f9e46a&=&format=webp&quality=lossless&width=550&height=223
-
+> Opioidní analgetika a Fowlerova poloha. 
 **Léčba:**
 > Konzervativní (bandáž) nebo operační u nestabilních zlomenin.
-
-![zebro](https://cdn.tror.eu/proxy/https://media.discordapp.net/attachments/762807292172435456/1292507260517486653/image.png?ex=67e6beb0&is=67e56d30&hm=31b82dd06e447a0a43794e6de5062278ecfc78a62d87adf2bf9c23b65124a523&=&format=webp&quality=lossless)
 
 
 
